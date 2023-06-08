@@ -8,14 +8,15 @@ records of a relation are divided (or decluttered) among many nodes, such that s
 ## <u>Partitioning Techniques</u>
 - ### Round Robin
 	- Scan relation
-	 - Send i'th relation to the node N ((i-1)%n + 1)
+	 - Send i'th relation to the node $N_((i-1)mod n + 1)$
 - ### Hash Partitioning
 	- choose hash function in range (1,n)
 	- if hash returns i, send the i'th record to Ni
 - ### Range Partitioning
-	- Let partition vector be \[v1,v2,v3,v4..., vn\]
-	- if i < j => vi < vj
-	- Let x be the partitioning attribute (A) value of a record, t\[A\] = x. If x < v1,, then t goes on node N1 . If x >= vn-1 , t goes on node Nn . If vi <= x < vi+1, then t goes on node N
+	- Let partition vector be $[v1,v2,v3,v4..., vn]$
+	- if $i < j => vi < vj$
+	- 
+	- Let x be the partitioning attribute (A) value of a record, t\[A\] = x. If $x < v1$, then t goes on node N1 . If $x >= vn-1$ , t goes on node Nn . If $vi <= x < vi+1$, then t goes on node N
 	- ![[Pasted image 20230609025913.png | 600]]
 
 
@@ -127,3 +128,5 @@ records of a relation are divided (or decluttered) among many nodes, such that s
 ## Basic Architecture
 ![[Pasted image 20230609051903.png]]
 
+### HADOOP File System (HDFS)
+![[Pasted image 20230609054008.png]]
