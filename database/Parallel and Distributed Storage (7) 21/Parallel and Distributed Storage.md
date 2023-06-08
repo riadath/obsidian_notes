@@ -141,4 +141,8 @@ records of a relation are divided (or decluttered) among many nodes, such that s
 - Central master becomes bottleneck
 - File system directory overhead per file
 - File system do not provide consistency guarantee
-- 
+
+## <u>Data Storage System vs Databases</u>
+
+![[Pasted image 20230609054631.png]]
+
