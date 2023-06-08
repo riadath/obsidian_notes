@@ -130,3 +130,15 @@ records of a relation are divided (or decluttered) among many nodes, such that s
 
 ### HADOOP File System (HDFS)
 ![[Pasted image 20230609054008.png]]
+- HDFS is modeled after GFS (Google file system)
+- Data Coherency
+	- 'Write once ready many' access model
+	- Client can only append to existing files
+- Client : Finds location of  blocks form NameNode, Accesses data directly from DataNode
+
+
+### <u>Limitations of HDFS</u>
+- Central master becomes bottleneck
+- File system directory overhead per file
+- File system do not provide consistency guarantee
+- 
