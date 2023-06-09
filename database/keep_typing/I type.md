@@ -174,3 +174,8 @@ Star schema with multiple levels of dimension tables
 ### Finding Association using apriori algorithm
 - Find all frequent itemsets
 - Generate strong association rules from the frequent itemsets found that have minimum confidence.
+
+
+
+# <u>Query Processing Formulas</u>
+Linear Search : $t_s + b_r * t_t$
