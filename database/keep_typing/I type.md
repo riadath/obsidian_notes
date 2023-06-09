@@ -160,4 +160,14 @@ Star schema with multiple levels of dimension tables
 
 
 # <u>Data Mining</u>
-- The process of s
+- The process of semi-automatically analyzing large databases to find useful patterns.
+### <u>Application of data mining</u>
+- Prediction 
+- Association
+
+### <u>Support</u>
+- Support is a measure of what percentage of the population satisfies both the antecedent and the consequent of the rule.
+- **Minimum Support(minsup)**: An itemset satisfies a minimum support if its frequency count is greater than or equal to a specific support count, min_sup.
+- 
+### <u>Confidence</u>
+- Measure of how often the consequent is true when the antecedent is true.
