@@ -1,3 +1,4 @@
+# <u>File and Storage</u>
 ### Raid
 Redundant array of independent disks. Making use of two or more HDD to improve performance, reliability or create larger data volumes.
 
@@ -32,3 +33,4 @@ The sequential file organization will work if only a small number of records nee
 
 *slotted page structure requires that there be no pointers that point directly to records. Instead, pointers must point to the entry in the header that contains the actual location of the record.*
 
+# <u>Indexing and Hashing</u>
