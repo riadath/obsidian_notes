@@ -168,6 +168,9 @@ Star schema with multiple levels of dimension tables
 ### <u>Support</u>
 - Support is a measure of what percentage of the population satisfies both the antecedent and the consequent of the rule.
 - **Minimum Support(minsup)**: An itemset satisfies a minimum support if its frequency count is greater than or equal to a specific support count, min_sup.
-- 
+- if min_sup = 50%, sup(A,C) = 50% >= 50%, (A,C) is frequent
 ### <u>Confidence</u>
 - Measure of how often the consequent is true when the antecedent is true.
+### Finding Association using apriori algorithm
+- Find all frequent itemsets
+- Generate strong association rules from the frequent itemsets found that have minimum confidence.
