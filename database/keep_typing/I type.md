@@ -70,3 +70,17 @@ Here d is the fudge factor
 ### Handling Bucket Overflows
 **Closed Hashing**: put records into overflow buckets
 Open Hashing: Linear Probing, Quadratic Probing, Double Hashing
+
+
+
+# <u>Data Analytics</u>
+
+## OLAP
+
+- Online Analytical Processing: Swiftly answer multi-dimensional analytical queries.
+- MOLAP : Stores data cube instead of relational database. Better performance. Less Storage
+-  ROLAP : Stores relational databases. More scalable. Large volume of data difficult to process.
+-  HOLAP : Hybrid of MOLAP and ROLAP
+
+### Operations of OLAP
+- Visualization of data, using Cro
