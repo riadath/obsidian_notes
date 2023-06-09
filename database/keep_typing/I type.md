@@ -122,5 +122,14 @@ group by rollup(item_name, color, size)
 - Queries/Reports
 - OLAP/Multidimensional Analysis
 - Data mining
-### <u>Feature</u>
+### <u>Features of a data warehouse</u>
+- Subject Oriented
+- Integrated
+- Time-Variant
+- Non-volatile
+- Data granularity
 
+
+### Source Driven architecture
+- Transfer initiated by the source
+- Data can be propagated as soon as it is available
