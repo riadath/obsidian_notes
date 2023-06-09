@@ -92,5 +92,9 @@ Open Hashing: Linear Probing, Quadratic Probing, Double Hashing
 Attributes that measure some value i.e. number of sales, item quantity
 
 ### Dimension Attribute
-All the other attributes that define the dimensions on which measure attributes are viewed. For example in  a sales relationship, item_name,color,size etc.
+All the other attributes that define the dimensions on which measure attributes are viewed. For example in  a sales relationship, item_name, color, size etc.
 
+### Concept Hierarchy
+A hierarchically organized collection of different levels of detail for an attribute (or concept) is called a concept hierarchy. 
+
+## <u>Cube and Rollup</u>
