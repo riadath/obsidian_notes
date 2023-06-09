@@ -60,4 +60,4 @@ The sequential file organization will work if only a small number of records nee
 search keys may appear twice | search key only appears once
 contains redundant storage of search-key values | eliminates redundant storage
 Takes more space | takes less space
-no additional pointer for search key | as 
+no additional pointer for search key | additional pointers for each search key in non leaf nodes
