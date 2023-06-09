@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
+                "file": "System Architecture (7)20/1. Parallel Database Architectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
+                "file": "System Architecture (7)20/1. Parallel Database Architectures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
+                "file": "System Architecture (7)20/1. Parallel Database Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md"
+                "file": "System Architecture (7)20/1. Parallel Database Architectures.md"
               }
             }
           },
@@ -158,14 +157,14 @@
   },
   "active": "29f0e878b48f041f",
   "lastOpenFiles": [
+    "System Architecture (7)20/2. Distributed Systems.md",
+    "System Architecture (7)20/1. Parallel Database Architectures.md",
+    "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
     "Pasted image 20230609054631.png",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609054008.png",
-    "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609051903.png",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609051008.png",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609050815.png",
-    "System Architecture (7)20/2. Distributed Systems.md",
-    "System Architecture (7)20/1. Parallel Database Architectures.md",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609042456.png",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609025913.png",
     "Parallel and Distributed Storage (7) 21/Assets",
@@ -176,7 +175,6 @@
     "System Architecture (7)20",
     "System Architecture (7)20/Assets/Pasted image 20230609021929.png",
     "2023-06-09.md",
-    "Untitled.canvas",
-    "System Architecture (7)20/Assets/Pasted image 20230609020050.png"
+    "Untitled.canvas"
   ]
 }
