@@ -50,4 +50,9 @@ The sequential file organization will work if only a small number of records nee
 
 **Index-Sequential Files**: Files that are ordered sequentially on some search key and have a primary index on the search key 
 
-**Dense Index**: a index record appears for every serach key 
+**Dense Index**: a index record appears for every search key value in the file
+**Sparse Index**: index record appears for only some of the search key values
+
+**Multilevel Index**: An index with two or more levels is called a multilevel index
+
+**B+ Tree**: a type of index in the form of a balanced tree in which every path from the root to a leaf node is of the same length.  Leaf contains between $ceil(n/2)$   and 
