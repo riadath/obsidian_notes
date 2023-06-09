@@ -75,7 +75,7 @@ Open Hashing: Linear Probing, Quadratic Probing, Double Hashing
 
 # <u>Data Analytics</u>
 
-## OLAP
+## <u>OLAP</u>
 
 - Online Analytical Processing: Swiftly answer multi-dimensional analytical queries.
 - MOLAP : Stores data cube instead of relational database. Better performance. Less Storage
@@ -98,3 +98,16 @@ All the other attributes that define the dimensions on which measure attributes 
 A hierarchically organized collection of different levels of detail for an attribute (or concept) is called a concept hierarchy. 
 
 ## <u>Cube and Rollup</u>
+
+sales(item_name,color,size,number)
+**Cube**: Computes the union of all possible different groupings of a relation.
+
+E.g.  select item_name, color, size, sum(number)
+from sales
+group by cube(item_name, color, size)
+
+**Rollup**: Generates aggregates at multiple levels of hierarchy
+
+E.g. select item_name, color, size, sum(number)
+from sales
+group by rollup(item_name, color, size)
