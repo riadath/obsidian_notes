@@ -29,3 +29,6 @@ The sequential file organization will work if only a small number of records nee
 - No of record entries in the header
 - The end of free space in the block
 - An array who's entries contain the location and size of each records
+
+*slotted page structure requires that there be no pointers that point directly to records. Instead, pointers must point to the entry in the header that contains the actual location of the record.*
+
