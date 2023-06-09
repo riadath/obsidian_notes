@@ -111,3 +111,16 @@ group by cube(item_name, color, size)
 E.g. select item_name, color, size, sum(number)
 from sales
 group by rollup(item_name, color, size)
+
+# Data Warehouse
+- A data warehouse is a repository or archive of information gathered from multiple sources, stored under a unified schema, at a single site.
+- ![[Pasted image 20230610004821.png]]
+
+
+### <u>Components of a data warehouse</u>
+- Database Servers
+- Queries/Reports
+- OLAP/Multidimensional Analysis
+- Data mining
+### <u>Feature</u>
+
