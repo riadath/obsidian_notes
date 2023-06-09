@@ -112,7 +112,7 @@ E.g. select item_name, color, size, sum(number)
 from sales
 group by rollup(item_name, color, size)
 
-# Data Warehouse
+# <u>Data Warehouse</u>
 - A data warehouse is a repository or archive of information gathered from multiple sources, stored under a unified schema, at a single site.
 - ![[Pasted image 20230610004821.png]]
 
@@ -145,4 +145,19 @@ group by rollup(item_name, color, size)
 - Build customized ETL tool 
 	- *The different steps involved in getting data into a data warehouse are called as extract, transform and load or ETL tasks; extraction refers to getting data from the sources, while load refers to loading the data into the data warehouse.*
 - Extraction
-- Transform
+- Transformation
+- Loading
+
+### <u>Fact Table</u>
+Tables containing multidimensional data
+### <u>Dimension Table</u>
+Stores additional data
+
+### <u>Star Scheme</u>
+With one fact table and multiple dimension table and a foreign key from the fact table to the dimension table
+### <u>Snowflake Schema</u>
+Star schema with multiple levels of dimension tables
+
+
+# <u>Data Mining</u>
+- The process of s
