@@ -33,4 +33,13 @@ The sequential file organization will work if only a small number of records nee
 
 *slotted page structure requires that there be no pointers that point directly to records. Instead, pointers must point to the entry in the header that contains the actual location of the record.*
 
+
+**Storing each relation in one file**: Can use the file system provided by the OS thus simplifying the DBMS but restricts the ability to increase performance by using more sophisticated storage structures. 
+
+**Storing multiple relation in one file**: Complex structures can be implemented through the DBMS but increases the size and complexity of the DBMS.
+
+**Seek Time**: The time it take for a disk read/write head to move to a specific location / data track is called seek time.
+
 # <u>Indexing and Hashing</u>
+
+**Search Key**: An attribute or set of attributes used to look up recoreds in a file called a serch key.
