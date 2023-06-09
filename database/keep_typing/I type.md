@@ -46,13 +46,13 @@ The sequential file organization will work if only a small number of records nee
 
 **Primary/Clustering Index**: If the file containing the records is sequentially ordered a  primary index is an index whose search key also defines the sequential order of the file.
 
-**Secondary/Non Clustering Index**: Indices whose search key specifies an order different from the sequential order of the file are called secondary indices. 
+**Secondary/Non Clustering Index**: Indices whose search key specifies an order different from the sequential order of the file are called secondary indices. *dis: impose a significant overhead on modification of the database*
 
-**Index-Sequential Files**: Files that are ordered sequentially on some search key and have a primary index on the search key 
+**Index-Sequential Files**: Files that are ordered sequentially on some search key and have a primary index on the search key. *dis: performance degrades as the files grows.* 
 
-**Dense Index**: a index record appears for every search key value in the file
-**Sparse Index**: index record appears for only some of the search key values
+**Dense Index**: a index record appears for every search key value in the file. Faster to locate files.
+**Sparse Index**: index record appears for only some of the search key values. Require less space.
 
-**Multilevel Index**: An index with two or more levels is called a multilevel index
+**Multilevel Index**: An index with two or more levels is called a multilevel index. Requires fewer I/O operations. 
 
-**B+ Tree**: a type of index in the form of a balanced tree in which every path from the root to a leaf node is of the same length.  Leaf contains between $ceil(n/2)$   and 
+**B+ Tree**: a type of index in the form of a balanced tree in which every path from the root to a leaf node is of the same length.  Leaf contains between $ceil(n/2)$   and $n$ children. Each leaf has between $ceil((n-1)/2)$ and $n-1$ values.  *dis: performance overhead on insertion*
