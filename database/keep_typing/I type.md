@@ -133,3 +133,16 @@ group by rollup(item_name, color, size)
 ### Source Driven architecture
 - Transfer initiated by the source
 - Data can be propagated as soon as it is available
+- Source does not need to keep historical information
+### Destination Driven architecture
+- The destination probes the source for data
+- Source does not have to be active all the time
+- Easier to implement
+- Warehouse has more control on when to carry out data gathering activities
+
+## <u>Steps to build a warehouse</u>
+- Identify the data source
+- Build customized ETL tool 
+	- *The different steps involved in getting data into a data warehouse are called as extract, transform and load or ETL tasks; extraction refers to getting data from the sources, while load refers to loading the data into the data warehouse.*
+- Extraction
+- Transform
