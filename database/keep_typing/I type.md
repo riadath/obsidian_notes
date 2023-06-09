@@ -55,4 +55,5 @@ The sequential file organization will work if only a small number of records nee
 
 **Multilevel Index**: An index with two or more levels is called a multilevel index. Requires fewer I/O operations. 
 
-**B+ Tree**: a type of index in the form of a balanced tree in which every path from the root to a leaf node is of the same length.  Leaf contains between $ceil(n/2)$   and $n$ children. Each leaf has between $ceil((n-1)/2)$ and $n-1$ values.  *dis: performance overhead on insertion*
+**B+ Tree**: a type of index in the form of a balanced tree in which every path from the root to a leaf node is of the same length.  Leaf contains between $ceil(n/2)$   and $n$ children. Each leaf has between $ceil((n-1)/2)$ and $n-1$ values.  *dis: performance overhead on insertion and deletion. Space overhead*
+
