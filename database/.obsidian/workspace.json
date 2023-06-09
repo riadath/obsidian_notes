@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "19d1c4dff300a91d",
+            "id": "0fe48610220f30db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,14 +53,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "0fe48610220f30db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -201,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19d1c4dff300a91d",
+  "active": "0fe48610220f30db",
   "lastOpenFiles": [
     "System Architecture (7)20/2. Distributed Systems.md",
     "System Architecture (7)20/1. Parallel Database Architectures.md",
