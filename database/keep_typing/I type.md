@@ -42,4 +42,12 @@ The sequential file organization will work if only a small number of records nee
 
 # <u>Indexing and Hashing</u>
 
-**Search Key**: An attribute or set of attributes used to look up recoreds in a file called a serch key.
+**Search Key**: An attribute or set of attributes used to look up records in a file called a search key.
+
+**Primary/Clustering Index**: If the file containing the records is sequentially ordered a  primary index is an index whose search key also defines the sequential order of the file.
+
+**Secondary/Non Clustering Index**: Indices whose search key specifies an order different from the sequential order of the file are called secondary indices. 
+
+**Index-Sequential Files**: Files that are ordered sequentially on some search key and have a primary index on the search key 
+
+**Dense Index**: a index record appears for every serach key 
