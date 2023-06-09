@@ -83,4 +83,14 @@ Open Hashing: Linear Probing, Quadratic Probing, Double Hashing
 -  HOLAP : Hybrid of MOLAP and ROLAP
 
 ### Operations of OLAP
-- Visualization of data, using Cro
+- Visualization of data, using Cross-Tabs or data cubes
+- Pivoting : Changing dimensions used in cross tabs.
+- Display data at any level of granularity
+- Drill Down, rollup, slicing, dicing
+
+### Measure Attribute
+Attributes that measure some value i.e. number of sales, item quantity
+
+### Dimension Attribute
+All the other attributes that define the dimensions on which measure attributes are viewed. For example in  a sales relationship, item_name,color,size etc.
+
