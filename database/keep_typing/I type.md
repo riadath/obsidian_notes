@@ -56,3 +56,8 @@ The sequential file organization will work if only a small number of records nee
 
 **B+ Tree**: a type of index in the form of a balanced tree in which every path from the root to a leaf node is of the same length.  Leaf contains between $ceil(n/2)$   and $n$ children. Each leaf has between $ceil((n-1)/2)$ and $n-1$ values.  *dis: performance overhead on insertion and deletion. Space overhead*
 
+### B+ tree vs B tree
+search keys may appear twice | search key only appears once
+contains redundant storage of search-key values | eliminates redundant storage
+Takes more space | takes less space
+no additional pointer for search key | as 
