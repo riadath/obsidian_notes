@@ -16,3 +16,16 @@ Simplest but most expensive approach to introduce redundancy is to duplicated ev
 - **Sequential file organization**: Records are stored in a sequential order. based on the value of a search key of each record.
 - **Hashing File Organization**: A hash function is computed on some attribute of each record who's result is specifies in which block the record should be stored
 - **Multiple clustering file organization**: Records of several different relation can be stored in the same file. Related records of the different relations are sorted on the same block so that one I/O operation fetches related records from all  the relations. 
+
+### Reorganization
+The sequential file organization will work if only a small number of records need to be stored in the overflow blocks. Eventually the correspondence between search key order and physical order may be totally lost. In such case sequential processing will become much less efficient. At this point, the file should be reorganized so that it is once again physically in sequential order.
+
+
+
+### Slotted page structure 
+![[Pasted image 20230609221808.png]]
+
+**Header Stores**:
+- No of record entries in the header
+- The end of free space in the block
+- An array who's entries contain the location and size of each records
