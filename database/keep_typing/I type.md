@@ -61,3 +61,12 @@ search keys may appear twice | search key only appears once
 contains redundant storage of search-key values | eliminates redundant storage
 Takes more space | takes less space
 no additional pointer for search key | additional pointers for each search key in non leaf nodes
+
+
+### Estimated size of the bucket
+$(n_r/f_r) * (1 + d)$  
+Here d is the fudge factor
+
+### Handling Bucket Overflows
+**Closed Hashing**: put records into overflow buckets
+Open Hashing: Linear Probing, Quadratic Probing, Double Hashing
