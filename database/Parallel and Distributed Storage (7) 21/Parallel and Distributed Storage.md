@@ -129,7 +129,7 @@ records of a relation are divided (or decluttered) among many nodes, such that s
 ![[Pasted image 20230609051903.png]]
 
 ### HADOOP File System (HDFS)
-![[Pasted image 20230609054008.png]]
+![[Pasted image 20230609054008.png | 600]]
 - HDFS is modeled after GFS (Google file system)
 - Data Coherency
 	- 'Write once ready many' access model
