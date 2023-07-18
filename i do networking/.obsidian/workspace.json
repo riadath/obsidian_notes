@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -156,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "c6e0b94aec20157f",
   "lastOpenFiles": [
     "IOT",
     "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
