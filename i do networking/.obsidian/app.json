@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "vimMode": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
@@ -9,5 +9,8 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "defaultViewMode": "source"
 }
