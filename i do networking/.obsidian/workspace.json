@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7bf8ee57eb777ce",
+            "id": "c6e0b94aec20157f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md"
+              }
             }
           },
           {
@@ -149,6 +158,8 @@
   },
   "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
+    "IOT",
+    "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
     "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
     "System Architecture (7)20/2. Distributed Systems.md",
     "System Architecture (7)20/1. Parallel Database Architectures.md",
