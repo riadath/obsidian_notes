@@ -1,6 +1,6 @@
 {
   "showLineNumber": true,
-  "vimMode": true,
+  "vimMode": false,
   "readableLineLength": true,
   "promptDelete": false,
   "pdfExportSettings": {
@@ -12,5 +12,6 @@
   },
   "strictLineBreaks": false,
   "livePreview": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "legacyEditor": false
 }
