@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3925f814d8f9687",
+            "id": "82ddee997c62b897",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "c6e0b94aec20157f",
+            "id": "a3925f814d8f9687",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -168,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6e0b94aec20157f",
+  "active": "a3925f814d8f9687",
   "lastOpenFiles": [
     "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
     "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
