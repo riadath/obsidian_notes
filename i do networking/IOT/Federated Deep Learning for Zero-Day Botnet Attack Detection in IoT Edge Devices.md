@@ -12,3 +12,5 @@ he term "zero-day" refers to the fact that the vendor or developer has only just
 
 #### <u>Botnet Attacks</u>
 A botnet attack is any attack leveraging a botnet—a group of bots and devices linked together to perform the same task—for distribution and scaling. Botnet attacks are used by cybercriminals to carry out intense scraping, DDoS etc.
+
+#### <u>Federated Deep Learning</u>
