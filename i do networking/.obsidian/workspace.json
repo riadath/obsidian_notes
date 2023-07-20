@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#FL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +90,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 468.5,
-    "collapsed": true
+    "width": 468.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+                "file": "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+                "file": "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md"
+                "file": "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md"
               }
             }
           },
@@ -180,11 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3925f814d8f9687",
+  "active": "82ddee997c62b897",
   "lastOpenFiles": [
+    "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+    "Recurrent Neural Network ( RNN ).md",
     "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
     "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
-    "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
     "IOT",
     "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
     "System Architecture (7)20/2. Distributed Systems.md",
