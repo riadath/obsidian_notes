@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 468.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
+                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
+                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md"
+                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba60443bed8758ec",
+  "active": "a3925f814d8f9687",
   "lastOpenFiles": [
-    "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
     "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
+    "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
     "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
     "IOT",
     "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
