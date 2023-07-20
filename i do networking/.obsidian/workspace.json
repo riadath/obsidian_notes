@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
+                "file": "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 468.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+                "file": "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+                "file": "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md"
+                "file": "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md"
               }
             }
           },
@@ -180,11 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3925f814d8f9687",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
-    "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
-    "Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
     "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+    "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
+    "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
     "IOT",
     "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
     "System Architecture (7)20/2. Distributed Systems.md",
