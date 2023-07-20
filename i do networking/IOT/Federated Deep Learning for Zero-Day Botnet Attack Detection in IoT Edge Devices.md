@@ -14,3 +14,7 @@ he term "zero-day" refers to the fact that the vendor or developer has only just
 A botnet attack is any attack leveraging a botnet—a group of bots and devices linked together to perform the same task—for distribution and scaling. Botnet attacks are used by cybercriminals to carry out intense scraping, DDoS etc.
 
 #### <u>Federated Deep Learning</u>
+Federated deep learning is a machine learning technique that trains an algorithm via multiple independent sessions, each using its own dataset. This approach stands in contrast to traditional centralized machine learning techniques where local datasets are merged into one training session, as well as to approaches that assume that local data samples are identically distributed. Federated deep learning enables multiple actors to build a common, robust machine learning model without sharing data.
+
+# <u>Introduction</u>
+
