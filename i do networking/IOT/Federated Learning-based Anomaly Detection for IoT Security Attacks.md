@@ -20,4 +20,7 @@ Learned weights are parameters that are adjusted during the training process of 
 
 
 # <u>Introduction</u>
-
+- IoT devices micro-architecture style makes it less suitable to deploy computationally heavy security firewalls. 
+- unguarded IoT devices could turn into an open threat to all other network devices interconnected with them
+- **Mirai Attacks :** 
+- 
