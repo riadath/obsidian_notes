@@ -13,5 +13,7 @@
   "strictLineBreaks": false,
   "livePreview": true,
   "defaultViewMode": "source",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "showFrontmatter": false,
+  "showIndentGuide": false
 }
