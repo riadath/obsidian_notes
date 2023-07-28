@@ -23,14 +23,26 @@ It is a machine learning technique that leverages knowledge gained from solving 
 
 
 # <u>Proposed Methods (IV)</u>
+
 ## <u>A. System Model</u>
+
 $K =$ Total number of clients
 $k =$ Index  of the clients
 $D_k =$ Local Dataset of each client
 $| . |$  denotes the size of the set
 ${D_1,D_2, ......D_k} =$ whole dataset
 $|D| = \sum_{k=1}^{K} |D_k|$ 
-{${x_k}$}
+
+{$x_k$} some local dataset with label set {$y_k$} in $D_k$ 
+
+##### Objective
+for some input $x_i$ in the neural network (local) $y_i$ is the desired output with some loss function $f_i(\omega)$ .
+
+$\omega^0$ = Initial global parameter
+
+For some client $k$ the loss function on the data set is defined as:
+$min_\omega F_k(\omega) =\frac{1}{|D_k|} \sum_{i \in D_k} f_i(\omega)$
+
 
 ##  <u>C. A customized Local training Strategy</u>
 
