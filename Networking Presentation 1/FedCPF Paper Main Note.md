@@ -23,9 +23,16 @@ It is a machine learning technique that leverages knowledge gained from solving 
 
 
 # <u>Proposed Methods (IV)</u>
+## <u>A. System Model</u>
+$K =$ Total number of clients
+$k =$ Index  of the clients
+$D_k =$ Local Dataset of each client
+$| . |$  denotes the size of the set
+${D_1,D_2, ......D_k} =$ whole dataset
+$|D| = \sum_{k=1}^{K} |D_k|$ 
+{${x_k}$}
 
-
-## C. <u>A customized Local training Strategy</u>
+##  <u>C. A customized Local training Strategy</u>
 
 #### [[Gradient Diversity]]
 
