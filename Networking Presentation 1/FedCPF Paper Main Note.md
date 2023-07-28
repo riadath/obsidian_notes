@@ -1,5 +1,6 @@
 #FL 
-[[Federated Learning]]
+# FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks
+
 
 
 # <u>Abstract</u>
@@ -9,7 +10,7 @@ The selected text is an abstract of a research paper that discusses the use of F
 
 ## <u>Important Terms</u>
 
-[[Federated Learning]]
+#### [[Federated Learning]]
 
 ##### <u>An anomaly-based Intrusion Detection System (IDS):</u>
 It is a type of cybersecurity system that aims to identify and detect abnormal or suspicious behavior within a network or system. Unlike signature-based IDS, which relies on predefined patterns of known attacks (signatures), anomaly-based IDS focuses on recognizing deviations from established normal patterns of network or user behavior.
@@ -28,10 +29,10 @@ It is a machine learning technique that leverages knowledge gained from solving 
 
 #### [[Gradient Diversity]]
 
-#### <u>Earth Mover's Distance (EMD)</u>
-- Earth Mover’s Distance (EMD) is a measure of the distance between two probability distributions over a region. In the context of the selected text, EMD is used to measure the distance between the data distribution on a client and the whole data distribution.
+#### [[Earth Mover's Distance (EMD)]]
 
-This distance measurement is affected by factors such as the learning rate, the number of training epochs, and the gradient. The text explains that weight divergence in Federated Learning (FL) is mainly caused by two aspects:
+
+This EMD distance measurement is affected by factors such as the learning rate, the number of training epochs, and the gradient. The text explains that weight divergence in Federated Learning (FL) is mainly caused by two aspects:
 - <u>L^2 Norm</u> : Basically Euclidian Distance.
 	- <mark style="background: #BBFABBA6;">(1)</mark>the weight divergence accumulates after T-1 communication rounds.
 	- <mark style="background: #BBFABBA6;">(2)</mark> weight divergence is induced by the probability distance for the data distribution on client k compared with the actual distribution for the whole data set. As a result, it is necessary to set an appropriate local training strategy for each client with different training amounts to reduce weight divergence.
