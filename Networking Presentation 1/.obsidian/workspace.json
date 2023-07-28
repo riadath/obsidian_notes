@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -155,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43128b3898d05ca",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
     "Pasted image 20230728222105.png",
     "Important Terms Explanation/Earth Mover's Distance (EMD).md",
