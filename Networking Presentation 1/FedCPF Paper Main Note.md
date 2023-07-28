@@ -51,13 +51,23 @@ $F(\omega) =$ Averaged global model parameters after the aggregate phase
 $f_k(\omega_k) =$ Loss function of the $k_{th}$ client
 
 Generalized Loss function,
-$min_\omega F(\omega) = \sum_{k=1}^{K} \frac{|D_k|}{|D|}F_k(\omega_k)$
+$min_\omega F(\omega) = \sum_{k=1}^{K} \frac{|D_k|}{|D|}F_k(\omega_k)$                                    (4)
 
 Optimizing the loss function $F(\omega)$ in FL is equivalent to minimizing the weighted average of local loss function $F_k(\omega_k)$ . Each client performs the training locally and shares their own local parameters.
 
 ## <u>B. Total Communication Cost</u>
 
-$n(t)$ = Number of devices that participate in the $t
+$n(t) =$ Number of devices that participate in the $t_{th}$ communication round  \[ $n(t) \le K$ ]
+$T =$ Total communication rounds in the FL process
+$\omega^* =$ Number of model parameters
+$W =$ Total communication cost in FL 
+
+Total Communication cost,
+
+$W=\sum_{t=1}^{T} \{n(t) + K\}.\omega^**$ 
+
+Upper bound of communication overheads,
+$\tilde{W}= 2T*(K.\omega^*)$ 
 
 ##  <u>C. A customized Local training Strategy</u>
 
