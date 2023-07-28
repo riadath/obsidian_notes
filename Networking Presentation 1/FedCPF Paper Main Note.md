@@ -37,6 +37,8 @@ This EMD distance measurement is affected by factors such as the learning rate, 
 	- <mark style="background: #BBFABBA6;">(1)</mark>the weight divergence accumulates after T-1 communication rounds.
 	- <mark style="background: #BBFABBA6;">(2)</mark> weight divergence is induced by the probability distance for the data distribution on client k compared with the actual distribution for the whole data set. As a result, it is necessary to set an appropriate local training strategy for each client with different training amounts to reduce weight divergence.
 		- **(2) Explained :** The 2nd point means that the data distribution on each client may not be representative of the whole data distribution. For example, if the data set is about images of animals, some clients may have more images of cats than dogs, while others may have more images of birds than fish. This means that the probability of each label (such as cat, dog, bird, fish) is different on each client. This probability difference is measured by EMD, and it affects the weight divergence because it influences the direction and magnitude of the gradient updates on each client. Therefore, the global model may not converge well if the data distribution on each client is too different from the whole data distribution. 
+## <u>F. Convergence Analysis</u>
 
-
+#### IID : Independent and Identically Distributed
+In the context of federated learning, an IID ideal federated network refers to a network where the data on each client is assumed to be independently and identically distributed. This means that the data on each client is assumed to be drawn from the same underlying distribution and is independent of the data on other clients. This is an idealized assumption that may not hold in real-world scenarios, where the data on different clients can be non-IID, meaning that it is not independently and identically distributed
 
