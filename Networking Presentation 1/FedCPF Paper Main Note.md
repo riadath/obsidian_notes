@@ -29,8 +29,10 @@ It is a machine learning technique that leverages knowledge gained from solving 
 $K =$ Total number of clients
 $k =$ Index  of the clients
 $D_k =$ Local Dataset of each client
-$| . |$  denotes the size of the set
-${D_1,D_2, ......D_k} =$ whole dataset
+$| . |$  Denotes the size of the set
+
+${D_1,D_2, ......D_k} =$ Whole dataset
+
 $|D| = \sum_{k=1}^{K} |D_k|$ 
 
 {$x_k$} some local dataset with label set {$y_k$} in $D_k$ 
@@ -38,10 +40,15 @@ $|D| = \sum_{k=1}^{K} |D_k|$
 ##### Objective
 for some input $x_i$ in the neural network (local) $y_i$ is the desired output with some loss function $f_i(\omega)$ .
 
-$\omega^0$ = Initial global parameter
-
 For some client $k$ the loss function on the data set is defined as:
 $min_\omega F_k(\omega) =\frac{1}{|D_k|} \sum_{i \in D_k} f_i(\omega)$
+
+
+$\omega^0 =$  Initial global parameter
+$\omega_k^t =$ Local model parameters of the $k_{th}$ client for the $t_{th}$ communication round
+$F(\omega) =$ Averaged global model parameters after the aggregate phase
+$f_k(\omega_k) =$ Loss function of the $k_{th}$ client
+
 
 
 ##  <u>C. A customized Local training Strategy</u>
