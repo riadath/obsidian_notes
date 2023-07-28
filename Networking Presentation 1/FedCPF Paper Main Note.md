@@ -26,6 +26,7 @@ It is a machine learning technique that leverages knowledge gained from solving 
 
 ## <u>A. System Model</u>
 
+##### <u>Notations</u>
 $K =$ Total number of clients
 $k =$ Index  of the clients
 $D_k =$ Local Dataset of each client
@@ -37,7 +38,7 @@ $|D| = \sum_{k=1}^{K} |D_k|$
 
 {$x_k$} some local dataset with label set {$y_k$} in $D_k$ 
 
-##### Objective
+##### <u>Objective</u>
 for some input $x_i$ in the neural network (local) $y_i$ is the desired output with some loss function $f_i(\omega)$ .
 
 For some client $k$ the loss function on the data set is defined as:
@@ -49,7 +50,14 @@ $\omega_k^t =$ Local model parameters of the $k_{th}$ client for the $t_{th}$ co
 $F(\omega) =$ Averaged global model parameters after the aggregate phase
 $f_k(\omega_k) =$ Loss function of the $k_{th}$ client
 
+Generalized Loss function,
+$min_\omega F(\omega) = \sum_{k=1}^{K} \frac{|D_k|}{|D|}F_k(\omega_k)$
 
+Optimizing the loss function $F(\omega)$ in FL is equivalent to minimizing the weighted average of local loss function $F_k(\omega_k)$ . Each client performs the training locally and shares their own local parameters.
+
+## <u>B. Total Communication Cost</u>
+
+$n(t)$ = Number of devices that participate in the $t
 
 ##  <u>C. A customized Local training Strategy</u>
 
