@@ -64,7 +64,7 @@ $W =$ Total communication cost in FL
 
 Total Communication cost,
 
-$W=\sum_{t=1}^{T} \{n(t) + K\}.\omega^**$ 
+$W=\sum_{t=1}^{T} \{n(t) + K\}.\omega^*$
 
 Upper bound of communication overheads,
 $\tilde{W}= 2T*(K.\omega^*)$ 
