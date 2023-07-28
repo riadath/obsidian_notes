@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edge Computing/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
+                "file": "Presentation 1/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edge Computing/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
+                "file": "Presentation 1/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edge Computing/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
+                "file": "Presentation 1/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edge Computing/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md"
+                "file": "Presentation 1/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md"
               }
             }
           },
@@ -155,17 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43128b3898d05ca",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
-    "IOT/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
-    "Edge Computing/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
+    "Untitled",
+    "Presentation 1",
+    "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
+    "Presentation 1/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
     "Federated Learning.md",
-    "IOT/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
-    "IOT/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+    "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
+    "IOT Related papers/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
     "Federated Learning",
     "Edge Computing",
     "Recurrent Neural Network ( RNN ).md",
-    "IOT",
+    "IOT Related papers",
     "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
     "System Architecture (7)20/2. Distributed Systems.md",
     "System Architecture (7)20/1. Parallel Database Architectures.md",
