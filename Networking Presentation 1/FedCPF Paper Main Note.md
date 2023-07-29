@@ -10,7 +10,7 @@ The selected text is an abstract of a research paper that discusses the use of F
 
 ## <u>Important Terms</u>
 
-#### ![[Federated Learning]]
+#### [[Federated Learning]]
 
 
 
@@ -38,14 +38,11 @@ $min_\omega F_k(\omega) =\frac{1}{|D_k|} \sum_{i \in D_k} f_i(\omega)$
 
 
 $\omega^0 =$  Initial global parameter
-$\omega_k^t =$ Local model parameters of the $k_{th}$ 
-		client for the $t_{th}$ communication round
-$F(\omega) =$ Averaged global model parameters 
-		  after the aggregate phase
+$\omega_k^t =$ Local model parameters of the $k_{th}$ client for the $t_{th}$ communication round
+$F(\omega) =$ Averaged global model parameters after the aggregate phase
 $f_k(\omega_k) =$ Loss function of the $k_{th}$ client
 
 Generalized Loss function,
-
 $min_\omega F(\omega) = \sum_{k=1}^{K} \frac{|D_k|}{|D|}F_k(\omega_k)$                                    (4)
 
 Optimizing the loss function $F(\omega)$ in FL is equivalent to minimizing the weighted average of local loss function $F_k(\omega_k)$ . Each client performs the training locally and shares their own local parameters.
@@ -66,9 +63,9 @@ $\tilde{W}= 2T*(K.\omega^*)$                                                   (
 
 ##  <u>C. A customized Local training Strategy</u>
 
-#### ![[Gradient Diversity]]
+#### [[Gradient Diversity]]
 
-#### ![[Earth Mover's Distance (EMD)]]
+#### [[Earth Mover's Distance (EMD)]]
 
 
 #### <u>Approach to reduce Gradient Diversity</u>
@@ -123,7 +120,7 @@ we will try to minimize $T_{co}$ using the flexible aggregation policy
 ## <u>FedCPF Algorithm (Pseudocode)</u>
 
 
-!![[Pasted image 20230729232957.png]]
+![[Pasted image 20230729232957.png]]
 
 ## <u>F. Convergence Analysis</u>
 

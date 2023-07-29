@@ -11,8 +11,12 @@
             "id": "4136b4f8e24923f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Important Terms Explanation/Earth Mover's Distance (EMD).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Important Terms Explanation/Earth Mover's Distance (EMD).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Important Terms Explanation/Earth Mover's Distance (EMD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Important Terms Explanation/Earth Mover's Distance (EMD).md"
+              }
             }
           },
           {
@@ -149,10 +157,10 @@
   },
   "active": "4136b4f8e24923f3",
   "lastOpenFiles": [
-    "FedCPF Paper Main Note.md",
-    "Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Important Terms Explanation/Federated Learning.md",
     "Important Terms Explanation/Gradient Diversity.md",
+    "FedCPF Paper Main Note.md",
+    "Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Assets/Pasted image 20230729232957.png",
     "Untitled.canvas",
     "2023-07-29.md",
