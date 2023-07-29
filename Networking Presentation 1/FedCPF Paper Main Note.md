@@ -45,6 +45,7 @@ $F(\omega) =$ Averaged global model parameters
 $f_k(\omega_k) =$ Loss function of the $k_{th}$ client
 
 Generalized Loss function,
+
 $min_\omega F(\omega) = \sum_{k=1}^{K} \frac{|D_k|}{|D|}F_k(\omega_k)$                                    (4)
 
 Optimizing the loss function $F(\omega)$ in FL is equivalent to minimizing the weighted average of local loss function $F_k(\omega_k)$ . Each client performs the training locally and shares their own local parameters.
