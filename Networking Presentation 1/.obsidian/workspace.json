@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "654c26a4cdd2f399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FedCPF Paper Main Note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FedCPF Paper Main Note.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FedCPF Paper Main Note.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb3da7c15076a0ef",
+  "active": "654c26a4cdd2f399",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "FedCPF Paper Main Note.md",
     "2023-07-29.md",
     "Important Terms Explanation/Gradient Diversity.md",

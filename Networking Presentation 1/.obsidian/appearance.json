@@ -1,7 +1,8 @@
 {
-  "accentColor": "#ffd129",
+  "accentColor": "",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "baseFontSize": 17
 }
