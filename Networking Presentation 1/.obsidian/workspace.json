@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Terms Explanation/Gradient Diversity.md",
-                "mode": "preview",
+                "file": "FedCPF Paper Main Note.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Terms Explanation/Gradient Diversity.md",
+                "file": "FedCPF Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Terms Explanation/Gradient Diversity.md",
+                "file": "FedCPF Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Terms Explanation/Gradient Diversity.md"
+                "file": "FedCPF Paper Main Note.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "cb3da7c15076a0ef",
   "lastOpenFiles": [
+    "Important Terms Explanation/Federated Learning.md",
     "FedCPF Paper Main Note.md",
+    "Important Terms Explanation/Gradient Diversity.md",
+    "Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "conflict-files-obsidian-git.md",
     "2023-07-29.md",
-    "Important Terms Explanation/Gradient Diversity.md",
-    "Important Terms Explanation/Federated Learning.md",
-    "Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Pasted image 20230728222105.png",
     "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Important Terms Explanation",
