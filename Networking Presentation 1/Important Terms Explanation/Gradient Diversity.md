@@ -4,5 +4,5 @@ Gradient diversity is a concept in machine learning that measures the dissimilar
 
 ### <u>Concurrent Gradient Updates</u> :
 Concurrent gradient updates refer to the process of updating the model parameters in parallel by multiple devices or workers in a distributed system. In the context of distributed implementations of mini-batch stochastic gradient descent (SGD) algorithms, a master node stores a global model, and multiple worker nodes compute gradients for a batch of data points with respect to the same global model. These gradients are then sent back to the master node, which applies them to the global model and sends the updated model back to the workers
-### **<u>Mini-batch stochastic gradient descent (SGD):</u>
+### <u>Mini-batch stochastic gradient descent (SGD):</u>
 is a popular optimization algorithm used in machine learning. It is a variant of the stochastic gradient descent algorithm, which is an iterative method for minimizing an objective function. In mini-batch SGD, the gradient of the objective function is estimated using a small, randomly selected subset of the training data, called a mini-batch, at each iteration. This allows for faster convergence compared to using the full dataset at each iteration, as in batch gradient descent, while still providing a good estimate of the true gradient

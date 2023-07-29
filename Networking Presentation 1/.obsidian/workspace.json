@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FedCPF Paper Main Note.md",
-                "mode": "source",
+                "file": "Important Terms Explanation/Gradient Diversity.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FedCPF Paper Main Note.md",
+                "file": "Important Terms Explanation/Gradient Diversity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FedCPF Paper Main Note.md",
+                "file": "Important Terms Explanation/Gradient Diversity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FedCPF Paper Main Note.md"
+                "file": "Important Terms Explanation/Gradient Diversity.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "cb3da7c15076a0ef",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "FedCPF Paper Main Note.md",
+    "conflict-files-obsidian-git.md",
     "2023-07-29.md",
     "Important Terms Explanation/Gradient Diversity.md",
     "Important Terms Explanation/Federated Learning.md",
