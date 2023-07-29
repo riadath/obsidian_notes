@@ -12,6 +12,8 @@ The selected text is an abstract of a research paper that discusses the use of F
 
 #### [[Federated Learning]]
 
+
+
 # <u>Proposed Methods (IV)</u>
 
 ## <u>A. System Model</u>
@@ -66,8 +68,6 @@ $\tilde{W}= 2T*(K.\omega^*)$                                                   (
 #### [[Earth Mover's Distance (EMD)]]
 
 
-
-
 #### <u>Approach to reduce Gradient Diversity</u>
 
 Instead of minimizing the local loss function $F_k(.)$ , client $k$ minimizes the following objective equation,
@@ -83,10 +83,15 @@ The constraint $\frac{\epsilon}{2} ||\omega_k-\omega^t||^2$ is beneficial for tw
 
 ## <u>D. Partial Client Participation Rule</u>
 
-- **Problem : Too many clients communicating with the  parameter server**
+### <u>Problem : Too many clients communicating with the  parameter server</u>
 **Fl Efficiency is effected by two things**
 - Limitations of uplink communication
 - Some clients only have a small amount of data which will become noise in the aggregation phase which will cause the global model to be more biased
+### <u>Solution</u>
+- A subset of the clients denoted as $\{S_t\}$ are selected and local models on those clients are used to optimize equation (4)
+- In the uplink phase clients upload the $\omega_k$ also transmit the size of the local data set to the parameter server
+- Parameter server calculates the probability of each client being selected, denotes as $p_k$ 
+- 
 
 
 ## <u>F. Convergence Analysis</u>
