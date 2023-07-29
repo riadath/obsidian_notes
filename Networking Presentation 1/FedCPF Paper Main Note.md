@@ -10,7 +10,7 @@ The selected text is an abstract of a research paper that discusses the use of F
 
 ## <u>Important Terms</u>
 
-#### [[Federated Learning]]
+#### ![[Federated Learning]]
 
 
 
@@ -63,9 +63,9 @@ $\tilde{W}= 2T*(K.\omega^*)$                                                   (
 
 ##  <u>C. A customized Local training Strategy</u>
 
-#### [[Gradient Diversity]]
+#### ![[Gradient Diversity]]
 
-#### [[Earth Mover's Distance (EMD)]]
+#### ![[Earth Mover's Distance (EMD)]]
 
 
 #### <u>Approach to reduce Gradient Diversity</u>
@@ -110,7 +110,18 @@ Where, $\sum_{k=1}^{|S_t|} p_k=1$
 - $r_k$ denotes the time when the $k_{th}$ client finishes the local training time. 
 - We add the following restriction
 	- $r_s^t \le r_k \le r_e^t$
-	- 
+$T_g$ = Running time of a complete FL round
+$T_{co}$ = Communication time
+$T_{cp}$ = Time for local training epoch
+$\theta_k^t$ = number of epochs for client $k$ 
+$T_g=T_{co}+\theta_k^t.T_{cp}$
+we will try to minimize $T_{co}$ using the flexible aggregation policy
+
+## <u>FedCPF Algorithm (Pseudocode)</u>
+
+
+!![[Pasted image 20230729232957.png]]
+
 ## <u>F. Convergence Analysis</u>
 
 #### IID : Independent and Identically Distributed

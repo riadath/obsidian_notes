@@ -1,4 +1,3 @@
-# Gradient Diversity
 
 Gradient diversity is a concept in machine learning that measures the dissimilarity between concurrent gradient updates in distributed implementations of mini-batch stochastic gradient descent (SGD) algorithms. It has been experimentally observed that distributed implementations of mini-batch SGD algorithms exhibit speedup saturation and decaying generalization ability beyond a particular batch-size. High similarity between concurrently processed gradients may be a cause of this performance degradation. On problems with high gradient diversity, mini-batch SGD is amenable to better speedups, while maintaining the generalization performance of serial (one sample) SGD. 
 
