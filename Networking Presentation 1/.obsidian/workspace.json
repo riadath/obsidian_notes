@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#gru",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb3da7c15076a0ef",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
     "FedCPF Paper Main Note.md",
     "Important Terms Explanation/Gradient Diversity.md",

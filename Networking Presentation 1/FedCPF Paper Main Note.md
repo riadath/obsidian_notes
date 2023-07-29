@@ -100,7 +100,7 @@ Where, $\sum_{k=1}^{|S_t|} p_k=1$
 
 ## <u>E. A Flexible Aggregation Policy</u>
 
-- Since the local training process is  highly dynamic a flexible aggregation policy is required to maintain synchonicity
+- Since the local training process is  highly dynamic a flexible aggregation policy is required to maintain synchronicity
 -  
 
 ## <u>F. Convergence Analysis</u>
