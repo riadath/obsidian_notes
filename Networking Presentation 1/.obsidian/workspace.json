@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a10ac6963b2e346e",
+        "id": "2096118fe665048d",
         "type": "tabs",
         "children": [
           {
-            "id": "e43128b3898d05ca",
+            "id": "cb3da7c15076a0ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43128b3898d05ca",
+  "active": "cb3da7c15076a0ef",
   "lastOpenFiles": [
+    "FedCPF Paper Main Note.md",
+    "2023-07-29.md",
     "Important Terms Explanation/Gradient Diversity.md",
     "Important Terms Explanation/Federated Learning.md",
-    "FedCPF Paper Main Note.md",
     "Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Pasted image 20230728222105.png",
     "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
