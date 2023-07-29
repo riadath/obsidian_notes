@@ -136,6 +136,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "52c16d2509f3734d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -155,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "cb3da7c15076a0ef",
   "lastOpenFiles": [
     "FedCPF Paper Main Note.md",
     "Important Terms Explanation/Gradient Diversity.md",

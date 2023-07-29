@@ -101,8 +101,12 @@ Where, $\sum_{k=1}^{|S_t|} p_k=1$
 ## <u>E. A Flexible Aggregation Policy</u>
 
 - Since the local training process is  highly dynamic a flexible aggregation policy is required to maintain synchronicity
--  
-
+### <u>Problem</u>
+- The most time consuming phase is the uplink communication. Because,
+	- The server needs to wait for all the clients to upload the local training results and aggregate them
+### <u>Solution</u>
+- A flexible aggregation policy to limit the time of the uplink communication phase.
+- 
 ## <u>F. Convergence Analysis</u>
 
 #### IID : Independent and Identically Distributed
