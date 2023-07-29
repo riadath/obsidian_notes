@@ -78,7 +78,7 @@ $\theta_k^t$ Denotes running $\theta$ epochs on client $k$ at the $t_{th}$ feder
 $\hat{\omega_k}$ is an intermediate solution of equation (6)
 
 The constraint $\frac{\epsilon}{2} ||\omega_k-\omega^t||^2$ is beneficial for two reasons,
-- Alleviates the statistical heterogeneity by limiting the number of local updates as closer to the global model without manually setting the local epochs.
+- Alleviates the statistical heterogeneity by limiting the number of local updates closer to the global model without manually setting the local epochs.
 - Allows for safely incorporating variable amounts of local training resulting from systems heterogeneity. 
 
 ## <u>D. Partial Client Participation Rule</u>
