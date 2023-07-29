@@ -106,7 +106,11 @@ Where, $\sum_{k=1}^{|S_t|} p_k=1$
 	- The server needs to wait for all the clients to upload the local training results and aggregate them
 ### <u>Solution</u>
 - A flexible aggregation policy to limit the time of the uplink communication phase.
-- 
+- $t_{th}$ uplink communication phase begins at time $r_s^t$ and finishes at time $r_e^t$ 
+- $r_k$ denotes the time when the $k_{th}$ client finishes the local training time. 
+- We add the following restriction
+	- $r_s^t \le r_k \le r_e^t$
+	- 
 ## <u>F. Convergence Analysis</u>
 
 #### IID : Independent and Identically Distributed
