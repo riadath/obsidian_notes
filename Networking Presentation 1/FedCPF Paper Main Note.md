@@ -57,7 +57,7 @@ Total Communication cost,
 $W=\sum_{t=1}^{T} \{n(t) + K\}.\omega^*$
 
 Upper bound of communication overheads,
-$\tilde{W}= 2T*(K.\omega^*)$ 
+$\tilde{W}= 2T*(K.\omega^*)$                                                   (6)
 
 ##  <u>C. A customized Local training Strategy</u>
 
@@ -72,7 +72,14 @@ $\tilde{W}= 2T*(K.\omega^*)$
 
 Instead of minimizing the local loss function $F_k(.)$ , client $k$ minimizes the following objective equation,
 $min_\omega  g_k(\omega_k;\omega^t)=F_k(\omega_k)+\frac{\epsilon}{2} ||\omega_k-\omega^t||^2$ 
-$\theta_k^t$ Customized Local Training
+
+##### $\theta_k^t$ Customized Local Training : 
+$\theta_k^t$ Denotes running $\theta$ epochs on client $k$ at the $t_{th}$ federated training. 
+$\hat{\omega_k}$ is an intermediate solution of equation (6)
+
+The constraint $\frac{\epsilon}{2} ||\omega_k-\omega^t||^2$ is beneficial for two reasons,
+- Alleviates the statistical heterogeneity by limiting the number of local updates as closer to the global model without manually setting the local epochs.
+- 
 
 ## <u>F. Convergence Analysis</u>
 
