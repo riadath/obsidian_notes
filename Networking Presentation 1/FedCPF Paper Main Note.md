@@ -113,8 +113,10 @@ Where, $\sum_{k=1}^{|S_t|} p_k=1$
 $T_g$ = Running time of a complete FL round
 $T_{co}$ = Communication time
 $T_{cp}$ = Time for local training epoch
+
 $\theta_k^t$ = number of epochs for client $k$ 
 $T_g=T_{co}+\theta_k^t.T_{cp}$
+
 we will try to minimize $T_{co}$ using the flexible aggregation policy
 
 ## <u>FedCPF Algorithm (Pseudocode)</u>
