@@ -79,7 +79,15 @@ $\hat{\omega_k}$ is an intermediate solution of equation (6)
 
 The constraint $\frac{\epsilon}{2} ||\omega_k-\omega^t||^2$ is beneficial for two reasons,
 - Alleviates the statistical heterogeneity by limiting the number of local updates as closer to the global model without manually setting the local epochs.
-- 
+- Allows for safely incorporating variable amounts of local training resulting from systems heterogeneity. 
+
+## <u>D. Partial Client Participation Rule</u>
+
+- **Problem : Too many clients communicating with the  parameter server**
+**Fl Efficiency is effected by two things**
+- Limitations of uplink communication
+- Some clients only have a small amount of data which will become noise in the aggregation phase which will cause the global model to be more biased
+
 
 ## <u>F. Convergence Analysis</u>
 
