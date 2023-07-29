@@ -38,8 +38,10 @@ $min_\omega F_k(\omega) =\frac{1}{|D_k|} \sum_{i \in D_k} f_i(\omega)$
 
 
 $\omega^0 =$  Initial global parameter
-$\omega_k^t =$ Local model parameters of the $k_{th}$ client for the $t_{th}$ communication round
-$F(\omega) =$ Averaged global model parameters after the aggregate phase
+$\omega_k^t =$ Local model parameters of the $k_{th}$ 
+		client for the $t_{th}$ communication round
+$F(\omega) =$ Averaged global model parameters 
+		  after the aggregate phase
 $f_k(\omega_k) =$ Loss function of the $k_{th}$ client
 
 Generalized Loss function,
