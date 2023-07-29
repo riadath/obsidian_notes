@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentation 1/Important Terms Explanation/Federated Learning.md",
+                "file": "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation 1/Important Terms Explanation/Federated Learning.md",
+                "file": "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation 1/Important Terms Explanation/Federated Learning.md",
+                "file": "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation 1/Important Terms Explanation/Federated Learning.md"
+                "file": "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "e43128b3898d05ca",
   "lastOpenFiles": [
+    "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
+    "IOT Related papers/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+    "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
+    "Presentation 1/Important Terms Explanation/Federated Learning.md",
     "Presentation 1/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
     "Presentation 1/Important Terms Explanation/Gradient Diversity.md",
     "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
-    "Presentation 1/Important Terms Explanation/Federated Learning.md",
     "Presentation 1/Important Terms Explanation",
     "Presentation 1",
-    "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
-    "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
-    "IOT Related papers/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
     "Federated Learning",
     "Edge Computing",
     "Recurrent Neural Network ( RNN ).md",
