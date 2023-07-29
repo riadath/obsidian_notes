@@ -91,8 +91,17 @@ The constraint $\frac{\epsilon}{2} ||\omega_k-\omega^t||^2$ is beneficial for tw
 - A subset of the clients denoted as $\{S_t\}$ are selected and local models on those clients are used to optimize equation (4)
 - In the uplink phase clients upload the $\omega_k$ also transmit the size of the local data set to the parameter server
 - Parameter server calculates the probability of each client being selected, denotes as $p_k$ 
-- 
+- Subset of selected clients in each round is different
+- Equation (4) is changed to 
+$min_\omega F(\omega)=\sum_{k=1}^{|S_t|}pk.gk(\omega_k;\omega^t)$
+Where, $\sum_{k=1}^{|S_t|} p_k=1$
 
+- The partial client participation rule contains more information about the client data set avoiding the development of a global model in some personalized direction
+
+## <u>E. A Flexible Aggregation Policy</u>
+
+- Since the local training process is  highly dynamic a flexible aggregation policy is required to maintain synchonicity
+-  
 
 ## <u>F. Convergence Analysis</u>
 
