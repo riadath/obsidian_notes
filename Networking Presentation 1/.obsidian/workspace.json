@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Terms Explanation/Gradient Diversity.md",
+                "file": "FedCPF Paper Main Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Terms Explanation/Gradient Diversity.md",
+                "file": "FedCPF Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Terms Explanation/Gradient Diversity.md",
+                "file": "FedCPF Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Terms Explanation/Gradient Diversity.md"
+                "file": "FedCPF Paper Main Note.md"
               }
             }
           },
@@ -159,11 +158,11 @@
   },
   "active": "e43128b3898d05ca",
   "lastOpenFiles": [
+    "Important Terms Explanation/Gradient Diversity.md",
     "FedCPF Paper Main Note.md",
     "Pasted image 20230728222105.png",
     "Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Important Terms Explanation/Federated Learning.md",
-    "Important Terms Explanation/Gradient Diversity.md",
     "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Important Terms Explanation",
     "Presentation 1",
