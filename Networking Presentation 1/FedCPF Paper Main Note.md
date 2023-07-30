@@ -12,14 +12,6 @@ The selected text is an abstract of a research paper that discusses the use of F
 
 #### ![[Federated Learning]]
 
-##### <u>An anomaly-based Intrusion Detection System (IDS):</u>
-It is a type of cybersecurity system that aims to identify and detect abnormal or suspicious behavior within a network or system. Unlike signature-based IDS, which relies on predefined patterns of known attacks (signatures), anomaly-based IDS focuses on recognizing deviations from established normal patterns of network or user behavior.
-
-##### <u>A multiclass classification model:</u> 
-It is a type of machine learning model designed to categorize data into more than two classes or categories. Unlike binary classification models that classify data into two classes (e.g., yes/no, true/false), multiclass classification models can handle multiple classes simultaneously.
-
-##### <u>Transfer learning:</u>
-It is a machine learning technique that leverages knowledge gained from solving one problem to improve the performance of a related but different problem. In the context of deep learning, transfer learning involves using a pre-trained model on a large dataset and applying it to a different but related task or dataset. This approach is particularly useful when the target dataset is small or lacks sufficient labeled examples for training a model from scratch.
 
 
 # <u>Proposed Methods (IV)</u>
@@ -67,7 +59,7 @@ Total Communication cost,
 $W=\sum_{t=1}^{T} \{n(t) + K\}.\omega^*$
 
 Upper bound of communication overheads,
-$\tilde{W}= 2T*(K.\omega^*)$ 
+$\tilde{W}= 2T*(K.\omega^*)$                                                   (6)
 
 ##  <u>C. A customized Local training Strategy</u>
 
@@ -76,11 +68,62 @@ $\tilde{W}= 2T*(K.\omega^*)$
 #### ![[Earth Mover's Distance (EMD)]]
 
 
-This EMD distance measurement is affected by factors such as the learning rate, the number of training epochs, and the gradient. The text explains that weight divergence in Federated Learning (FL) is mainly caused by two aspects:
-- <u>L^2 Norm</u> : Basically Euclidian Distance.
-	- <mark style="background: #BBFABBA6;">(1)</mark>the weight divergence accumulates after T-1 communication rounds.
-	- <mark style="background: #BBFABBA6;">(2)</mark> weight divergence is induced by the probability distance for the data distribution on client k compared with the actual distribution for the whole data set. As a result, it is necessary to set an appropriate local training strategy for each client with different training amounts to reduce weight divergence.
-		- **(2) Explained :** The 2nd point means that the data distribution on each client may not be representative of the whole data distribution. For example, if the data set is about images of animals, some clients may have more images of cats than dogs, while others may have more images of birds than fish. This means that the probability of each label (such as cat, dog, bird, fish) is different on each client. This probability difference is measured by EMD, and it affects the weight divergence because it influences the direction and magnitude of the gradient updates on each client. Therefore, the global model may not converge well if the data distribution on each client is too different from the whole data distribution. 
+#### <u>Approach to reduce Gradient Diversity</u>
+
+Instead of minimizing the local loss function $F_k(.)$ , client $k$ minimizes the following objective equation,
+$min_\omega  g_k(\omega_k;\omega^t)=F_k(\omega_k)+\frac{\epsilon}{2} ||\omega_k-\omega^t||^2$ 
+
+##### $\theta_k^t$ Customized Local Training : 
+$\theta_k^t$ Denotes running $\theta$ epochs on client $k$ at the $t_{th}$ federated training. 
+$\hat{\omega_k}$ is an intermediate solution of equation (6)
+
+The constraint $\frac{\epsilon}{2} ||\omega_k-\omega^t||^2$ is beneficial for two reasons,
+- Alleviates the statistical heterogeneity by limiting the number of local updates closer to the global model without manually setting the local epochs.
+- Allows for safely incorporating variable amounts of local training resulting from systems heterogeneity. 
+
+## <u>D. Partial Client Participation Rule</u>
+
+### <u>Problem : Too many clients communicating with the  parameter server</u>
+**Fl Efficiency is effected by two things**
+- Limitations of uplink communication
+- Some clients only have a small amount of data which will become noise in the aggregation phase which will cause the global model to be more biased
+### <u>Solution</u>
+- A subset of the clients denoted as $\{S_t\}$ are selected and local models on those clients are used to optimize equation (4)
+- In the uplink phase clients upload the $\omega_k$ also transmit the size of the local data set to the parameter server
+- Parameter server calculates the probability of each client being selected, denotes as $p_k$ 
+- Subset of selected clients in each round is different
+- Equation (4) is changed to 
+$min_\omega F(\omega)=\sum_{k=1}^{|S_t|}pk.gk(\omega_k;\omega^t)$
+Where, $\sum_{k=1}^{|S_t|} p_k=1$
+
+- The partial client participation rule contains more information about the client data set avoiding the development of a global model in some personalized direction
+
+## <u>E. A Flexible Aggregation Policy</u>
+
+- Since the local training process is  highly dynamic a flexible aggregation policy is required to maintain synchronicity
+### <u>Problem</u>
+- The most time consuming phase is the uplink communication. Because,
+	- The server needs to wait for all the clients to upload the local training results and aggregate them
+### <u>Solution</u>
+- A flexible aggregation policy to limit the time of the uplink communication phase.
+- $t_{th}$ uplink communication phase begins at time $r_s^t$ and finishes at time $r_e^t$ 
+- $r_k$ denotes the time when the $k_{th}$ client finishes the local training time. 
+- We add the following restriction
+	- $r_s^t \le r_k \le r_e^t$
+$T_g$ = Running time of a complete FL round
+$T_{co}$ = Communication time
+$T_{cp}$ = Time for local training epoch
+
+$\theta_k^t$ = number of epochs for client $k$ 
+$T_g=T_{co}+\theta_k^t.T_{cp}$
+
+we will try to minimize $T_{co}$ using the flexible aggregation policy
+
+## <u>FedCPF Algorithm (Pseudocode)</u>
+
+
+![[Pasted image 20230729232957.png]]
+
 ## <u>F. Convergence Analysis</u>
 
 #### IID : Independent and Identically Distributed
