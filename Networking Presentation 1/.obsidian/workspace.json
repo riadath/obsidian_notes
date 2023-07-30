@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -155,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb3da7c15076a0ef",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "FedCPF Paper Main Note.md",
