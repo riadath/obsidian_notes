@@ -10,7 +10,7 @@ The selected text is an abstract of a research paper that discusses the use of F
 
 ## <u>Important Terms</u>
 
-#### [[Federated Learning]]
+#### ![[Federated Learning]]
 
 ##### <u>An anomaly-based Intrusion Detection System (IDS):</u>
 It is a type of cybersecurity system that aims to identify and detect abnormal or suspicious behavior within a network or system. Unlike signature-based IDS, which relies on predefined patterns of known attacks (signatures), anomaly-based IDS focuses on recognizing deviations from established normal patterns of network or user behavior.
@@ -71,9 +71,9 @@ $\tilde{W}= 2T*(K.\omega^*)$
 
 ##  <u>C. A customized Local training Strategy</u>
 
-#### [[Gradient Diversity]]
+#### ![[Gradient Diversity]]
 
-#### [[Earth Mover's Distance (EMD)]]
+#### ![[Earth Mover's Distance (EMD)]]
 
 
 This EMD distance measurement is affected by factors such as the learning rate, the number of training epochs, and the gradient. The text explains that weight divergence in Federated Learning (FL) is mainly caused by two aspects:
