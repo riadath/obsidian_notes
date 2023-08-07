@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a10ac6963b2e346e",
+        "id": "2096118fe665048d",
         "type": "tabs",
         "children": [
           {
-            "id": "e43128b3898d05ca",
+            "id": "cb3da7c15076a0ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking Presentation 1/FedCPF Paper Main Note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#gru",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 217.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking Presentation 1/FedCPF Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking Presentation 1/FedCPF Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networking Presentation 1/FedCPF Paper Main Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,22 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43128b3898d05ca",
+  "active": "cb3da7c15076a0ef",
   "lastOpenFiles": [
-    "Networking Presentation 1/Important Terms Explanation/Gradient Diversity.md",
-    "Networking Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
-    "Untitled.md",
-    "Networking Presentation 1/Important Terms Explanation/Federated Learning.md",
-    "Networking Presentation 1/FedCPF Paper Main Note.md",
+    "Pasted image 20230808004646.png",
+    "Pasted image 20230808004116.png",
+    "conflict-files-obsidian-git.md",
+    "FedCPF Paper Main Note.md",
+    "Assets/Pasted image 20230729232957.png",
+    "Assets/Pasted image 20230728222105.png",
+    "Assets",
+    "2023-07-29.md",
+    "Important Terms Explanation/Gradient Diversity.md",
+    "Important Terms Explanation/Federated Learning.md",
+    "Important Terms Explanation/Earth Mover's Distance (EMD).md",
+    "Pasted image 20230728222105.png",
+    "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
+    "Important Terms Explanation",
+    "Presentation 1",
+    "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
     "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
     "IOT Related papers/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
-    "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
-    "Presentation 1/Important Terms Explanation/Federated Learning.md",
-    "Presentation 1/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
-    "Presentation 1/Important Terms Explanation/Gradient Diversity.md",
-    "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
-    "Presentation 1/Important Terms Explanation",
-    "Presentation 1",
     "Federated Learning",
     "Edge Computing",
     "Recurrent Neural Network ( RNN ).md",
@@ -186,14 +182,9 @@
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609054008.png",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609051903.png",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609051008.png",
-    "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609050815.png",
-    "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609042456.png",
-    "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609025913.png",
     "Parallel and Distributed Storage (7) 21/Assets",
     "System Architecture (7)20/Assets",
-    "System Architecture (7)20/Assets/Pasted image 20230609022909.png",
     "Parallel and Distributed Storage (7) 21",
-    "System Architecture (7)20",
     "2023-06-09.md",
     "Untitled.canvas"
   ]
