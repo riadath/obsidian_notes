@@ -11,7 +11,6 @@ Set bit[1] of NVIC->ISER[0] = 1:
 .
 .
 .
-
 Set bit[0] of NVIC->ISER[0] = 1:
 	Enable Interrupt 32
 ```
