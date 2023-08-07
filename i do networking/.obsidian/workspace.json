@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
+                "file": "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 355.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
+                "file": "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
+                "file": "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md"
+                "file": "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "e43128b3898d05ca",
   "lastOpenFiles": [
-    "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
     "IOT Related papers/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
+    "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
     "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
     "Presentation 1/Important Terms Explanation/Federated Learning.md",
     "Presentation 1/FedCPF An Efficient-Communication Federated Learning Approach for Vehicular Edge Computing in 6G Communication Networks.md",
