@@ -6,5 +6,7 @@
 	- Transmission Power
 	- Local Model Accuracy to get min cost in worst case of FL
 - The formulated problem is a [[Nonlinear Programming]] problem subdivided into two problems
-	- For resource allocation: Lagrangian Dual + Subgradient Projection method
-	- 
+	- **For resource allocation:** Lagrangian Dual + Subgradient Projection method
+	- **local model accuracy:** And adaptive harmony algorithm
+
+# Introduction

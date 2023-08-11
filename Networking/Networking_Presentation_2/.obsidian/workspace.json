@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper Main Note.md",
+                "file": "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper Main Note.md",
+                "file": "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper Main Note.md"
+                "file": "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf"
               }
             }
           },
@@ -186,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6f6ce9f81256a17",
+  "active": "8af9dba31cf9d4cd",
   "lastOpenFiles": [
-    "Nonlinear Programming.md",
     "Paper Main Note.md",
+    "Nonlinear Programming.md",
     "Pasted image 20230811234308.png",
     "Pasted image 20230811234037.png",
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
