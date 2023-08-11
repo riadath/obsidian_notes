@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2965b65d3d812f2a",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nonlinear Programming.md",
+                "file": "Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nonlinear Programming.md",
+                "file": "Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nonlinear Programming.md"
+                "file": "Paper Main Note.md"
               }
             }
           },
@@ -187,12 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4b638ddd2dbf8f5",
+  "active": "c6f6ce9f81256a17",
   "lastOpenFiles": [
+    "Nonlinear Programming.md",
+    "Paper Main Note.md",
     "Pasted image 20230811234308.png",
     "Pasted image 20230811234037.png",
-    "Paper Main Note.md",
-    "Nonlinear Programming.md",
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Vehicle Selection and Resource Optimization for.pdf",
     "xiao21-TITS.pdf",
@@ -231,7 +230,6 @@
     "Pasted image 20230610004821.png",
     "Pasted image 20230609221808.png",
     "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609054631.png",
-    "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609054008.png",
     "2023-06-09.md"
   ]
 }
