@@ -1,4 +1,4 @@
-- Linear p
+- Linear programming 
 
 
 
