@@ -19,7 +19,7 @@
 #### How to select vehicles with the best image quality for training
 
 #### Models training time is strongly associated with model accuracy
-- The higher the local models accuracy the longer the 
+- The higher the local models accuracy the longer the local iteration time and greater computational energy consumption. But the number of updates to the edge server will decrease so that the transmission energy consumption wi 
 
 
 
