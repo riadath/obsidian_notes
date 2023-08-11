@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2965b65d3d812f2a",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nonlinear Programming.md",
+                "file": "Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nonlinear Programming.md",
+                "file": "Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nonlinear Programming.md"
+                "file": "Paper Main Note.md"
               }
             }
           },
@@ -187,10 +186,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4b638ddd2dbf8f5",
+  "active": "c6f6ce9f81256a17",
   "lastOpenFiles": [
-    "Paper Main Note.md",
     "Nonlinear Programming.md",
+    "Paper Main Note.md",
     "Pasted image 20230811234308.png",
     "Pasted image 20230811234037.png",
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
