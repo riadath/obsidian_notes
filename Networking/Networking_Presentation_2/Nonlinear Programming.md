@@ -7,4 +7,4 @@
 ## How it's done
 
 
-![[Pasted image 20230811234037.png]]
+	![[Pasted image 20230811234037.png]]
