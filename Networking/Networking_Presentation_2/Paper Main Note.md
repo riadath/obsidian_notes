@@ -4,4 +4,5 @@
 - Considering the vehicle position and velocity formulate a min-max optimization problem in order to optimize
 	- Computation Capability
 	- Transmission Power
-	- L
+	- Local Model Accuracy to get min cost in worst case of FL
+- 
