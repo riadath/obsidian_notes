@@ -18,7 +18,9 @@
 - In the context of vehicular edge computing (VEC), service switching between edge servers refers to the process of vehicles moving between the coverage areas of different edge servers while still maintaining their connection to the network. 
 #### How to select vehicles with the best image quality for training
 
-#### Models training time is strongly a
+#### Models training time is strongly associated with model accuracy
+- The higher the local models accuracy the longer the 
+
 
 
 
