@@ -1,4 +1,7 @@
-- Linear programming 
+- Linear programming but with non-linear equations
+- Essentially optimizing non linear equation with degree higher than one
+## Example
+![[Pasted image 20230811234308.png]]
 
 
 
