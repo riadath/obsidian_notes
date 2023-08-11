@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "5502e02cddccd854",
+    "type": "split",
+    "children": [
+      {
+        "id": "2965b65d3d812f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28dd96f2c119f12a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18a1a7673a7e64ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6568dbec3a1b7509",
+    "type": "split",
+    "children": [
+      {
+        "id": "b58d437b27ab960a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c933d2a4a20f481",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24d48a7b31448ce7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#gru",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f57dfcc4aa7a328",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "1f466701ab4da56d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c056dbd97956fb53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f469be5a42ca3117",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO Networking.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fa7410e638efb37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO Networking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4bf64d15f32e659",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc51b31b9895de07",
+            "type": "leaf",
+            "st
