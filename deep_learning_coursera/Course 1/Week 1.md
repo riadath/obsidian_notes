@@ -9,3 +9,5 @@ $(x,y)$ training set
 # Logistic Regression
 ![[Pasted image 20230813001134.png | 600x300]]
 
+### Output
+$\hat{y} = \sigma(\omget^Tx)$
