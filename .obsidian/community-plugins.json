@@ -1,6 +1,7 @@
 [
   "highlightr-plugin",
   "obsidian-underline",
-  "obsidian-relative-line-numbers",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter",
+  "obsidian-editor-shortcuts"
 ]
