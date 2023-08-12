@@ -6,37 +6,17 @@
       {
         "id": "22664f13c2fd6676",
         "type": "tabs",
-        "dimension": 52.23880597014925,
         "children": [
           {
-            "id": "c6f6ce9f81256a17",
+            "id": "ff4a7129fe68fcc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d4b638ddd2dbf8f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "2965b65d3d812f2a",
-        "type": "tabs",
-        "dimension": 47.76119402985074,
-        "children": [
-          {
-            "id": "8af9dba31cf9d4cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 386.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "deep_learning_coursera/Course 1/Week 1.md"
+              }
             }
           },
           {
@@ -172,8 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6f6ce9f81256a17",
+  "active": "ff4a7129fe68fcc2",
   "lastOpenFiles": [
+    "deep_learning_coursera/Course 1",
+    "Networking/Networking_Presentation_2/Paper Main Note.md",
+    "deep_learning_coursera/Course 1/Week 1.md",
+    "Networking/Networking_Presentation_2/Pasted image 20230811234037.png",
+    "Networking/Networking_Presentation_2/Pasted image 20230811234308.png",
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Paper Main Note.md",
     "Nonlinear Programming.md",
@@ -184,7 +172,6 @@
     "Unconfirmed 615879.crdownload",
     "2023-08-11.md",
     "TODO Networking.md",
-    "Untitled",
     "TODO_Networking/Untitled.md",
     "TODO_Networking",
     "2023-08-08.md",
@@ -214,8 +201,6 @@
     "System Architecture (7)20/1. Parallel Database Architectures.md",
     "keep_typing/I type.md",
     "Pasted image 20230610004821.png",
-    "Pasted image 20230609221808.png",
-    "Parallel and Distributed Storage (7) 21/Assets/Pasted image 20230609054631.png",
     "2023-06-09.md"
   ]
 }
