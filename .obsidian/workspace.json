@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo/2023-08-12.md",
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo/2023-08-12.md",
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo/2023-08-12.md",
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo/2023-08-12.md"
+                "file": "deep_learning_coursera/Course 1/Week 1.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "5890802e203525cc",
   "lastOpenFiles": [
+    "todo/2023-08-12.md",
     "todo/TODO Networking.md",
     "deep_learning_coursera/Course 1/Week 1.md",
     "deep_learning_coursera/Assets",
@@ -202,7 +203,6 @@
     "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
     "System Architecture (7)20/2. Distributed Systems.md",
     "System Architecture (7)20/1. Parallel Database Architectures.md",
-    "keep_typing/I type.md",
-    "2023-06-09.md"
+    "keep_typing/I type.md"
   ]
 }
