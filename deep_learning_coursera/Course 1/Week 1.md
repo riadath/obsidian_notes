@@ -20,4 +20,5 @@ $(x,y)$ training set
 
 
 ## Loss Function for Logistic Regression
-$\lamda$
+$L(\hat{y},y)=-(y)$
+
