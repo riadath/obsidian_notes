@@ -19,3 +19,5 @@ $(x,y)$ training set
 
 
 
+## Loss Function for Logistic Regression
+$\lamda$
