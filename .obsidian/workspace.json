@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf"
+                "file": "deep_learning_coursera/Course 1/Week 1.md"
               }
             }
           },
@@ -178,11 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cb684556f5fbf36",
+  "active": "5890802e203525cc",
   "lastOpenFiles": [
+    "Networking/Networking_Presentation_2/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "deep_learning_coursera/Course 1/Week 1.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
-    "Networking/Networking_Presentation_2/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "todo/2023-08-12.md",
     "todo/TODO Networking.md",
