@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c7f6d04639d2bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1cb684556f5fbf36",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,6 +192,8 @@
   },
   "active": "1cb684556f5fbf36",
   "lastOpenFiles": [
+    "Networking/Networking_Presentation_2/Paper Main Note.md",
+    "Networking/Networking_Presentation_2/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "deep_learning_coursera/Course 1/Week 1.md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "todo/2023-08-12.md",
@@ -190,7 +204,6 @@
     "deep_learning_coursera/Assets/Pasted image 20230813001134.png",
     "deep_learning_coursera/Assets/Pasted image 20230813000906.png",
     "deep_learning_coursera/Course 1",
-    "Networking/Networking_Presentation_2/Paper Main Note.md",
     "Networking/Networking_Presentation_2/Pasted image 20230811234037.png",
     "Networking/Networking_Presentation_2/Pasted image 20230811234308.png",
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
@@ -218,14 +231,12 @@
     "Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Important Terms Explanation",
-    "Presentation 1",
     "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
     "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
     "IOT Related papers/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
     "Recurrent Neural Network ( RNN ).md",
     "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md",
     "System Architecture (7)20/2. Distributed Systems.md",
-    "System Architecture (7)20/1. Parallel Database Architectures.md",
-    "keep_typing/I type.md"
+    "System Architecture (7)20/1. Parallel Database Architectures.md"
   ]
 }
