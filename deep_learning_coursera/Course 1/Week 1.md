@@ -11,7 +11,7 @@ $(x,y)$ training set
 
 ![[Pasted image 20230813003623.png]]
 
-### Output : $\hat{y} = \sigma(\omega^T x + b)$ and $z = \omega^T x + b$
+### Output : $\hat{y} = \sigma(z)$ and $z = \omega^T x + b$
 
 ### Sigmoid Function
 
