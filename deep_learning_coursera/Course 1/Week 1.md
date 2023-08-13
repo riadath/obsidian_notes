@@ -18,6 +18,6 @@ $(x,y)$ training set
 ![[Pasted image 20230813001823.png | 750x300]]
 
 
+## Loss Function: $L(\hat{y},y)=-(y*log(\hat{y}) + (1-y)*log(1-\hat{y}))$
 
-## <u>Loss Function for Logistic Regression</u>: $L(\hat{y},y)=-(y*log(\hat{y}) + (1-y)*log(1-\hat{y}))$
-
+### Cost Function: $J(w,b) =\frac{1}{m$
