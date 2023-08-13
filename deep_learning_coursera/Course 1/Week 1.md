@@ -19,6 +19,5 @@ $(x,y)$ training set
 
 
 
-## Loss Function for Logistic Regression
-$L(\hat{y},y)=-(y)$
+## <u>Loss Function for Logistic Regression</u>: $L(\hat{y},y)=-(y*log(\hat{y}) + (1-y)*log(1-\hat{y}))$
 
