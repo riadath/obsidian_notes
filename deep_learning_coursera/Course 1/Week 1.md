@@ -20,4 +20,4 @@ $(x,y)$ training set
 
 ## Loss Function: $L(\hat{y},y)=-(y*log(\hat{y}) + (1-y)*log(1-\hat{y}))$
 
-### Cost Function: $J(w,b) =\frac{1}{m$
+### Cost Function: $J(w,b) =\frac{1}{m} * \sum{i=1}^{m} L($
