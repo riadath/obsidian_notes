@@ -21,3 +21,7 @@ $(x,y)$ training set
 ## <u>Loss Function</u>: $L(\hat{y},y)=-(y*log(\hat{y}) + (1-y)*log(1-\hat{y}))$
 
 ## <u>Cost Function</u>: $J(w,b) =\frac{1}{m}  \sum_{i=1}^{m} L(\hat{y}^i , y^i) =\frac{1}{m}  \sum_{i=1}^{m} [-(y*log(\hat{y}) + (1-y)*log(1-\hat{y}))]$
+
+
+
+# Logistic Regression Gradient Descent
