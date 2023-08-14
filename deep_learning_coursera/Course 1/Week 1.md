@@ -29,4 +29,4 @@ $(x,y)$ training set
 ![[Pasted image 20230814204205.png|700x300]]
 
 
-### $$
+## $dz = \frac{\partial L(a,y)}{\partial z}$
