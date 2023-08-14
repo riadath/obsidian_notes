@@ -25,3 +25,7 @@ $(x,y)$ training set
 
 
 # Logistic Regression Gradient Descent
+
+![[Pasted image 20230814204205.png|700x300]]
+
+
