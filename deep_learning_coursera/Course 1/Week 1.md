@@ -33,6 +33,12 @@ $(x,y)$ training set
 ## $dw_1 = \frac{\partial L}{\partial w_1}=x_1dz$
 ## $dw_2 = \frac{\partial L}{\partial w_2}=x_2dz$
 
+## $db=dz$
+
 ### <u>Updates</u>
 ## $w_1 := w_1-\alpha \ \  dw_1$
-## $w_1 := w_1-\alpha \ \  dw_1$
+## $w_2 := w_2-\alpha \ \  dw_2$
+## $b := b-\alpha \ \  db$
+
+
+
