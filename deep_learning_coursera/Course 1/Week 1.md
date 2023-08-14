@@ -30,4 +30,5 @@ $(x,y)$ training set
 
 
 ## $dz = \frac{\partial L(a,y)}{\partial z}=a-y$
-## $dw_1 = \frac{\partial L(a,y)}{\partial w_1}=$
+## $dw_1 = \frac{\partial L}{\partial w_1}=x_1dz$
+## $dw_2 = \frac{\partial L}{\partial w_2}=x_2dz$
