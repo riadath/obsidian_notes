@@ -34,4 +34,5 @@ $(x,y)$ training set
 ## $dw_2 = \frac{\partial L}{\partial w_2}=x_2dz$
 
 ### <u>Updates</u>
-## $w_1 := w_1-\alpha d$
+## $w_1 := w_1-\alpha \ \  dw_1$
+## $w_1 := w_1-\alpha \ \  dw_1$
