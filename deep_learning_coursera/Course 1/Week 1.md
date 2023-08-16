@@ -25,3 +25,38 @@ $(x,y)$ training set
 
 
 # Logistic Regression Gradient Descent
+
+![[Pasted image 20230814204205.png|700x300]]
+
+
+## $dz = \frac{\partial L(a,y)}{\partial z}=a-y$
+## $dw_1 = \frac{\partial L}{\partial w_1}=x_1dz$
+## $dw_2 = \frac{\partial L}{\partial w_2}=x_2dz$
+
+## $db=dz$
+
+### <u>Updates</u>
+## $w_1 := w_1-\alpha \ \  dw_1$
+## $w_2 := w_2-\alpha \ \  dw_2$
+## $b := b-\alpha \ \  db$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
