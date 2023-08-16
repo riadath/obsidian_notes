@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
-                "mode": "source",
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
+                "file": "deep_learning_coursera/Course 1/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md"
+                "file": "deep_learning_coursera/Course 1/Week 1.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "1cb684556f5fbf36",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
+    "conflict-files-obsidian-git.md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_2/Nonlinear Programming.md",
     "Networking/Networking_Presentation_2/Assets/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
