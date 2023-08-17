@@ -23,7 +23,7 @@
 - The higher the local models accuracy the longer the local iteration time and greater computational energy consumption. But the number of updates to the edge server will decrease so that the transmission energy consumption will be reduced.
 # <u>System Model</u>
 
-
+## <u>A. Connected and Autonomous Vehicles Modeling</u>
 
 ### C-V2X Technology
 
@@ -33,5 +33,6 @@ C-V2X, or Cellular Vehicle-to-Everything, is a wireless communication technology
 
 A Poisson process is a mathematical model that describes the occurrence of random events over time. It is often used to model the arrival of customers, requests, or vehicles in a system. A Poisson process has two main characteristics: the number of events in any interval of time is independent of the number of events in any other disjoint interval, and the probability of a single event occurring in a small interval of time is proportional to the length of that interval.
 
+## <u>B. Federated Learning in Vehicular Edge Computing</u>
 
 
