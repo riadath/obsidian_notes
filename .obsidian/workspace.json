@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md"
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md"
               }
             }
           },
@@ -157,8 +158,8 @@
   },
   "active": "1cb684556f5fbf36",
   "lastOpenFiles": [
-    "Networking/Networking_Presentation_2/Assets/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+    "Networking/Networking_Presentation_2/Assets/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
     "OS/bare_metal.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
