@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep_learning_coursera/Course 1/Week 2.md",
-                "mode": "preview",
+                "file": "todo/2023-08-18.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep_learning_coursera/Course 1/Week 2.md",
+                "file": "todo/2023-08-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep_learning_coursera/Course 1/Week 2.md",
+                "file": "todo/2023-08-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deep_learning_coursera/Course 1/Week 2.md"
+                "file": "todo/2023-08-18.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
+    "todo/2023-08-16.md",
+    "todo/2023-08-18.md",
+    "deep_learning_coursera/Course 1/Week 2.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
     "conflict-files-obsidian-git.md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
@@ -165,10 +168,8 @@
     "Pasted image 20230814204205.png",
     "todo/TODO Networking.md",
     "Networking/Networking_Presentation_2/Assets",
-    "todo/2023-08-16.md",
     "todo/2023-08-12.md",
     "todo/2023-08-11.md",
-    "deep_learning_coursera/Course 1/Week 2.md",
     "deep_learning_coursera/Assets",
     "deep_learning_coursera/Assets/Pasted image 20230813003623.png",
     "deep_learning_coursera/Assets/Pasted image 20230813001823.png",
@@ -202,7 +203,6 @@
     "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
     "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
     "IOT Related papers/Federated Learning-based Anomaly Detection for IoT Security Attacks.md",
-    "Recurrent Neural Network ( RNN ).md",
-    "Parallel and Distributed Storage (7) 21/Parallel and Distributed Storage.md"
+    "Recurrent Neural Network ( RNN ).md"
   ]
 }
