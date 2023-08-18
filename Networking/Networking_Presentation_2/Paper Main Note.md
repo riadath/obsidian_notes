@@ -25,7 +25,7 @@
 
 
 ## Notations
-![[Pasted image 20230818203343.png | 00x600]]
+![[Pasted image 20230818203343.png | 1200x750]]
 
 ## <u>A. Connected and Autonomous Vehicles Modeling</u>
 
