@@ -23,6 +23,10 @@
 - The higher the local models accuracy the longer the local iteration time and greater computational energy consumption. But the number of updates to the edge server will decrease so that the transmission energy consumption will be reduced.
 # <u>System Model</u>
 
+
+## Notations
+![[Pasted image 20230818203343.png | 00x600]]
+
 ## <u>A. Connected and Autonomous Vehicles Modeling</u>
 
 ### C-V2X Technology
