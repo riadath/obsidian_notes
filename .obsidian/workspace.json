@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md"
+                "file": "Networking/Networking_Presentation_2/Paper Main Note.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "9fe8f7b1ec12b30b",
   "lastOpenFiles": [
+    "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
     "OS/bare_metal.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
     "Networking/Networking_Presentation_2/Nonlinear Programming.md",
@@ -167,7 +168,6 @@
     "Networking/Networking_Presentation_2/Assets/Pasted image 20230818203343.png",
     "Networking/Networking_Presentation_2/Assets/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
-    "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
     "deep_learning_coursera/Course 1/Week 2.md",
     "conflict-files-obsidian-git.md",
     "Networking/Networking_Presentation_2/Assets",
