@@ -11,11 +11,9 @@
             "id": "5890802e203525cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230814204205.png"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
+                "file": "Pasted image 20230814204205.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
+                "file": "Pasted image 20230814204205.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md"
+                "file": "Pasted image 20230814204205.png"
               }
             }
           },
@@ -169,6 +167,7 @@
   },
   "active": "5890802e203525cc",
   "lastOpenFiles": [
+    "Networking/Networking_Presentation_2/Paper Main Note.md",
     "Networking/Networking_Presentation_2/Nonlinear Programming.md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "deep_learning_coursera/Course 1/Week 1.md",
@@ -179,7 +178,6 @@
     "Networking/Networking_Presentation_2/Assets",
     "Pasted image 20230814204205.png",
     "Networking/Networking_Presentation_2/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
-    "Networking/Networking_Presentation_2/Paper Main Note.md",
     "todo/2023-08-12.md",
     "todo/TODO Networking.md",
     "deep_learning_coursera/Assets",
