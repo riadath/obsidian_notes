@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automata/Finite Automata.md",
+                "file": "Automata/Regular Languages/Finite Automata.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata/Finite Automata.md",
+                "file": "Automata/Regular Languages/Finite Automata.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata/Finite Automata.md",
+                "file": "Automata/Regular Languages/Finite Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata/Finite Automata.md"
+                "file": "Automata/Regular Languages/Finite Automata.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "e8b99e791ae286ca",
   "lastOpenFiles": [
+    "Pasted image 20230827045319.png",
+    "Automata/Regular Languages",
     "todo/TODO Networking.md",
-    "Automata/Finite Automata.md",
+    "Automata/Regular Languages/Finite Automata.md",
     "Automata",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
@@ -194,7 +196,6 @@
     "2023-08-11.md",
     "TODO Networking.md",
     "TODO_Networking/Untitled.md",
-    "TODO_Networking",
     "2023-08-08.md",
     "Untitled.canvas",
     "FedCPF Paper Main Note.md",
@@ -202,7 +203,6 @@
     "Important Terms Explanation/Gradient Diversity.md",
     "Important Terms Explanation/Federated Learning.md",
     "Important Terms Explanation/Earth Mover's Distance (EMD).md",
-    "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
-    "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md"
+    "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md"
   ]
 }
