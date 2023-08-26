@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4561ebbea3adc050",
+        "id": "86ea99c6db306a97",
         "type": "tabs",
         "children": [
           {
-            "id": "5890802e203525cc",
+            "id": "e8b99e791ae286ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d8a387ca0afbb98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+                "file": "Automata/Finite Automata.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non linear",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 279.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
+                "file": "Automata/Finite Automata.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md",
+                "file": "Automata/Finite Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_2/Paper Main Note.md"
+                "file": "Automata/Finite Automata.md"
               }
             }
           },
@@ -167,36 +155,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5890802e203525cc",
+  "active": "e8b99e791ae286ca",
   "lastOpenFiles": [
     "todo/TODO Networking.md",
+    "Automata/Finite Automata.md",
+    "Automata",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20230814204205.png",
+    "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
+    "OS/bare_metal.md",
+    "Networking/Networking_Presentation_2/Nonlinear Programming.md",
     "todo/2023-08-18.md",
-    "deep_learning_coursera/Course 1/Week 2.md",
+    "todo/2023-08-16.md",
     "deep_learning_coursera/Assets/Pasted image 20230814204205.png",
     "Networking/Networking_Presentation_2/Assets/Pasted image 20230818203343.png",
-    "Networking/Networking_Presentation_2/Nonlinear Programming.md",
-    "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
-    "deep_learning_coursera/Course 1/Week 1.md",
-    "todo/2023-08-16.md",
     "Networking/Networking_Presentation_2/Assets/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
-    "Networking/Networking_Presentation_2/Assets/Pasted image 20230811234308.png",
-    "Networking/Networking_Presentation_2/Assets/Pasted image 20230811234037.png",
+    "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+    "deep_learning_coursera/Course 1/Week 2.md",
+    "conflict-files-obsidian-git.md",
     "Networking/Networking_Presentation_2/Assets",
-    "Networking/Networking_Presentation_2/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "todo/2023-08-12.md",
+    "todo/2023-08-11.md",
     "deep_learning_coursera/Assets",
     "deep_learning_coursera/Assets/Pasted image 20230813003623.png",
     "deep_learning_coursera/Assets/Pasted image 20230813001823.png",
     "deep_learning_coursera/Assets/Pasted image 20230813001134.png",
     "deep_learning_coursera/Assets/Pasted image 20230813000906.png",
     "deep_learning_coursera/Course 1",
-    "Networking/Networking_Presentation_2/Pasted image 20230811234037.png",
+    "Networking/Networking_Presentation_2/Assets/Pasted image 20230811234037.png",
+    "Networking/Networking_Presentation_2/Assets/Pasted image 20230811234308.png",
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Paper Main Note.md",
     "Nonlinear Programming.md",
+    "Pasted image 20230811234308.png",
+    "Pasted image 20230811234037.png",
     "Vehicle Selection and Resource Optimization for.pdf",
     "xiao21-TITS.pdf",
     "Unconfirmed 615879.crdownload",
@@ -212,8 +203,6 @@
     "Important Terms Explanation/Federated Learning.md",
     "Important Terms Explanation/Earth Mover's Distance (EMD).md",
     "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md",
-    "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md",
-    "IOT Related papers/Federated Deep Learning for Zero-Day Botnet Attack Detection in IoT Edge Devices.md",
-    "IOT Related papers/Federated Learning-based Anomaly Detection for IoT Security Attacks.md"
+    "IOT Related papers/Energy Efficient Dynamic Offloading in Mobile Edge Computing for Internet of Things.md"
   ]
 }
