@@ -17,5 +17,5 @@
 ## Formal Definition of Computation
 ![[Pasted image 20230827065415.png | 700x200]]
 
-### A language is called a <u>Regular Language</u> if some finite automaton recognizes it
+### <mark style="background: #BBFABBA6;">A language is called a <u>Regular Language</u> if some finite automaton recognizes it</mark>
 
