@@ -1,4 +1,4 @@
-## State Diagram (Above Figure)
+## State Diagram
 
 ![[Pasted image 20230827045319.png | 500x200]]
 
@@ -19,3 +19,8 @@
 
 ### <mark style="background: #BBFABBA6;">A language is called a <u>Regular Language</u> if some finite automaton recognizes it</mark>
 
+## Regular Operations
+![[Pasted image 20230827071354.png | 650x250]]
+
+
+### Theorem 1.25 : The class of regular languages is closed under the union operation
