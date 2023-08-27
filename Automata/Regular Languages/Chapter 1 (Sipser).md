@@ -47,8 +47,14 @@ It accepts all strings of the form 0 k where k is a multiple of 2 or 3. accepts 
 ![[Pasted image 20230827082335.png | 500x300]]
 
 ### Ex 1.35
-
 ![[Pasted image 20230827082614.png | 300x200]]
+
+
+## Formal Definition of NFA
+![[Pasted image 20230827083921.png | 0x300]]
+### Ex 1.38
+![[Pasted image 20230827084032.png | 700x400]]
+### Computation of NFA : Similar to DFA (above)
 
 
 
