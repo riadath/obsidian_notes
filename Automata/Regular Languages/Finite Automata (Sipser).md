@@ -1,16 +1,21 @@
 ## State Diagram (Above Figure)
 
-![[Pasted image 20230827045319.png]]
+![[Pasted image 20230827045319.png | 500x200]]
 
  - $q_0, q_1, q_3$ are states . $q_0$ is the start state and $q_2$ is the final state (also called accept states)
 - arrows are called transitions 
 - For some input string i.e. "1011" the output is either accept or reject
 
 ## Formal Definition
-![[Pasted image 20230827050159.png]]
+![[Pasted image 20230827050159.png | 700x250]]
 
 ## Finite Automata for Figure 1.4
-![[Pasted image 20230827063930.png]]
+![[Pasted image 20230827063930.png | 600x250]]
 
 - If $A$ is the set of all strings that machine $M$ accepts, we say that $A$ is the language of machine $M$ and write $L(M) = A$. We say that $M$ recognizes $A$ or that $M$ accepts A
+
+## Formal Definition of Computation
+![[Pasted image 20230827065415.png | 700x200]]
+
+### A language is called a <u>Regular Language</u> if some finite automaton recognizes it
 

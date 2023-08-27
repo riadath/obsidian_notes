@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automata/Regular Languages/Finite Automata.md",
+                "file": "Automata/Regular Languages/Finite Automata (Sipser).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata/Regular Languages/Finite Automata.md",
+                "file": "Automata/Regular Languages/Finite Automata (Sipser).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata/Regular Languages/Finite Automata.md",
+                "file": "Automata/Regular Languages/Finite Automata (Sipser).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata/Regular Languages/Finite Automata.md"
+                "file": "Automata/Regular Languages/Finite Automata (Sipser).md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "e8b99e791ae286ca",
   "lastOpenFiles": [
+    "Pasted image 20230827065415.png",
     "Pasted image 20230827063930.png",
     "Pasted image 20230827050159.png",
     "Pasted image 20230827045319.png",
     "Automata/Regular Languages",
     "todo/TODO Networking.md",
-    "Automata/Regular Languages/Finite Automata.md",
+    "Automata/Regular Languages/Finite Automata (Sipser).md",
     "Automata",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
@@ -187,7 +188,6 @@
     "deep_learning_coursera/Assets/Pasted image 20230813000906.png",
     "deep_learning_coursera/Course 1",
     "Networking/Networking_Presentation_2/Assets/Pasted image 20230811234037.png",
-    "Networking/Networking_Presentation_2/Assets/Pasted image 20230811234308.png",
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Paper Main Note.md",
     "Nonlinear Programming.md",
