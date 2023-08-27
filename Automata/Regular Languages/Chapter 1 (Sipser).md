@@ -35,6 +35,18 @@
 # <u><mark style="background: #FFF3A3A6;">Nondeterminism</mark></u>
 
 - When the machine is in a given state and reads the next input symbol, we know what the next state will be—it is determined. We call this deterministic computation. In a nondeterministic machine, several choices may exist for the next state at any point.
-- 
+## NFA Examples
+
+### Ex 1.30
+![[Pasted image 20230827082144.png | 600x250]]
+##### Equivalent DFA
+![[Pasted image 20230827082220.png | 600x300]]
+
+### Ex 1.33
+It accepts all strings of the form 0 k where k is a multiple of 2 or 3. accepts $\epsilon$ , 00,000,0000 but not 00000
+![[Pasted image 20230827082335.png | 500x300]]
+
+### Ex 1.35
+![[Pasted image 20230827082614.png | 330x34]]
 
 
