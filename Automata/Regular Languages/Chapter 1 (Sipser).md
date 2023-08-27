@@ -1,3 +1,5 @@
+# <u><mark style="background: #FFF3A3A6;">Finite Automata</mark></u>
+
 ## State Diagram
 
 ![[Pasted image 20230827045319.png | 500x200]]
@@ -24,9 +26,14 @@
 ### Theorem 1.25 
 ![[Pasted image 20230827071812.png | 600x100]]
 ### Proof 
-![[Pasted image 20230827072259.png | 650x600]]
+![[Pasted image 20230827072259.png | 650x500]]
 ## Theorem 1.26
 ![[Pasted image 20230827072542.png | 600x300]]\
 
+
+
+# <u><mark style="background: #FFF3A3A6;">Nondeterminism</mark></u>
+
+- When the machine is in a given state and reads the next input symbol, we know what the next state will be—it is determined. We call this deterministic computation. In a nondeterministic machine, several choices may exist for the next state at any point.
 
 

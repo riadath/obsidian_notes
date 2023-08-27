@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1.md",
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1.md",
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1.md",
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1.md"
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md"
               }
             }
           },
@@ -168,7 +168,7 @@
     "Pasted image 20230827045319.png",
     "Automata/Regular Languages",
     "todo/TODO Networking.md",
-    "Automata/Regular Languages/Chapter 1.md",
+    "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Automata",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
