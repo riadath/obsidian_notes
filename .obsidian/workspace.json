@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automata/Regular Languages/Finite Automata (Sipser).md",
+                "file": "Automata/Regular Languages/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata/Regular Languages/Finite Automata (Sipser).md",
+                "file": "Automata/Regular Languages/Chapter 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata/Regular Languages/Finite Automata (Sipser).md",
+                "file": "Automata/Regular Languages/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata/Regular Languages/Finite Automata (Sipser).md"
+                "file": "Automata/Regular Languages/Chapter 1.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "e8b99e791ae286ca",
   "lastOpenFiles": [
+    "Pasted image 20230827072542.png",
+    "Pasted image 20230827072259.png",
     "Pasted image 20230827071812.png",
     "Pasted image 20230827071354.png",
     "Pasted image 20230827065415.png",
@@ -166,7 +168,7 @@
     "Pasted image 20230827045319.png",
     "Automata/Regular Languages",
     "todo/TODO Networking.md",
-    "Automata/Regular Languages/Finite Automata (Sipser).md",
+    "Automata/Regular Languages/Chapter 1.md",
     "Automata",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
@@ -185,8 +187,6 @@
     "todo/2023-08-11.md",
     "deep_learning_coursera/Assets",
     "deep_learning_coursera/Assets/Pasted image 20230813003623.png",
-    "deep_learning_coursera/Assets/Pasted image 20230813001823.png",
-    "deep_learning_coursera/Assets/Pasted image 20230813001134.png",
     "deep_learning_coursera/Course 1",
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Paper Main Note.md",

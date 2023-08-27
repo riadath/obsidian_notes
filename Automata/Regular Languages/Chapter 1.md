@@ -21,8 +21,12 @@
 
 ## Regular Operations
 ![[Pasted image 20230827071354.png | 650x250]]
-
-
 ### Theorem 1.25 
 ![[Pasted image 20230827071812.png | 600x100]]
+### Proof 
+![[Pasted image 20230827072259.png | 650x600]]
+## Theorem 1.26
+![[Pasted image 20230827072542.png | 600x300]]\
+
+
 
