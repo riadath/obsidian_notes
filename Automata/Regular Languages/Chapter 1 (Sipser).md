@@ -35,5 +35,6 @@
 # <u><mark style="background: #FFF3A3A6;">Nondeterminism</mark></u>
 
 - When the machine is in a given state and reads the next input symbol, we know what the next state will be—it is determined. We call this deterministic computation. In a nondeterministic machine, several choices may exist for the next state at any point.
+- 
 
 
