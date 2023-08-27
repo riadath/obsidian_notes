@@ -9,5 +9,8 @@
 ## Formal Definition
 ![[Pasted image 20230827050159.png]]
 
+## Finite Automata for Figure 1.4
+![[Pasted image 20230827063930.png]]
 
+- If A is the set of all strings that machine M accepts, we say that A is the language of machine M and write $L(M) = A$. We say that M recognizes A or that M accepts A
 

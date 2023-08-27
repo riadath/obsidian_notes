@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -157,6 +158,7 @@
   },
   "active": "e8b99e791ae286ca",
   "lastOpenFiles": [
+    "Pasted image 20230827063930.png",
     "Pasted image 20230827050159.png",
     "Pasted image 20230827045319.png",
     "Automata/Regular Languages",
@@ -189,7 +191,6 @@
     "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Paper Main Note.md",
     "Nonlinear Programming.md",
-    "Pasted image 20230811234308.png",
     "Vehicle Selection and Resource Optimization for.pdf",
     "xiao21-TITS.pdf",
     "Unconfirmed 615879.crdownload",
