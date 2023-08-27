@@ -47,6 +47,8 @@ It accepts all strings of the form 0 k where k is a multiple of 2 or 3. accepts 
 ![[Pasted image 20230827082335.png | 500x300]]
 
 ### Ex 1.35
-![[Pasted image 20230827082614.png | 330x34]]
+
+![[Pasted image 20230827082614.png | 300x200]]
+
 
 
