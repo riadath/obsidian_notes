@@ -23,4 +23,6 @@
 ![[Pasted image 20230827071354.png | 650x250]]
 
 
-### Theorem 1.25 : The class of regular languages is closed under the union operation
+### Theorem 1.25 
+![[Pasted image 20230827071812.png | 600x100]]
+
