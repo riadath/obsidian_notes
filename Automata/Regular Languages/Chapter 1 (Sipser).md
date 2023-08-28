@@ -60,11 +60,8 @@ It accepts all strings of the form 0 k where k is a multiple of 2 or 3. accepts 
 ## Equivalence of NFA and DFA 
 ### Proof
 ![[Pasted image 20230828222940.png | 600x500]]
-![[Pasted image 20230828222955.png | 600x500]]
+![[Pasted image 20230828222955.png | 600x400]]
 
 ### Corollary 1.40
 - A language is regular if and only if some NFA recognizes it.
-
-
-
 
