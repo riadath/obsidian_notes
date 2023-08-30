@@ -75,5 +75,7 @@ The class of regular languages is closed under the concatenation operation.
 
 ## Theorem 1.49
 The class of regular languages is closed under the star operation.
-![[Pasted image 20230830093243.png | 500x250]]
+![[Pasted image 20230830093243.png | 500x250]]'
+
+
 
