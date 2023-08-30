@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+                "file": "Automata/assets/Pasted image 20230827065415.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+                "file": "Automata/assets/Pasted image 20230827065415.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md"
+                "file": "Automata/assets/Pasted image 20230827065415.png"
               }
             }
           },
@@ -155,8 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d8a387ca0afbb98",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
+    "Automata/assets/Pasted image 20230827063930.png",
+    "Automata/assets/Pasted image 20230827045319.png",
+    "Automata/assets/Pasted image 20230827050159.png",
+    "Automata/Regular Languages/Chapter 1 (Sipser).md",
+    "Automata/assets",
+    "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Pasted image 20230828222955.png",
     "Pasted image 20230828222940.png",
     "Pasted image 20230827084032.png",
@@ -164,11 +170,7 @@
     "Pasted image 20230827082614.png",
     "Pasted image 20230827082335.png",
     "Pasted image 20230827082220.png",
-    "Pasted image 20230827082144.png",
-    "Pasted image 20230827072542.png",
-    "Pasted image 20230827072259.png",
-    "Pasted image 20230827071812.png",
-    "Automata/Regular Languages/Chapter 1 (Sipser).md",
+    "Automata/assets/Pasted image 20230827082144.png",
     "Automata/Regular Languages",
     "Automata",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
@@ -177,7 +179,6 @@
     "todo/2023-08-18.md",
     "deep_learning_coursera/Course 1/Week 2.md",
     "Networking/Networking_Presentation_2/Nonlinear Programming.md",
-    "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "deep_learning_coursera/Course 1/Week 1.md",
     "todo/2023-08-16.md",
     "Networking/Networking_Presentation_2/Assets/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
@@ -190,7 +191,6 @@
     "Paper Main Note.md",
     "Nonlinear Programming.md",
     "Vehicle Selection and Resource Optimization for.pdf",
-    "xiao21-TITS.pdf",
     "2023-08-11.md",
     "TODO Networking.md",
     "TODO_Networking/Untitled.md",
