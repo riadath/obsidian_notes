@@ -65,3 +65,15 @@ It accepts all strings of the form 0 k where k is a multiple of 2 or 3. accepts 
 ### Corollary 1.40
 - A language is regular if and only if some NFA recognizes it.
 
+## Theorem 1.45
+- The class of regular languages is closed under the union operation
+![[Pasted image 20230830093047.png | 500x350]]
+
+## Theorem 1.47
+The class of regular languages is closed under the concatenation operation.
+![[Pasted image 20230830093136.png | 500x350]]
+
+## Theorem 1.49
+The class of regular languages is closed under the star operation.
+![[Pasted image 20230830093243.png | 500x250]]
+
