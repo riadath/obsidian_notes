@@ -1,4 +1,4 @@
 - [x] Equivalence of NFA DFA from Ullman
-- [ ] Regular Expressions and Languages (Chapter 3 Ullman)
+- [x] Regular Expressions and Languages (Chapter 3 Ullman)
 - [ ] $\epsilon$ transition section from Ullman
 - [ ] practice problem for Finite Automata (Sipser)
