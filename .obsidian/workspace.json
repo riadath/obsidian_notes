@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "d1f12f2b097e4925",
   "lastOpenFiles": [
+    "Pasted image 20230901133610.png",
     "todo/TODO Automata.md",
     "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Rough.md",
@@ -215,7 +216,6 @@
     "2023-07-29.md",
     "Important Terms Explanation/Gradient Diversity.md",
     "Important Terms Explanation/Federated Learning.md",
-    "Important Terms Explanation/Earth Mover's Distance (EMD).md",
-    "Presentation 1/Important Terms Explanation/Earth Mover's Distance (EMD).md"
+    "Important Terms Explanation/Earth Mover's Distance (EMD).md"
   ]
 }
