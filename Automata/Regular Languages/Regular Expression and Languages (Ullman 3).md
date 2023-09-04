@@ -26,4 +26,8 @@
 
 ## RE for the complement of a NFA/RE/DFA
 
- - Convert the RE to $\epsilon-NFA$  
+ - Convert the RE to $\epsilon-NFA$ 
+ - Convert $\epsilon - NFA$ to $DFA$ 
+ - Complement the accepting states of that $DFA$
+ - Turn the $DFA$ back to regular expression 
+
