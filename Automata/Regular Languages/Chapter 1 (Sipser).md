@@ -79,9 +79,4 @@ The class of regular languages is closed under the star operation.
 
 
 
-## Closure Properties of Regular Languages
-
-![[Pasted image 20230904195755.png | 800x450]]
-
-
 

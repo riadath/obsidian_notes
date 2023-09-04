@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
+                "file": "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
+                "file": "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
+                "file": "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md"
+                "file": "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md"
               }
             }
           },
@@ -158,6 +157,8 @@
   },
   "active": "e8b99e791ae286ca",
   "lastOpenFiles": [
+    "Automata/Regular Languages/Chapter 1 (Sipser).md",
+    "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Pasted image 20230904195755.png",
     "todo/TODO Automata.md",
     "Rough.md",
@@ -170,12 +171,9 @@
     "Automata/assets/Pasted image 20230828222955.png",
     "Automata/assets/Pasted image 20230828222940.png",
     "Automata/assets/Pasted image 20230827084032.png",
-    "Automata/assets/Pasted image 20230827083921.png",
     "Automata/assets",
-    "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Automata/Regular Languages",
     "todo/TODO Networking.md",
-    "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Automata",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
