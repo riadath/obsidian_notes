@@ -23,9 +23,11 @@
             "id": "1207f54d4e69ff43",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md"
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md"
               }
             }
           },
@@ -168,8 +170,8 @@
   },
   "active": "1207f54d4e69ff43",
   "lastOpenFiles": [
-    "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
+    "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Pasted image 20230904195755.png",
     "todo/TODO Automata.md",
     "Rough.md",
