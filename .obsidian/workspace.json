@@ -19,14 +19,24 @@
             "id": "d0c0358a1fa1fce4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md"
+                "file": "Networking/Networking_Presentation_3/Shortlist/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf"
+              }
+            }
+          },
+          {
+            "id": "b3caea0af75d78a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md",
+                "file": "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md",
+                "file": "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md"
+                "file": "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf"
               }
             }
           },
@@ -173,13 +183,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0c0358a1fa1fce4",
+  "active": "b3caea0af75d78a0",
   "lastOpenFiles": [
-    "Rough.md",
+    "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
+    "Networking/Networking_Presentation_3/Shortlist/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
     "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md",
+    "Networking/Networking_Presentation_3/Main Note.md",
+    "Untitled.md",
+    "Rough.md",
     "Excalidraw",
     "2023-10-12.md",
-    "Untitled.md",
     "todo/TODO Networking.md",
     "todo/TODO Automata.md",
     "todo/2023-08-18.md",
@@ -214,13 +227,10 @@
     "Networking/Networking_Presentation_2/Assets",
     "deep_learning_coursera/Assets",
     "deep_learning_coursera/Course 1",
-    "Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Paper Main Note.md",
     "Nonlinear Programming.md",
     "2023-08-11.md",
     "TODO Networking.md",
-    "TODO_Networking/Untitled.md",
-    "2023-08-08.md",
     "Untitled.canvas"
   ]
 }
