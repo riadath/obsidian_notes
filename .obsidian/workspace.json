@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9c3edb23a9b760",
+        "id": "8f9df66e2b10d0b0",
         "type": "tabs",
         "children": [
           {
-            "id": "09143cc3e5396798",
+            "id": "4f920d63faa11fe0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Networking/Networking_Presentation_2/Assets/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf"
-              }
-            }
-          },
-          {
-            "id": "9b9adced4ee526b5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b9adced4ee526b5",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
     "Networking/Networking_Presentation_2/Assets/Pasted image 20230818203343.png",
     "Networking/Networking_Presentation_2/Nonlinear Programming.md",
