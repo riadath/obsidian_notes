@@ -20,6 +20,26 @@
             }
           },
           {
+            "id": "b581cdb288c0822f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
+            "id": "8e152c505642b165",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "d1f12f2b097e4925",
             "type": "leaf",
             "state": {
@@ -31,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,6 +169,16 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "159065a007321722",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -167,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36633068e1b80d77",
+  "active": "8e152c505642b165",
   "lastOpenFiles": [
     "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "todo/TODO Automata.md",
