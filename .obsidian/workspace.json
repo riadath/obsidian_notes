@@ -11,13 +11,24 @@
             "id": "876430a97874e669",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Assets/Pasted Image 20231016003037_469.png"
+                "file": "Excalidraw/Drawing 2023-10-15 20.24.00.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "cb49e112808830a2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Assets/Pasted Image 20231016003037_469.png",
+                "file": "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Assets/Pasted Image 20231016003037_469.png",
+                "file": "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Assets/Pasted Image 20231016003037_469.png"
+                "file": "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md"
               }
             }
           },
@@ -164,10 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "876430a97874e669",
+  "active": "cb49e112808830a2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-15 20.24.00.excalidraw.png",
+    "Pasted Image 20231022002949_835.png",
+    "Excalidraw/Drawing 2023-10-15 20.24.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md",
     "Excalidraw/Assets/Pasted Image 20231016003037_469.png",
+    "Excalidraw/Drawing 2023-10-15 20.24.00.excalidraw.png",
     "Excalidraw/Assets/Pasted Image 20231016003210_173.png",
     "Excalidraw/Assets",
     "Rough.md",
@@ -175,7 +189,6 @@
     "Excalidraw/Assets/Pasted Image 20231019021242_510.png",
     "Excalidraw/Assets/Pasted Image 20231019014545_942.png",
     "Excalidraw/Assets/Pasted Image 20231016010040_568.png",
-    "Excalidraw/Drawing 2023-10-15 20.24.00.excalidraw.md",
     "Excalidraw/Assets/Pasted Image 20231019023956_249.png",
     "Excalidraw/Assets/Pasted Image 20231019023641_219.png",
     "Excalidraw/Assets/Pasted Image 20231019023015_354.png",
@@ -210,7 +223,6 @@
     "TODO_Networking/Untitled.md",
     "2023-08-08.md",
     "Untitled.canvas",
-    "FedCPF Paper Main Note.md",
-    "2023-07-29.md"
+    "FedCPF Paper Main Note.md"
   ]
 }
