@@ -16,8 +16,19 @@
                 "file": "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "2750e3bc76bb7e95",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-22 15.33.41.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-10-22 15.33.41.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-10-22 15.33.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-10-22 15.33.41.excalidraw.md"
               }
             }
           },
@@ -164,8 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb49e112808830a2",
+  "active": "2750e3bc76bb7e95",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-22 15.33.41.excalidraw.md",
     "Pasted Image 20231022011103_447.png",
     "Pasted Image 20231022010927_359.png",
     "Excalidraw/Assets/Pasted Image 20231022010810_383.png",
@@ -175,10 +188,8 @@
     "Excalidraw/Assets/Pasted Image 20231022004558_405.png",
     "Excalidraw/Assets/Pasted Image 20231022004338_364.png",
     "Excalidraw/Drawing 2023-10-15 20.24.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-22 00.29.04.excalidraw.md",
     "Excalidraw/Assets/Pasted Image 20231022002949_835.png",
     "Excalidraw/Assets/Pasted Image 20231016003037_469.png",
-    "Excalidraw/Drawing 2023-10-15 20.24.00.excalidraw.png",
     "Excalidraw/Assets",
     "Rough.md",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
