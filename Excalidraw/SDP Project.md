@@ -164,7 +164,7 @@ apartment info
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
@@ -179,7 +179,7 @@ apartment info
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 830.25,
-		"scrollY": 619.5,
+		"scrollY": 719.5,
 		"zoom": {
 			"value": 2
 		},
