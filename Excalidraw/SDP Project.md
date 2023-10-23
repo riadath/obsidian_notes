@@ -98,8 +98,8 @@ apartment info
 		},
 		{
 			"type": "rectangle",
-			"version": 322,
-			"versionNonce": 402260007,
+			"version": 389,
+			"versionNonce": 300562279,
 			"isDeleted": false,
 			"id": "b2TE69J5vRn4T0DrTuy1y",
 			"fillStyle": "hachure",
@@ -108,12 +108,12 @@ apartment info
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -518.5,
-			"y": -600.375,
+			"x": -507.5,
+			"y": -599.375,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 238,
-			"height": 231.99999999999997,
+			"width": 198,
+			"height": 203.99999999999997,
 			"seed": 740035658,
 			"groupIds": [],
 			"frameId": null,
@@ -121,7 +121,7 @@ apartment info
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1698092496055,
+			"updated": 1698094256482,
 			"link": null,
 			"locked": false
 		},
@@ -178,8 +178,8 @@ apartment info
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 830.25,
-		"scrollY": 719.5,
+		"scrollX": 957.5,
+		"scrollY": 724.75,
 		"zoom": {
 			"value": 2
 		},
