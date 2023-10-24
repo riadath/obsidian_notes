@@ -26,9 +26,19 @@
                 "file": "Excalidraw/SDP Project.md"
               }
             }
+          },
+          {
+            "id": "05b2e82bc48493a1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/SDP Project.md",
+                "file": "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/SDP Project.md",
+                "file": "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/SDP Project.md"
+                "file": "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md"
               }
             }
           },
@@ -175,10 +186,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2750e3bc76bb7e95",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
-    "Excalidraw/Math Class Fereshteh.md",
+    "Pasted Image 20231024235525_531.png",
+    "Pasted Image 20231024235525_522.png",
     "Excalidraw/SDP Project.md",
+    "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md",
+    "Excalidraw/Math Class Fereshteh.md",
     "Excalidraw/EEE Class Fereshteh.md",
     "Excalidraw/Assets/Pasted Image 20231022011103_447.png",
     "Excalidraw/Assets/Pasted Image 20231022010927_359.png",
@@ -189,7 +203,6 @@
     "Excalidraw/Assets/Pasted Image 20231022004558_405.png",
     "Excalidraw/Assets/Pasted Image 20231022004338_364.png",
     "Excalidraw/Assets/Pasted Image 20231022002949_835.png",
-    "Excalidraw/Assets/Pasted Image 20231016003037_469.png",
     "Excalidraw/Assets",
     "Rough.md",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
@@ -221,8 +234,6 @@
     "2023-08-11.md",
     "TODO Networking.md",
     "TODO_Networking/Untitled.md",
-    "2023-08-08.md",
-    "Untitled.canvas",
-    "FedCPF Paper Main Note.md"
+    "Untitled.canvas"
   ]
 }
