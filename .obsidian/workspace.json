@@ -11,9 +11,11 @@
             "id": "b29eb7a17196230b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf"
+                "file": "Networking/Networking_Presentation_3/Main Note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
+                "file": "Networking/Networking_Presentation_3/Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
+                "file": "Networking/Networking_Presentation_3/Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf"
+                "file": "Networking/Networking_Presentation_3/Main Note.md"
               }
             }
           },
@@ -166,11 +168,13 @@
   },
   "active": "b29eb7a17196230b",
   "lastOpenFiles": [
+    "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+    "Networking/Networking_Presentation_2/Paper Main Note.md",
     "Networking/Networking_Presentation_3/Main Note.md",
+    "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "Excalidraw/Automata.md",
     "Excalidraw/Assets/Pasted Image 20231024235525_522.png",
     "Excalidraw/Assets/Pasted Image 20231024235525_531.png",
-    "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Assets/Pasted Image 20231025011245_587.png",
     "Excalidraw/Assets/Pasted Image 20231025010839_596.png",
@@ -209,8 +213,6 @@
     "Automata/assets",
     "Automata/Regular Languages",
     "Automata",
-    "Networking/Networking_Presentation_2/Paper Main Note.md",
-    "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Untitled.canvas"
   ]
 }
