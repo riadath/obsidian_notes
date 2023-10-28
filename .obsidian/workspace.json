@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf"
+                "file": "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
+                "file": "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
+                "file": "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf"
+                "file": "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf"
               }
             }
           },
@@ -164,17 +164,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a05656458937056",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
+    "Networking/Untitled",
+    "Networking/Networking_Presentation_3/Shortlist/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
+    "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
     "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "deep_learning_coursera/Course 1/Week 2.md",
     "OS/bare_metal.md",
     "OS/Pasted image 20230808004646.png",
     "OS/Pasted image 20230808004116.png",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
-    "Networking/Networking_Presentation_3/Shortlist/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
     "Numerical/Numerical.md",
-    "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
     "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md",
     "Networking/Networking_Presentation_3/Main Note.md",
     "Untitled.md",
