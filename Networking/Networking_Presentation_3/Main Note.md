@@ -7,7 +7,8 @@ The Voronoi diagram is a partition of a plane into regions close to each of a gi
 
 # Introduction
 
-### Problems:
+### Problems
+Most exploration methods were designed for single robots and had limitations in exploring large unknown areas.
 
 #### Buzz words and Abbreviations
 
