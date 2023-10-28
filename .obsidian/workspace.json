@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -166,7 +167,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b29eb7a17196230b",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
