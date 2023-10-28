@@ -7,3 +7,14 @@ The Voronoi diagram is a partition of a plane into regions close to each of a gi
 
 # Introduction
 
+### Problems:
+
+#### Buzz words and Abbreviations
+
+1. **FEP (Frontier Exploration Planning)**: FEP is a global exploration planner that helps a robot identify unexplored frontiers in an environment. It focuses on selecting areas on the frontier of explored space for further exploration.
+    
+2. **NBVP (Next-Best-View Planning)**: NBVP is a local exploration planning technique that determines the best next viewpoint for a robot to gather information. It's often used in conjunction with FEP to guide a robot in exploring its immediate surroundings.
+    
+3. **Heuristic Information Gain-Based NBVP**: This approach combines the principles of NBVP with heuristics based on information gain. It aims to find the next best view for a robot while considering factors like information content and efficiency, improving exploration in 3-D unknown environments.
+
+
