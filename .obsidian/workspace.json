@@ -16,8 +16,21 @@
                 "file": "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf"
               }
             }
+          },
+          {
+            "id": "30b0c812ca9a35c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,16 +177,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "30b0c812ca9a35c5",
   "lastOpenFiles": [
-    "Networking/Untitled",
+    "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
+    "conflict-files-obsidian-git.md",
+    "Pasted Image 20231025011245_587.png",
+    "Pasted Image 20231025010839_596.png",
+    "Pasted Image 20231025004754_626.png",
+    "Pasted Image 20231025003602_789.png",
+    "Pasted Image 20231025000133_448.png",
+    "Pasted Image 20231024235525_531.png",
+    "Pasted Image 20231024235525_522.png",
+    "Excalidraw/SDP Project.md",
+    "Excalidraw/Math Class Fereshteh.md",
+    "Excalidraw/EEE Class Fereshteh.md",
+    "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md",
+    "Excalidraw/Assets/Pasted Image 20231022011103_447.png",
+    "Excalidraw/Assets/Pasted Image 20231022010927_359.png",
+    "Excalidraw/Assets/Pasted Image 20231022010810_383.png",
+    "Excalidraw/Assets",
+    "Networking/Other Papers",
     "Networking/Networking_Presentation_3/Shortlist/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
     "Networking/Networking_Presentation_3/Shortlist/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
-    "Networking/Networking_Presentation_3/Shortlist/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "deep_learning_coursera/Course 1/Week 2.md",
     "OS/bare_metal.md",
-    "OS/Pasted image 20230808004646.png",
-    "OS/Pasted image 20230808004116.png",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
     "Numerical/Numerical.md",
     "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md",
@@ -188,30 +215,15 @@
     "todo/2023-08-16.md",
     "todo/2023-08-12.md",
     "todo/2023-08-11.md",
-    "Automata/assets/Pasted image 20230904195755.png",
-    "Automata/assets/Pasted image 20230901133610.png",
-    "Automata/assets/Pasted image 20230831110258.png",
-    "Networking/Networking_Presentation_2/Assets/Pasted image 20230818203343.png",
     "Networking/Networking_Presentation_2/Nonlinear Programming.md",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Numerical",
     "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
-    "Automata/assets/Pasted image 20230830093243.png",
-    "Automata/assets/Pasted image 20230830093136.png",
-    "Automata/assets/Pasted image 20230830093047.png",
-    "Automata/assets/Pasted image 20230830093027.png",
     "Automata/assets",
     "Automata/Regular Languages",
     "Automata",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
-    "Networking/Networking_Presentation_2/Assets/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
-    "conflict-files-obsidian-git.md",
-    "Networking/Networking_Presentation_2/Assets",
-    "Paper Main Note.md",
-    "Nonlinear Programming.md",
-    "2023-08-11.md",
-    "TODO Networking.md",
     "Untitled.canvas"
   ]
 }
