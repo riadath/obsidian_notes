@@ -32,4 +32,6 @@ $Vor(R_i)=\{q \in Q \ \ | \ \ \lVert q-p_i \rVert \le \lVert q-p_j \rVert,\foral
 
 ![[Pasted image 20231029213948.png | 500x420]]
 
+### Collision Avoidance Problem Formulation
 
+#### $V$
