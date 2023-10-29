@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1515b11b82a45e9f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/test.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/test.md",
+                "file": "Networking/Networking_Presentation_3/Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/test.md",
+                "file": "Networking/Networking_Presentation_3/Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/test.md"
+                "file": "Networking/Networking_Presentation_3/Main Note.md"
               }
             }
           },
@@ -178,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1515b11b82a45e9f",
+  "active": "b29eb7a17196230b",
   "lastOpenFiles": [
-    "Excalidraw/SDP Project.md",
     "Excalidraw/test.md",
+    "Excalidraw/SDP Project.md",
     "Networking/Networking_Presentation_3/Main Note.md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
