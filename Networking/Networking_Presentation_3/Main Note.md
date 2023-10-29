@@ -25,5 +25,11 @@ Most exploration methods were designed for single robots and had limitations in 
 
 # Technical Background
 
+##### The Voronoi Cell $Vor(R_i)$ is defined by
+$Vor(R_i)={q \in Q | ||q-p_i||}$
+
+#### Hierarchical control architecture
+
+![[Pasted image 20231029213948.png | 500x420]]
 
 

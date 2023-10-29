@@ -167,12 +167,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "b29eb7a17196230b",
   "lastOpenFiles": [
+    "Automata/Regular Languages/Chapter 1 (Sipser).md",
+    "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
+    "Networking/Networking_Presentation_3/Main Note.md",
+    "Networking/Networking_Presentation_3/Assets",
+    "Networking/Networking_Presentation_3/Assets/Pasted image 20231029213948.png",
     "Excalidraw/test.md",
     "Excalidraw/SDP Project.md",
-    "Networking/Networking_Presentation_3/Main Note.md",
-    "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
     "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "Excalidraw/Automata.md",
@@ -188,7 +191,6 @@
     "Excalidraw/EEE Class Fereshteh.md",
     "Excalidraw/Assets/Pasted Image 20231022011103_447.png",
     "Excalidraw/Assets/Pasted Image 20231022010927_359.png",
-    "Excalidraw/Assets/Pasted Image 20231022010810_383.png",
     "Excalidraw/Assets",
     "Networking/Other Papers",
     "Networking/Other Papers/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
@@ -209,12 +211,9 @@
     "todo/2023-08-12.md",
     "todo/2023-08-11.md",
     "Networking/Networking_Presentation_2/Nonlinear Programming.md",
-    "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Numerical",
-    "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Automata/assets",
     "Automata/Regular Languages",
-    "Automata",
     "Untitled.canvas"
   ]
 }
