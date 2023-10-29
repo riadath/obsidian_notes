@@ -25,13 +25,17 @@ Most exploration methods were designed for single robots and had limitations in 
 
 # Technical Background
 
-#### The Voronoi Cell $Vor(R_i)$ is defined by
+### The Voronoi Cell $Vor(R_i)$ is defined by
 $Vor(R_i)=\{q \in Q \ \ | \ \ \lVert q-p_i \rVert \le \lVert q-p_j \rVert,\forall R_j \in N_{R_i}\}$
 
-#### Hierarchical control architecture
+### Hierarchical control architecture
 
 ![[Pasted image 20231029213948.png | 500x420]]
 
 ### Collision Avoidance Problem Formulation
+### $v_t = f(l_t,p_t,v_{t-1})$
+- where $l_t$ is the laser range data at time step t 
+- $p_t$ stands for the relative position of the target,
+- $v_{t-1}$ denotes the velocity command at the last time step
 
-#### $V$
+
