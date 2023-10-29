@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1515b11b82a45e9f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/test.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Main Note.md",
+                "file": "Excalidraw/test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Main Note.md",
+                "file": "Excalidraw/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Networking_Presentation_3/Main Note.md"
+                "file": "Excalidraw/test.md"
               }
             }
           },
@@ -167,11 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b29eb7a17196230b",
+  "active": "1515b11b82a45e9f",
   "lastOpenFiles": [
+    "Excalidraw/SDP Project.md",
+    "Excalidraw/test.md",
+    "Networking/Networking_Presentation_3/Main Note.md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
-    "Networking/Networking_Presentation_3/Main Note.md",
     "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "Excalidraw/Automata.md",
     "Excalidraw/Assets/Pasted Image 20231024235525_522.png",
@@ -182,7 +195,6 @@
     "Excalidraw/Assets/Pasted Image 20231025004754_626.png",
     "Excalidraw/Assets/Pasted Image 20231025003602_789.png",
     "Excalidraw/Assets/Pasted Image 20231025000133_448.png",
-    "Excalidraw/SDP Project.md",
     "Excalidraw/Math Class Fereshteh.md",
     "Excalidraw/EEE Class Fereshteh.md",
     "Excalidraw/Assets/Pasted Image 20231022011103_447.png",
