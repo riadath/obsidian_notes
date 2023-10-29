@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "21ef2d750ed669c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +167,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21ef2d750ed669c2",
+  "active": "b29eb7a17196230b",
   "lastOpenFiles": [
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
