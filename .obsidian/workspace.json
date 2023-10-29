@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6312d74e71b34173",
+        "id": "964e9dbe226b588e",
         "type": "tabs",
         "children": [
           {
-            "id": "b29eb7a17196230b",
+            "id": "0dcfc12c8d20dbc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,11 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b29eb7a17196230b",
+  "active": "0dcfc12c8d20dbc3",
   "lastOpenFiles": [
+    "Networking/Networking_Presentation_3/Main Note.md",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
-    "Networking/Networking_Presentation_3/Main Note.md",
     "Networking/Networking_Presentation_3/Assets",
     "Networking/Networking_Presentation_3/Assets/Pasted image 20231029213948.png",
     "Excalidraw/test.md",
