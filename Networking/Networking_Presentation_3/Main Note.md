@@ -38,4 +38,7 @@ $Vor(R_i)=\{q \in Q \ \ | \ \ \lVert q-p_i \rVert \le \lVert q-p_j \rVert,\foral
 - $p_t$ stands for the relative position of the target,
 - $v_{t-1}$ denotes the velocity command at the last time step
 
+### Coordination Algorithm for Explorer Robots
+we will define the utility function for frontier points $k$ assigned to the robot $R_i$ as
+![[Pasted image 20231031035846.png]]
 
