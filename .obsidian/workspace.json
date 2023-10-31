@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -169,8 +168,9 @@
   },
   "active": "0dcfc12c8d20dbc3",
   "lastOpenFiles": [
-    "Pasted image 20231031035846.png",
+    "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "Networking/Networking_Presentation_3/Main Note.md",
+    "Pasted image 20231031035846.png",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_3/Assets",
@@ -178,7 +178,6 @@
     "Excalidraw/test.md",
     "Excalidraw/SDP Project.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
-    "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "Excalidraw/Automata.md",
     "Excalidraw/Assets/Pasted Image 20231024235525_522.png",
     "Excalidraw/Assets/Pasted Image 20231024235525_531.png",
@@ -191,7 +190,6 @@
     "Excalidraw/Math Class Fereshteh.md",
     "Excalidraw/EEE Class Fereshteh.md",
     "Excalidraw/Assets/Pasted Image 20231022011103_447.png",
-    "Excalidraw/Assets/Pasted Image 20231022010927_359.png",
     "Excalidraw/Assets",
     "Networking/Other Papers",
     "Networking/Other Papers/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
