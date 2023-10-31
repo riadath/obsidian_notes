@@ -1,3 +1,5 @@
+##### ChatGPT Chat : https://chat.openai.com/share/b0809537-201d-4d1a-a077-171fd751135e
+
 # Abstract
 
 #### <u>Dynamic Voronoi Partitions</u>
@@ -21,6 +23,7 @@ Most exploration methods were designed for single robots and had limitations in 
 2. **NBVP (Next-Best-View Planning)**: NBVP is a local exploration planning technique that determines the best next viewpoint for a robot to gather information. It's often used in conjunction with FEP to guide a robot in exploring its immediate surroundings.
     
 3. **Heuristic Information Gain-Based NBVP**: This approach combines the principles of NBVP with heuristics based on information gain. It aims to find the next best view for a robot while considering factors like information content and efficiency, improving exploration in 3-D unknown environments.
+
 
 
 # Technical Background
