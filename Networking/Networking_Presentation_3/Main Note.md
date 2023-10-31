@@ -47,4 +47,4 @@ we will define the utility function for frontier points $k$ assigned to the robo
 
 ## <u>Deep Reinforcement Learning Setup</u>
 
-![[Pasted image 20231031225437.png | 800x1100]]
+![[Pasted image 20231031225437.png | 600x1100]]
