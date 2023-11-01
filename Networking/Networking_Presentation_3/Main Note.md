@@ -96,6 +96,8 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	- We're taking the squared mean error.
 	- Which measures the difference between the predicted Q-values $Q(s,a|\theta_Q)$ and target Q-values $y_i$
 	- The goal is to make the predicted Q-values as close as possible to the target Q-values.
+- **Update the actor policy using the sampled policy gradient**
+- ![[Pasted image 20231102044833.png]]
 	- 
 ### Algo 2 Steps
 - Initialize everything
