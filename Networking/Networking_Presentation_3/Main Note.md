@@ -85,7 +85,12 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	- $\tau_p$ and $\tau_d$ are user-defined constant value
 - **Sampling Probability** : Likelihood a transition being selected $P(i) = \frac{p_i^\alpha}{\sum_{} k* p_k^\alpha}$
 - $y_i$ is the target value of the critic network
+	- ![[Pasted image 20231102042219.png]]
 	- Target networks have the same architecture as the main networks but are not updated as frequently
+	- The target network is updated periodically to prevent the overestimation of Q-values
+	- It's calculated using the bellman equation
+	- ![[Pasted image 20231102042316.png]]
+	- 
 ### Algo 2 Steps
 - Initialize everything
 - Initialize replay buffer.  
