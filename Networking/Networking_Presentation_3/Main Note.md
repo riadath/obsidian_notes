@@ -43,11 +43,12 @@ $Vor(R_i)=\{q \in Q \ \ | \ \ \lVert q-p_i \rVert \le \lVert q-p_j \rVert,\foral
 
 ### Coordination Algorithm for Explorer Robots
 we will define the utility function for frontier points $k$ assigned to the robot $R_i$ as
-![[Pasted image 20231031035846.png]]
+![[Pasted image 20231031035846.png | 300x60]]
 
 ## <u>Deep Reinforcement Learning Setup</u>
 
 
 ### Reward Space
 ##### Reward Function : $r=r_d+r_{cl}+r_{av}+r_{lv}$
-$r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance reward, $r_{av}$ denotes the angular velocity reward, and rlv is the linear velocity reward
+$r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance reward, $r_{av}$ denotes the angular velocity reward, and $r_{lv}$ is the linear velocity reward.
+
