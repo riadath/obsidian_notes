@@ -70,12 +70,16 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 ### Algorithm 2
 ![[Pasted image 20231102022349.png]]
 
-#### Explanation
+### Explanation
+
+#### Terms Explanation
+- **Replay Buffer** : It serves as a data storage mechanism
+	- Stores (Current state, Action state, Reward, Next state)
+	-  Instead of updating the agent's policy or Q-values based on experiences immediately as they occur, experiences are collected and stored in the replay buffer.
+
+### Algo 2 Steps
 - Initialize everything
 - Initialize replay buffer.  
-	- **Replay Buffer** : It serves as a data storage mechanism
-	- Stores (Current state, Action state, Reward, Next state)
-	- Instead of updating the agent's policy or Q-values based on experiences immediately as they occur, experiences are collected and stored in the replay buffer.
 - For each step in $for(1,M)$ : 
 	- Randomly choose angular velocity ($v_a$) and linear velocity ($v_l$) . Receive initial observation state $s_1$
 	- For each step in $for(1,T)$ : 
