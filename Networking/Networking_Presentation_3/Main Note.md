@@ -70,13 +70,17 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 ### Algorithm 2
 ![[Pasted image 20231102022349.png]]
 
-### Explanation
+## Explanation
 
-#### Terms Explanation
+### Terms Explanation
 - **Replay Buffer** : It serves as a data storage mechanism
 	- Stores (Current state, Action state, Reward, Next state)
 	-  Instead of updating the agent's policy or Q-values based on experiences immediately as they occur, experiences are collected and stored in the replay buffer.
-
+- **Sampling Priority** : Refers to the priority assigned to each transition within the Prioritized Experience Replay (PER) framework
+	- Sampling priority is used to determine the likelihood of a particular transition being selected for training when sampling from the replay buffer. 
+	- The higher the priority, the more likely it is to be selected
+	- $p(i) = \delta_i^2 + \lambda |\Delta(a) \cdot Q(s_i, a_i | \theta_Q)|^2 + \tau_p + \tau_D$
+	- 
 ### Algo 2 Steps
 - Initialize everything
 - Initialize replay buffer.  
