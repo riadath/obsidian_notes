@@ -68,3 +68,10 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 **We integrate DDPG with Prioritized Experience Replay (PER) algorithm using human demonstration data. In this research, human demonstration data $R_{demo}$ is recorded before training the networks**
 
 ### Algorithm 2
+![[Pasted image 20231102022349.png]]
+
+#### Explanation
+- Initialize everything
+- Initialize replay buffer.  
+	- **Replay Buffer** : It serves as a data storage mechanism for collecting and managing experiences or transitions encountered by an agent during its interactions with the environment. 
+	- 
