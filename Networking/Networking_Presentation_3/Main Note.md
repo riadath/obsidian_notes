@@ -52,3 +52,10 @@ we will define the utility function for frontier points $k$ assigned to the robo
 ##### Reward Function : $r=r_d+r_{cl}+r_{av}+r_{lv}$
 $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance reward, $r_{av}$ denotes the angular velocity reward, and $r_{lv}$ is the linear velocity reward.
 
+### Network Structure
+- The input to the neural network is the concatenation vector of rangefinder data (24-dimensional vector)
+- The input layer is connected with three dense layers with each layer having 512 nodes
+- The actor network finally generates the<mark style="background: #BBFABBA6;"> linear velocity</mark> command through a sigmoid function and produces the <mark style="background: #BBFABBA6;">angular velocity</mark> using a hyperbolic tangent function.
+- These two velocity commands are finally concatenated into the <mark style="background: #BBFABBA6;">action state</mark>
+![[Pasted image 20231102020440.png | 400x150]]
+
