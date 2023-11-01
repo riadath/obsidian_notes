@@ -90,7 +90,7 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	- The target network is updated periodically to prevent the overestimation of Q-values
 	- It's calculated using the bellman equation
 	- ![[Pasted image 20231102042316.png]]
-	- 
+	- $\alpha$ is the learning rate, $r$ is the reward. $\gamma$ is the discount factor
 ### Algo 2 Steps
 - Initialize everything
 - Initialize replay buffer.  
