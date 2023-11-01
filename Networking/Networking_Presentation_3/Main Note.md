@@ -98,7 +98,9 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	- The goal is to make the predicted Q-values as close as possible to the target Q-values.
 - **Update the actor policy using the sampled policy gradient**
 - ![[Pasted image 20231102044833.png]]
-	- 
+	- $J$ : The gradient of the expected return. Represents the expected sum of rewards an agent can achieve when following a particular policy in an environment over time
+	- $\nabla_a Q($  
+		
 ### Algo 2 Steps
 - Initialize everything
 - Initialize replay buffer.  
