@@ -47,7 +47,10 @@ we will define the utility function for frontier points $k$ assigned to the robo
 
 ## <u>Deep Reinforcement Learning Setup</u>
 
+### Buzz Words and Abbreviations
 
+**DDPG*** : DDPG stands for Deep Deterministic Policy Gradient. DDPG combines ideas from both policy-based methods (actor) and value-based methods (critic) to learn and optimize policies for agents operating in environments.
+**PER** : Prioritized Experience Replay (PER) is a technique used in the context of reinforcement learning
 ### Reward Space
 ##### Reward Function : $r=r_d+r_{cl}+r_{av}+r_{lv}$
 $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance reward, $r_{av}$ denotes the angular velocity reward, and $r_{lv}$ is the linear velocity reward.
