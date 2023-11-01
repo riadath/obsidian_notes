@@ -80,7 +80,10 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	- Sampling priority is used to determine the likelihood of a particular transition being selected for training when sampling from the replay buffer. 
 	- The higher the priority, the more likely it is to be selected
 	- $p(i) = \delta_i^2 + \lambda |\Delta(a) \cdot Q(s_i, a_i | \theta_Q)|^2 + \tau_p + \tau_D$
-	- 
+	-  $\delta$ is the Temporal Difference (TD) : difference between the estimated value of a state or state-action pair and the expected value at a later time step 
+	- $|\Delta(a) \cdot Q(s_i, a_i | \theta_Q)|^2$ is the actor loss
+	- $\tau_p$ and $\tau_d$ are user-defined constant value
+- **Sampling Probability** : Likl
 ### Algo 2 Steps
 - Initialize everything
 - Initialize replay buffer.  
