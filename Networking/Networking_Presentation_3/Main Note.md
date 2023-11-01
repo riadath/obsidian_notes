@@ -49,4 +49,5 @@ we will define the utility function for frontier points $k$ assigned to the robo
 
 
 ### Reward Space
-#### Reward Function : $r=r_d+r_{cl}+r_{av}+r_{lv}$
+##### Reward Function : $r=r_d+r_{cl}+r_{av}+r_{lv}$
+$r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance reward, $r_{av}$ denotes the angular velocity reward, and rlv is the linear velocity reward
