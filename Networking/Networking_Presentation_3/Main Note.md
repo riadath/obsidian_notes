@@ -83,7 +83,9 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	-  $\delta$ is the Temporal Difference (TD) : difference between the estimated value of a state or state-action pair and the expected value at a later time step 
 	- $|\Delta(a) \cdot Q(s_i, a_i | \theta_Q)|^2$ is the actor loss
 	- $\tau_p$ and $\tau_d$ are user-defined constant value
-- **Sampling Probability** : Likl
+- **Sampling Probability** : Likelihood a transition being selected $P(i) = \frac{p_i^\alpha}{\sum_{} k* p_k^\alpha}$
+- $y_i$ is the target value of the critic network
+	- Target networks have the same architecture as the main networks but are not updated as frequently
 ### Algo 2 Steps
 - Initialize everything
 - Initialize replay buffer.  
