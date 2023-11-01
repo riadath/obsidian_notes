@@ -91,6 +91,11 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	- It's calculated using the bellman equation
 	- ![[Pasted image 20231102042316.png]]
 	- $\alpha$ is the learning rate, $r$ is the reward. $\gamma$ is the discount factor
+- **Weighted updates ($\omega_i$)** : indicates the importance of that transition when sampling experiences from the replay buffer during the training process
+- ![[Pasted image 20231102043354.png]]
+	- We're taking the squared mean error.
+	- Which measures the difference between the predicted Q-values $Q(s,a|\theta_Q)$ and target Q-values $y_i$
+	- 
 ### Algo 2 Steps
 - Initialize everything
 - Initialize replay buffer.  
