@@ -76,6 +76,7 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	- **Replay Buffer** : It serves as a data storage mechanism
 	- Stores (Current state, Action state, Reward, Next state)
 	- Instead of updating the agent's policy or Q-values based on experiences immediately as they occur, experiences are collected and stored in the replay buffer.
-- Randomly choose angular velocity ($v_a$) and linear velocity ($v_l$) for action exploration within defined ranges.
-- For each step in loop(1,T) : 
-	- 
+- For each step in $for(1,M)$ : 
+	- Randomly choose angular velocity ($v_a$) and linear velocity ($v_l$) . Receive initial observation state $s_1$
+	- For each step in $for(1,T)$ : 
+		-  
