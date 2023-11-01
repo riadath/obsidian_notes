@@ -99,7 +99,9 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 - **Update the actor policy using the sampled policy gradient**
 - ![[Pasted image 20231102044833.png]]
 	- $J$ : The gradient of the expected return. Represents the expected sum of rewards an agent can achieve when following a particular policy in an environment over time
-	- $\nabla_a Q($  
+	- $\nabla_a Q(a|\theta_Q)$ Gradient of the Q-value with respect to action
+	- $\nabla_{\theta_\mu} \mu(a|\theta_Q)$ The gradient of the actor's policy with respect to its parameters $\theta_\mu$
+	- The update to the actor's policy ($\theta_\mu$​) is performed in the direction of the gradient, which encourages the actor to select actions that lead to higher expected returns.
 		
 ### Algo 2 Steps
 - Initialize everything
