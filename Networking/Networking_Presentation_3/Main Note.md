@@ -82,4 +82,4 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 		-  Select an action ($a_t$) according to the current policy and exploration noise
 		- Execute the action, calculate the reward, and observe the new state.
 		- Calculate the priority ($p_i$) for the current transition.
-		- Store the transition data (state, action, reward, next state, and priority) in the replay buffer.
+			- Store the transition data (state, action, reward, next state, and priority) in the replay buffer.
