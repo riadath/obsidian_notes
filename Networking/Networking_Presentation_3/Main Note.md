@@ -73,5 +73,6 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 #### Explanation
 - Initialize everything
 - Initialize replay buffer.  
-	- **Replay Buffer** : It serves as a data storage mechanism for collecting and managing experiences or transitions encountered by an agent during its interactions with the environment. 
-	- 
+	- **Replay Buffer** : It serves as a data storage mechanism
+	- Stores (Current state, Action state, Reward, Next state)
+	- Instead of updating the agent's policy or Q-values based on experiences immediately as they occur, experiences are collected and stored in the replay buffer
