@@ -47,4 +47,6 @@ we will define the utility function for frontier points $k$ assigned to the robo
 
 ## <u>Deep Reinforcement Learning Setup</u>
 
-### Observation and Action Space
+
+### Reward Space
+#### Reward Function : $r=r_d+r_{cl}+r_{av}+r_{lv}$
