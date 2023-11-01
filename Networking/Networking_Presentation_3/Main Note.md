@@ -86,3 +86,4 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 		- Sample a minibatch of transitions from the replay buffer based on their priority values $P(i)$
 		- Update the critic network by minimizing the loss using the sampled transitions.
 		- Update the actor policy using the policy gradient with respect to the critic network.
+		- Update the target networks
