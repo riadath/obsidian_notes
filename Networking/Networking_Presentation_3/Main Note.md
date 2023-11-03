@@ -84,7 +84,7 @@ $r_d$ represents the distance reward, $r_{cl}$ describes the safety clearance re
 	- $|\Delta(a) \cdot Q(s_i, a_i | \theta_Q)|^2$ is the actor loss
 	- $\tau_p$ and $\tau_d$ are user-defined constant value
 - **Sampling Probability** : Likelihood a transition being selected $P(i) = \frac{p_i^\alpha}{\sum_{k}p_k^\alpha}$
-- $y_i$ is the target value of the critic network
+- **Target Value of Critic Network** ($y_i$) is the target value of the critic network
 	- ![[Pasted image 20231102042219.png]]
 	- Target networks have the same architecture as the main networks but are not updated as frequently
 	- The target network is updated periodically to prevent the overestimation of Q-values
