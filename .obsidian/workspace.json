@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6dd27cea3d8e251d",
+        "id": "c34d107a4952a9b2",
         "type": "tabs",
         "children": [
           {
-            "id": "6b97d8a90c2023c0",
+            "id": "77811f6843258713",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md"
+                "file": "Arisha Question.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
+                "file": "Arisha Question.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
+                "file": "Arisha Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md"
+                "file": "Arisha Question.md"
               }
             }
           },
@@ -165,8 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b97d8a90c2023c0",
+  "active": "77811f6843258713",
   "lastOpenFiles": [
+    "Arisha Question.md",
+    "Excalidraw/Drawing 2023-11-07 11.58.35.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
@@ -211,8 +214,6 @@
     "todo/2023-08-12.md",
     "Paper Main Note.md",
     "Nonlinear Programming.md",
-    "2023-08-11.md",
-    "TODO Networking.md",
     "Untitled.canvas"
   ]
 }
