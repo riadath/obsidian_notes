@@ -1,4 +1,8 @@
-# <u>Question 1</u>
+# Python Loops
+# Time : 1 Hour
+
+
+## <u>Question 1</u>
 
 Find the sum of the following series : 
 ## sum =  $1^2 + 2^2 + 3^2 + ..... + n^2$
@@ -13,7 +17,7 @@ take **n** as a input from the user.
 Sum = 14
 
 
-# <u>Question 2</u>
+## <u>Question 2</u>
 
 Print the digits of a number (given as input) in the reverse order. 
 Take the number as input from the user.
@@ -43,6 +47,5 @@ Take the number as input from the user.
 5
 7
 
-
-# <u>Question 3</u>
+## <u>Question 3</u>
 
