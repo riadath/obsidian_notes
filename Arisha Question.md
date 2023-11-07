@@ -65,4 +65,8 @@ Here 4 and 8 are divisible by only 4 and not 3
 We did not print 12 because it is divisible by both 4 and 3
 
 
-## Question 4 !!!!! (You get a chocolate \[any \])
+## Question 4 !!!!! (You get a chocolate \[any brand\] if you can solve this)
+
+Define an operation called 'axing' where we take a number 'a' and look at the sum of its digits and assign the sum to the number itself. 
+We call a number 'fine' if you take less than x operations for it to converge to less than 10.
+Find the number of 'fine' numbers from l to r.
