@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4561ebbea3adc050",
+        "id": "6dd27cea3d8e251d",
         "type": "tabs",
         "children": [
           {
-            "id": "cb49e112808830a2",
+            "id": "a827d63d23347356",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Math Class Fereshteh.md"
-              }
-            }
-          },
-          {
-            "id": "2750e3bc76bb7e95",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SDP Project.md"
-              }
-            }
-          },
-          {
-            "id": "05b2e82bc48493a1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,8 +158,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05b2e82bc48493a1",
+  "active": "a827d63d23347356",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md",
     "Pasted Image 20231025011245_587.png",
     "Pasted Image 20231025010839_596.png",
     "Pasted Image 20231025004754_626.png",
@@ -196,13 +169,11 @@
     "Pasted Image 20231024235525_531.png",
     "Pasted Image 20231024235525_522.png",
     "Excalidraw/SDP Project.md",
-    "Excalidraw/Drawing 2023-10-24 23.54.55.excalidraw.md",
     "Excalidraw/Math Class Fereshteh.md",
     "Excalidraw/EEE Class Fereshteh.md",
     "Excalidraw/Assets/Pasted Image 20231022011103_447.png",
     "Excalidraw/Assets/Pasted Image 20231022010927_359.png",
     "Excalidraw/Assets/Pasted Image 20231022010810_383.png",
-    "Excalidraw/Assets/Pasted Image 20231022010521_375.png",
     "Excalidraw/Assets",
     "Rough.md",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
