@@ -49,3 +49,4 @@ Take the number as input from the user.
 
 ## <u>Question 3</u>
 
+Take two numbers
