@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/tanha_bag.md"
+                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/tanha_bag.md",
+                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/tanha_bag.md",
+                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/tanha_bag.md"
+                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md"
               }
             }
           },
@@ -166,6 +167,9 @@
   },
   "active": "4082e35dbe6c2f35",
   "lastOpenFiles": [
+    "Excalidraw/EEE Class Fereshteh.md",
+    "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
+    "Excalidraw/tanha_bag.md",
     "Pasted Image 20231110141401_993.png",
     "Excalidraw/Assets/Pasted Image 20231108015638_284.png",
     "Excalidraw/Assets/Pasted Image 20231108015552_697.png",
@@ -175,13 +179,10 @@
     "Excalidraw/Assets/Pasted Image 20231108014753_266.png",
     "Excalidraw/Assets/Pasted Image 20231108014722_279.png",
     "Excalidraw/Assets/Pasted Image 20231108014707_269.png",
-    "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
-    "Excalidraw/tanha_bag.md",
     "Excalidraw/Assets/Pasted Image 20231108014541_994.png",
     "Python Loops.md",
     "Rough.md",
     "Networking/Networking_Presentation_3/Main Note.md",
-    "Archive/database/Pasted image 20230610004821.png",
     "Archive/database/System Architecture (7)20/2. Distributed Systems.md",
     "Archive/database/System Architecture (7)20/1. Parallel Database Architectures.md",
     "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
@@ -194,7 +195,6 @@
     "Excalidraw/Automata.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Math Class Fereshteh.md",
-    "Excalidraw/EEE Class Fereshteh.md",
     "Excalidraw/Assets",
     "Networking/Other Papers",
     "Networking/Other Papers/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
