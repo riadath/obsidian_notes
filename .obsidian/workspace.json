@@ -16,8 +16,21 @@
                 "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "9a0e1d859ad84e4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Socket Programming Git Readme.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
+                "file": "Socket Programming Git Readme.md.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
+                "file": "Socket Programming Git Readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md"
+                "file": "Socket Programming Git Readme.md.md"
               }
             }
           },
@@ -165,10 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4082e35dbe6c2f35",
+  "active": "9a0e1d859ad84e4d",
   "lastOpenFiles": [
-    "Pasted Image 20231113062655_613.png",
     "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
+    "Socket Programming Git Readme.md.md",
+    "Pasted Image 20231113062655_613.png",
     "Pasted Image 20231113062023_403.png",
     "Excalidraw/EEE Class Fereshteh.md",
     "Excalidraw/tanha_bag.md",
@@ -180,7 +194,6 @@
     "Excalidraw/Assets/Pasted Image 20231108015159_261.png",
     "Excalidraw/Assets/Pasted Image 20231108014753_266.png",
     "Excalidraw/Assets/Pasted Image 20231108014722_279.png",
-    "Excalidraw/Assets/Pasted Image 20231108014707_269.png",
     "Python Loops.md",
     "Rough.md",
     "Networking/Networking_Presentation_3/Main Note.md",
@@ -205,7 +218,6 @@
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
     "Numerical/Numerical.md",
     "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md",
-    "Untitled.md",
     "Excalidraw",
     "2023-10-12.md",
     "todo/TODO Networking.md",
