@@ -11,26 +11,15 @@
             "id": "4082e35dbe6c2f35",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "9a0e1d859ad84e4d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Socket Programming Git Readme.md.md",
+                "file": "Turing Interview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Socket Programming Git Readme.md.md",
+                "file": "Turing Interview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Socket Programming Git Readme.md.md",
+                "file": "Turing Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Socket Programming Git Readme.md.md"
+                "file": "Turing Interview.md"
               }
             }
           },
@@ -178,15 +167,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a0e1d859ad84e4d",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
-    "Socket Programming Git Readme.md.md",
-    "Pasted Image 20231113062655_613.png",
-    "Pasted Image 20231113062023_403.png",
-    "Excalidraw/EEE Class Fereshteh.md",
+    "Excalidraw/Natural Dumbness Art.md",
+    "Python Loops.md",
+    "Turing Interview.md",
     "Excalidraw/tanha_bag.md",
-    "Pasted Image 20231110141401_993.png",
+    "Excalidraw/SDP Project.md",
+    "Excalidraw/Math Class Fereshteh.md",
+    "Excalidraw/EEE Class Fereshteh.md",
+    "Excalidraw/Automata.md",
+    "Pasted Image 20231113062655_613.png",
+    "Excalidraw/Assets/Pasted Image 20231110141401_993.png",
+    "Excalidraw/Assets/Pasted Image 20231113062023_403.png",
+    "Rough.md",
+    "Socket Programming Git Readme.md.md",
     "Excalidraw/Assets/Pasted Image 20231108015638_284.png",
     "Excalidraw/Assets/Pasted Image 20231108015552_697.png",
     "Excalidraw/Assets/Pasted Image 20231108015244_275.png",
@@ -194,8 +189,6 @@
     "Excalidraw/Assets/Pasted Image 20231108015159_261.png",
     "Excalidraw/Assets/Pasted Image 20231108014753_266.png",
     "Excalidraw/Assets/Pasted Image 20231108014722_279.png",
-    "Python Loops.md",
-    "Rough.md",
     "Networking/Networking_Presentation_3/Main Note.md",
     "Archive/database/System Architecture (7)20/2. Distributed Systems.md",
     "Archive/database/System Architecture (7)20/1. Parallel Database Architectures.md",
@@ -204,11 +197,8 @@
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_3/Assets",
     "Excalidraw/test.md",
-    "Excalidraw/SDP Project.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
-    "Excalidraw/Automata.md",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Math Class Fereshteh.md",
     "Excalidraw/Assets",
     "Networking/Other Papers",
     "Networking/Other Papers/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
