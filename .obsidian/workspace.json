@@ -11,13 +11,20 @@
             "id": "03bc96c9fa86a17c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbf39ba38097a7d7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -84,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03bc96c9fa86a17c",
+  "active": "fbf39ba38097a7d7",
   "lastOpenFiles": [
-    "Pasted Image 20231121121622_240.png",
     "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-22 09.55.49.excalidraw.md",
+    "Pasted Image 20231121121622_240.png",
     "Turing Interview.md",
     "Excalidraw/Natural Dumbness Art.md",
     "Python Loops.md",
@@ -188,7 +191,6 @@
     "Excalidraw/Assets/Pasted Image 20231108015214_270.png",
     "Excalidraw/Assets/Pasted Image 20231108015159_261.png",
     "Excalidraw/Assets/Pasted Image 20231108014753_266.png",
-    "Excalidraw/Assets/Pasted Image 20231108014722_279.png",
     "Networking/Networking_Presentation_3/Main Note.md",
     "Archive/database/System Architecture (7)20/2. Distributed Systems.md",
     "Archive/database/System Architecture (7)20/1. Parallel Database Architectures.md",
