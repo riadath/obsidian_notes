@@ -8,23 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03bc96c9fa86a17c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "fbf39ba38097a7d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md"
+              }
             }
           },
           {
@@ -167,14 +166,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbf39ba38097a7d7",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
+    "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
+    "Automata/Regular Languages/Chapter 1 (Sipser).md",
+    "Python Loops.md",
+    "Rough.md",
+    "Turing Interview.md",
     "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md",
     "Excalidraw/Drawing 2023-11-22 09.55.49.excalidraw.md",
     "Pasted Image 20231121121622_240.png",
-    "Turing Interview.md",
     "Excalidraw/Natural Dumbness Art.md",
-    "Python Loops.md",
     "Excalidraw/tanha_bag.md",
     "Excalidraw/SDP Project.md",
     "Excalidraw/Math Class Fereshteh.md",
@@ -183,7 +185,6 @@
     "Pasted Image 20231113062655_613.png",
     "Excalidraw/Assets/Pasted Image 20231110141401_993.png",
     "Excalidraw/Assets/Pasted Image 20231113062023_403.png",
-    "Rough.md",
     "Socket Programming Git Readme.md.md",
     "Excalidraw/Assets/Pasted Image 20231108015638_284.png",
     "Excalidraw/Assets/Pasted Image 20231108015552_697.png",
@@ -195,7 +196,6 @@
     "Archive/database/System Architecture (7)20/2. Distributed Systems.md",
     "Archive/database/System Architecture (7)20/1. Parallel Database Architectures.md",
     "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
-    "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_3/Assets",
     "Excalidraw/test.md",
@@ -211,7 +211,6 @@
     "Numerical/Numerical.md",
     "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md",
     "Excalidraw",
-    "2023-10-12.md",
     "Numerical",
     "Automata/assets",
     "Automata/Regular Languages",
