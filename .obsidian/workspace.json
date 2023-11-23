@@ -6,6 +6,7 @@
       {
         "id": "00223753f1e1cdfb",
         "type": "tabs",
+        "dimension": 50.74626865671642,
         "children": [
           {
             "id": "fbf39ba38097a7d7",
@@ -13,7 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
+                "file": "Rough1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "194286b521a4e623",
+        "type": "tabs",
+        "dimension": 49.25373134328358,
+        "children": [
+          {
+            "id": "9f2a1c0488ba2605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
+                "file": "Rough1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md",
+                "file": "Rough1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata/Regular Languages/Chapter 1 (Sipser).md"
+                "file": "Rough1.md"
               }
             }
           },
@@ -166,12 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "fbf39ba38097a7d7",
   "lastOpenFiles": [
-    "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
+    "Rough2.md",
+    "Rough1.md",
+    "Untitled",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
+    "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Python Loops.md",
-    "Rough.md",
     "Turing Interview.md",
     "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md",
     "Excalidraw/Drawing 2023-11-22 09.55.49.excalidraw.md",
@@ -209,11 +232,9 @@
     "OS/bare_metal.md",
     "OS/Interrupt Handling (NVIC) + EXTI + Software Interrupts.md",
     "Numerical/Numerical.md",
-    "Excalidraw/Drawing 2023-10-12 19.58.39.excalidraw.md",
     "Excalidraw",
     "Numerical",
     "Automata/assets",
-    "Automata/Regular Languages",
     "Untitled.canvas"
   ]
 }
