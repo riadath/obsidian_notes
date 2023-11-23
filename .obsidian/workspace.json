@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough2.md",
+                "file": "Rough1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rough2.md",
+                "file": "Rough1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rough2.md"
+                "file": "Rough1.md"
               }
             }
           },
@@ -187,10 +187,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f2a1c0488ba2605",
+  "active": "fbf39ba38097a7d7",
   "lastOpenFiles": [
-    "Rough1.md",
     "Rough2.md",
+    "Rough1.md",
     "Untitled",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
