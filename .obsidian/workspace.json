@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arisha Question.md",
+                "file": "Python Loops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arisha Question.md",
+                "file": "Python Loops.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arisha Question.md",
+                "file": "Python Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arisha Question.md"
+                "file": "Python Loops.md"
               }
             }
           },
@@ -168,7 +168,8 @@
   },
   "active": "77811f6843258713",
   "lastOpenFiles": [
-    "Arisha Question.md",
+    "Rough.md",
+    "Python Loops.md",
     "Excalidraw/Drawing 2023-11-07 11.58.35.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -193,7 +194,6 @@
     "Excalidraw/Math Class Fereshteh.md",
     "Excalidraw/EEE Class Fereshteh.md",
     "Excalidraw/Assets",
-    "Rough.md",
     "Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_2/Paper Main Note.md",
