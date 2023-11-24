@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c87e342eec3aa75",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-24 11.16.57.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Loops.md",
+                "file": "Excalidraw/Drawing 2023-11-24 11.16.57.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Loops.md",
+                "file": "Excalidraw/Drawing 2023-11-24 11.16.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Loops.md"
+                "file": "Excalidraw/Drawing 2023-11-24 11.16.57.excalidraw.md"
               }
             }
           },
@@ -166,10 +177,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77811f6843258713",
+  "active": "4c87e342eec3aa75",
   "lastOpenFiles": [
-    "Rough.md",
     "Python Loops.md",
+    "Excalidraw/Drawing 2023-11-24 11.16.57.excalidraw.md",
+    "Arisha Question.md",
+    "Rough.md",
     "Excalidraw/Drawing 2023-11-07 11.58.35.excalidraw.md",
     "Excalidraw/Drawing 2023-11-07 09.39.19.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -212,8 +225,6 @@
     "deep_learning_coursera/Course 1/Week 1.md",
     "todo/2023-08-16.md",
     "todo/2023-08-12.md",
-    "Paper Main Note.md",
-    "Nonlinear Programming.md",
     "Untitled.canvas"
   ]
 }
