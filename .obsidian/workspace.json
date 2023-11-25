@@ -6,7 +6,7 @@
       {
         "id": "51880d4785fac414",
         "type": "tabs",
-        "dimension": 31.50485436893204,
+        "dimension": 31.504854368932037,
         "children": [
           {
             "id": "4dba8c0eb1a0b8d6",
@@ -25,7 +25,7 @@
       {
         "id": "ae4c97009a182ec7",
         "type": "tabs",
-        "dimension": 68.49514563106797,
+        "dimension": 68.49514563106796,
         "children": [
           {
             "id": "8b27afe7ca4d517e",
@@ -187,10 +187,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b27afe7ca4d517e",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
-    "Pasted image 20231125235904.png",
-    "Pasted image 20231125235423.png",
+    "Pasted image 20231126001520.png",
+    "Algo Note/Assets",
+    "Algo Note/Assets/Pasted image 20231126000854.png",
+    "Algo Note/Assets/Pasted image 20231125235904.png",
+    "Algo Note/Assets/Pasted image 20231125235423.png",
     "Algo Syllabus.md",
     "Algo Note/Backtracking.md",
     "Untitled.md",
@@ -225,8 +228,6 @@
     "Socket Programming Git Readme.md.md",
     "Excalidraw/Assets/Pasted Image 20231108015638_284.png",
     "Excalidraw/Assets/Pasted Image 20231108015552_697.png",
-    "Excalidraw/Assets/Pasted Image 20231108015244_275.png",
-    "Excalidraw/Assets/Pasted Image 20231108015214_270.png",
     "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "Networking/Networking_Presentation_3/Assets",
     "Excalidraw/Assets",
@@ -234,7 +235,6 @@
     "Networking/Other Papers/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
     "Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
     "Excalidraw",
-    "Numerical",
     "Untitled.canvas"
   ]
 }

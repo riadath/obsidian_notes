@@ -98,7 +98,7 @@ end procedure
 ```
 
 ### State Space Tree Example
-![[Pasted image 20231125235904.png | 900x450]]
+![[Pasted image 20231125235904.png | 700x350]]
 
 
 # N-Queen Problem
@@ -112,7 +112,6 @@ bool n_queen(int col,int board[n][n]){
     }
     for(int i = 0;i < n;i++){
         if(can_place_q(board,i,col)){
-
             board[i][col] = true;
             if(N_queen(col + 1,board)){
                 return true;
@@ -126,48 +125,143 @@ bool n_queen(int col,int board[n][n]){
 
 ```
 
-### Psuedocode
+### Pseudocode
 ```
-procedure subsetSum(i: int, target: int, set: list of int, subset: list of int)
-    if target equals 0 then
-        // Base case: subset with the desired sum found, print it
-        printSubset(subset)
-        return
+function solveNQueens(col: int, board: array of array of bool): bool
+    if col >= n then
+        // All queens are placed successfully, solution found
+        return true
     end if
 
-    if i equals length(set) then
-        // Base case: reached the end of the set, no subset found
-        return
-    end if
+    for i from 0 to n - 1 do
+        if canPlaceQueen(board, i, col) then
+            // Place a queen at the current position
+            board[i][col] = true
 
-    // Exclude the current element and continue searching
-    subsetSum(i + 1, target, set, subset)
+            // Recursively try to place the remaining queens
+            if solveNQueens(col + 1, board) then
+                return true
+            end if
 
-    // Include the current element if it does not exceed the target
-    if set[i] <= target then
-        subset.append(set[i])
-        subsetSum(i + 1, target - set[i], set, subset)
-        subset.popLast() // Backtrack: Remove the last element to explore other possibilities
-    end if
-end procedure
-
-procedure printSubset(subset: list of int)
-    print("[")
-    for i from 0 to length(subset) - 1 do
-        print(" ", subset[i], " ")
+            // Backtrack: Undo the placement if it doesn't lead to a solution
+            board[i][col] = false
+        end if
     end for
-    print("]\n")
-end procedure
 
-// Example usage:
-flag = false
-input_set = [1, 2, 3, 4, 5]
-target_sum = 9
-subsetSum(0, target_sum, input_set, [])
+    // No solution found for the current configuration
+    return false
+```
 
-// The flag variable can be checked to determine if a subset with the target sum was found
-if flag is false then
-    print("No subset found with the target sum.")
-end if
+### State Space Tree Example
+![[Pasted image 20231126000854.png|800x400]]
+
+
+# Graph Coloring
+### C++ Implementation
+```cpp
+bool graph_coloring(bool graph[N][N],int color[],int v){
+    if(v == N){
+        return true;
+    }    
+    for (int c = 1;c <= m;c++){
+        if(can_color(v,graph,color,c)){
+            color[v] = c;
+
+            if(graph_coloring(graph,color,v + 1)){
+                return true;         
+            }
+
+            color[v] = 0; // backtracking 
+        }
+    
+    return false;
+}
+```
+
+### Pseudocode
+```
+function graphColoring(graph: adjacency matrix, color: array of int, v: int): bool
+    if v equals N then
+        // All vertices are colored successfully, solution found
+        return true
+    end if
+
+    for c from 1 to m do
+        if canColorVertex(v, graph, color, c) then
+            // Color the current vertex with color c
+            color[v] = c
+
+            // Recursively try to color the remaining vertices
+            if graphColoring(graph, color, v + 1) then
+                return true
+            end if
+
+            // Backtrack: Undo the color assignment if it doesn't lead to a solution
+            color[v] = 0
+        end if
+    end for
+
+    // No solution found for the current configuration
+    return false
+end function
+```
+
+### State Space Tree Example
+![[Pasted image 20231126001520.png |700x350]]
+
+
+# Hamiltonian Cycle
+
+### C++ Implementation
+
+```cpp
+bool ham_cycle(vector<vector<bool>>graph, vector<int> &path, int pos){
+    if(pos == N){
+        //theres a path from end to start
+        if(graph[path[pos-1]][path[0]]){
+            return true;
+        }else{
+            return false;
+        }
+    }    
+    for(int i = 1;i < N;i++){
+        if(can_include(i,graph,path,pos)){
+            path[pos] = i;
+            if(ham_cycle(graph,path,pos+1)){
+                return true;
+            }
+            path[pos] = -1;
+        }
+    } 
+    
+    return false;
+}
+```
+
+### Pseduocode
+```
+function hamiltonianCycle(graph: array of array of bool, path: array of int, pos: int): bool
+    if pos equals N then
+        // There's a path from the end to the start
+        if graph[path[pos - 1]][path[0]] then
+            return true
+        else
+            return false
+        end if
+    end if
+
+    for i from 1 to N - 1 do
+        if canIncludeVertex(i, graph, path, pos) then
+            path[pos] = i
+            if hamiltonianCycle(graph, path, pos + 1) then
+                return true
+            end if
+            path[pos] = -1 // Backtrack: Remove the current vertex from the path
+        end if
+    end for
+
+    return false
+end function
 
 ```
+\
