@@ -30,7 +30,7 @@
 - [ ] Permutations / Combinations
 - [x] Subset Sum
 - [x] N Queen
-- [ ] Graph Coloring
+- [x] Graph Coloring
 - [ ] Hamiltonian Cycle
 - [ ] Branch and Bound : 
 	- [ ] Job Sequencing
