@@ -28,9 +28,9 @@
 
 #### <u>Backtracking</u> (Source ? )
 - [ ] Permutations / Combinations
-- [x] Subset Sum
-- [x] N Queen
-- [x] Graph Coloring
+- [ ] Subset Sum
+- [ ] N Queen
+- [ ] Graph Coloring
 - [ ] Hamiltonian Cycle
 - [ ] Branch and Bound : 
 	- [ ] Job Sequencing
