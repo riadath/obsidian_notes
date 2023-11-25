@@ -63,3 +63,7 @@ Here 4 and 8 are divisible by only 4 and not 3
 
 We did not print 12 because it is divisible by both 4 and 3
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
