@@ -27,9 +27,9 @@
 - [ ] RSA (CLRS 31.7, Forouzan 10.2)
 
 #### <u>Backtracking</u> (Source ? )
-- [ ] Permutations / Combinations
+- [x] Permutations / Combinations
 - [x] Subset Sum
 - [x] N Queen
 - [x] Graph Coloring
-- [ ] Hamiltonian Cycle
+- [x] Hamiltonian Cycle
 - [ ] Branch and Bound : Job Sequencing
