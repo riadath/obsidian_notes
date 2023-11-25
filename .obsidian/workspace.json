@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6baa91519440687",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo Syllabus.md",
+                "file": "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo Syllabus.md",
+                "file": "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo Syllabus.md"
+                "file": "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md"
               }
             }
           },
@@ -175,10 +185,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16af8b12dc784611",
+  "active": "e6baa91519440687",
   "lastOpenFiles": [
-    "Algo Syllabus Amolnama.md",
     "Algo Syllabus.md",
+    "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
+    "Algo Syllabus Amolnama.md",
     "Rough2.md",
     "Rough1.md",
     "Untitled",
@@ -219,7 +230,6 @@
     "Networking/Other Papers/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
     "Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
     "deep_learning_coursera/Course 1/Week 2.md",
-    "OS/bare_metal.md",
     "Excalidraw",
     "Numerical",
     "Automata/assets",
