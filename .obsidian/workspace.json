@@ -26,19 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e6baa91519440687",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
+                "file": "Algo Syllabus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
+                "file": "Algo Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md"
+                "file": "Algo Syllabus.md"
               }
             }
           },
@@ -185,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6baa91519440687",
+  "active": "16af8b12dc784611",
   "lastOpenFiles": [
-    "Algo Syllabus.md",
     "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
+    "Algo Syllabus.md",
     "Algo Syllabus Amolnama.md",
     "Rough2.md",
     "Rough1.md",
