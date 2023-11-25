@@ -238,7 +238,7 @@ bool ham_cycle(vector<vector<bool>>graph, vector<int> &path, int pos){
 }
 ```
 
-### Pseduocode
+### Pseudocode
 ```
 function hamiltonianCycle(graph: array of array of bool, path: array of int, pos: int): bool
     if pos equals N then
@@ -264,4 +264,7 @@ function hamiltonianCycle(graph: array of array of bool, path: array of int, pos
 end function
 
 ```
-\
+
+### State Space Tree Example
+![[Pasted image 20231126004449.png|300x200]] 
+![[Pasted image 20231126004540.png]]

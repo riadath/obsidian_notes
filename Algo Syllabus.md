@@ -21,15 +21,15 @@
 - [ ] 35.5 The subset sum problem
 
 #### <u>Number Theory</u> (CLRS + Forouzan)
-- [x] GCD : Euclid , Extended Euclid (CLRS 31.2)
-- [x] Chinese Remainder Theorem (Forouzan 9.4)
-- [x] Modular Exponentiation (CLRS 31.6)
+- [ ] GCD : Euclid , Extended Euclid (CLRS 31.2)
+- [ ] Chinese Remainder Theorem (Forouzan 9.4)
+- [ ] Modular Exponentiation (CLRS 31.6)
 - [ ] RSA (CLRS 31.7, Forouzan 10.2)
 
 #### <u>Backtracking</u> (Source ? )
-- [x] Permutations / Combinations
-- [x] Subset Sum
-- [x] N Queen
-- [x] Graph Coloring
-- [x] Hamiltonian Cycle
+- [ ] Permutations / Combinations
+- [ ] Subset Sum
+- [ ] N Queen
+- [ ] Graph Coloring
+- [ ] Hamiltonian Cycle
 - [ ] Branch and Bound : Job Sequencing
