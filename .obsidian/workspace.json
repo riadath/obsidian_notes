@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c34d107a4952a9b2",
+        "id": "ed2c2d1a27b5e949",
         "type": "tabs",
         "children": [
           {
-            "id": "a58c70e136424150",
+            "id": "9211db4e4f2d003b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "eaac2824615348d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a58c70e136424150",
+  "active": "eaac2824615348d6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-24 11.16.57.excalidraw.md",
     "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
+    "Algo Syllabus.md",
+    "Algo Syllabus Amolnama.md",
+    "Excalidraw/Drawing 2023-11-24 11.16.57.excalidraw.md",
     "Python Loops.md",
     "Rough2.md",
     "Rough1.md",
@@ -211,9 +223,6 @@
     "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "todo/TODO Automata.md",
     "todo/TODO Networking.md",
-    "todo/2023-08-18.md",
-    "deep_learning_coursera/Course 1/Week 2.md",
-    "Networking/Networking_Presentation_2/Nonlinear Programming.md",
     "Untitled.canvas"
   ]
 }
