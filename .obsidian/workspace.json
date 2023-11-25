@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo Syllabus.md",
+                "file": "Algo Syllabus Amolnama.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo Syllabus.md",
+                "file": "Algo Syllabus Amolnama.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo Syllabus.md",
+                "file": "Algo Syllabus Amolnama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo Syllabus.md"
+                "file": "Algo Syllabus Amolnama.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "16af8b12dc784611",
   "lastOpenFiles": [
-    "Algo Syllabus Amolnama.md",
     "Algo Syllabus.md",
+    "Algo Syllabus Amolnama.md",
     "Rough2.md",
     "Rough1.md",
     "Untitled",
