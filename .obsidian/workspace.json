@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "81c4cff10729112e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo Syllabus.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo Syllabus.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo Syllabus.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,10 +187,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16af8b12dc784611",
+  "active": "81c4cff10729112e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
     "Algo Syllabus.md",
+    "conflict-files-obsidian-git.md",
+    "Rough.md",
+    "Excalidraw/Drawing 2023-11-25 21.34.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
     "Algo Syllabus Amolnama.md",
     "Rough2.md",
     "Rough1.md",
@@ -213,13 +228,10 @@
     "Networking/Networking_Presentation_1/FedCPF Paper Main Note.md",
     "Networking/Networking_Presentation_3/Assets",
     "Excalidraw/test.md",
-    "Networking/Networking_Presentation_2/Paper Main Note.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw/Assets",
     "Networking/Other Papers",
     "Networking/Other Papers/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
     "Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
-    "deep_learning_coursera/Course 1/Week 2.md",
     "Excalidraw",
     "Numerical",
     "Automata/assets",
