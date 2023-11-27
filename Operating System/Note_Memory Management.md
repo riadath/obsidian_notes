@@ -35,7 +35,27 @@ Internal fragmentation occurs  when memory allocated to a process contains more 
 - Increases Internal fragmentation
 
 
-# Dynamic Partitioning
+# <u>Dynamic Partitioning</u>
 **External Fragmentation:** 
 - Refers to the phenomenon where free memory blocks are scattered throughout the system, but they are not contiguous.
 	- Space wasted external to the allocated memory region.
+
+## Allocation Algorithms
+
+### Classic Approach
+**Represent available memory(memory holes) as a linked list**
+![[Pasted image 20231127163846.png]]
+
+
+### First-fit algorithm
+1. When a process requests memory, the algorithm searches the available memory blocks starting from the beginning. 
+2. The first block that is large enough to accommodate the process is allocated to it.
+3. If the selected block is larger than needed, it may be split into two parts.
+4. The allocated portion is used for the process, and the remaining part becomes a new free block.
+**Cons**
+- Increased fragmentation, both internal and external, over time. Small gaps between allocated blocks may accumulate
+### Next-fit algorithm
+- Memory is allocated to a process starting from the last allocated block and moving forward in a circular manner through the available memory space.
+**Pros**
+- More uniform allocation
+	- More often allocates a block at the end of the memory where the largest block is found

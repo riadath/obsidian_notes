@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Memory Management.md",
+                "file": "Operating System/Note_Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Memory Management.md",
+                "file": "Operating System/Note_Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Memory Management.md",
+                "file": "Operating System/Note_Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Memory Management.md"
+                "file": "Operating System/Note_Memory Management.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "ccb476cb8a70dd5c",
   "lastOpenFiles": [
+    "Pasted image 20231127163846.png",
     "Algo Syllabus.md",
-    "Operating System/Memory Management.md",
+    "Operating System/Note_Memory Management.md",
     "Pasted image 20231127161113.png",
     "Pasted image 20231127155528.png",
     "Excalidraw/Drawing 2023-11-26 22.41.10.excalidraw.md",
