@@ -11,24 +11,15 @@
             "id": "ccb476cb8a70dd5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "150bb26730698e96",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory Management.md",
+                "file": "Operating System/Memory Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory Management.md",
+                "file": "Operating System/Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory Management.md",
+                "file": "Operating System/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory Management.md"
+                "file": "Operating System/Memory Management.md"
               }
             }
           },
@@ -175,11 +167,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "150bb26730698e96",
+  "active": "ccb476cb8a70dd5c",
   "lastOpenFiles": [
+    "Algo Syllabus.md",
+    "Operating System/Memory Management.md",
     "Pasted image 20231127161113.png",
     "Pasted image 20231127155528.png",
-    "Memory Management.md",
     "Excalidraw/Drawing 2023-11-26 22.41.10.excalidraw.md",
     "Operating System",
     "Algo Note/Assets/Pasted image 20231126041512.png",
@@ -187,14 +180,12 @@
     "Algo Note/Backtracking.md",
     "Algo Note/Number Theory.md",
     "Algo Note/Assets/Pasted image 20231126001520.png",
-    "Algo Syllabus.md",
     "Untitled 1.md",
     "Algo Note/Assets/Pasted image 20231126004540.png",
     "Algo Note/Assets/Pasted image 20231126004531.png",
     "Algo Note/Assets/Pasted image 20231126004527.png",
     "Algo Note/Assets/Pasted image 20231126004522.png",
     "Algo Note/Assets/Pasted image 20231126004517.png",
-    "Algo Note/Assets/Pasted image 20231126004449.png",
     "Algo Note/Assets",
     "Algo Note",
     "Algo Syllabus Amolnama.md",
