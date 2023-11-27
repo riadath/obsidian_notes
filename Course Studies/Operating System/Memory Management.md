@@ -96,10 +96,14 @@ If the physical memory of the computer is large enough to hold all the processes
 	- Segmentation
 ### How?
 - swapping, consists of bringing in each process in its entirety, running it for a while, then putting it back on the disk.
-- Idle processes are mostly stored on disk, so they do not take up any memory when they are not running
+- Idle processes are mostly stored on disk, so they do not take up any memory when they are not running. 
 ![[Pasted image 20231128012531.png|500x350]]
 
 # Virtual Memory : Segmentation
 - divides a computer's memory into logical segments, each representing a different part of a program or data.
 - Segments can be : main program, procedure, function, array, data, stack, symbol
-- 
+![[Pasted image 20231128014337.png|400x300]]
+
+### Paging Vs Segmentation
+![[Pasted image 20231128014619.png]]
+

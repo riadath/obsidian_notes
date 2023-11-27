@@ -15,5 +15,6 @@
   "defaultViewMode": "source",
   "legacyEditor": false,
   "showFrontmatter": false,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "attachmentFolderPath": "Archive/Assets_All"
 }

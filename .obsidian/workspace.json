@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Note_Memory Management.md",
+                "file": "Course Studies/Operating System/Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 339.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating System/Note_Memory Management.md",
+                "file": "Course Studies/Operating System/Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating System/Note_Memory Management.md",
+                "file": "Course Studies/Operating System/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Note_Memory Management.md"
+                "file": "Course Studies/Operating System/Memory Management.md"
               }
             }
           },
@@ -169,52 +169,52 @@
   },
   "active": "ccb476cb8a70dd5c",
   "lastOpenFiles": [
-    "Pasted image 20231128012531.png",
-    "Pasted image 20231127195338.png",
-    "Pasted image 20231127163846.png",
-    "Algo Syllabus.md",
-    "Operating System/Note_Memory Management.md",
-    "Pasted image 20231127161113.png",
-    "Pasted image 20231127155528.png",
-    "Excalidraw/Drawing 2023-11-26 22.41.10.excalidraw.md",
-    "Operating System",
-    "Algo Note/Assets/Pasted image 20231126041512.png",
-    "Algo Note/Assets/Pasted image 20231126041322.png",
-    "Algo Note/Backtracking.md",
-    "Algo Note/Number Theory.md",
-    "Algo Note/Assets/Pasted image 20231126001520.png",
-    "Untitled 1.md",
-    "Algo Note/Assets/Pasted image 20231126004540.png",
-    "Algo Note/Assets/Pasted image 20231126004531.png",
-    "Algo Note/Assets/Pasted image 20231126004527.png",
-    "Algo Note/Assets",
-    "Algo Note",
-    "Algo Syllabus Amolnama.md",
-    "Networking/Networking_Presentation_3/Main Note.md",
-    "Archive/Python Loops Arisha Question.md",
+    "Archive/Assets_All/Pasted image 20231128014619.png",
+    "Archive/Assets_All/Pasted image 20231128014337.png",
+    "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
+    "Not Course Studies/Networking/Networking_Presentation_3/Main Note.md",
+    "Course Studies/Operating System/Memory Management.md",
+    "Archive/Assets_All/Pasted Image 20231019015854_187.png",
+    "Archive/Assets_All/Pasted Image 20231019014545_942.png",
+    "Archive/Assets_All/Pasted Image 20231016011301_180.png",
+    "Archive/Assets_All/Pasted Image 20231016010040_568.png",
+    "Archive/Assets_All/Pasted Image 20231016004055_168.png",
+    "Archive/Assets_All/Pasted Image 20231016003210_173.png",
+    "Archive/Assets_All/Pasted Image 20231016003037_469.png",
+    "Archive/Assets_All/Pasted Image 20231113062023_403.png",
+    "Archive/Assets_All/Pasted Image 20231110141401_993.png",
+    "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
+    "Archive/Assets_All",
+    "Assets_All",
+    "Assets",
+    "Not Course Studies",
+    "Course Studies",
     "Rough0.md",
     "Rough1.md",
     "Rough2.md",
+    "Course Studies/Operating System/Assets",
+    "Course Studies/Algo Note/Algo Syllabus.md",
+    "Excalidraw/Drawing 2023-11-26 22.41.10.excalidraw.md",
+    "Course Studies/Operating System",
+    "Course Studies/Algo Note/Backtracking.md",
+    "Course Studies/Algo Note/Number Theory.md",
+    "Untitled 1.md",
+    "Course Studies/Algo Note/Assets",
+    "Course Studies/Algo Note",
+    "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
+    "Archive/Python Loops Arisha Question.md",
     "Excalidraw/Archive/Automata Fereshteh.md",
-    "Excalidraw/Archive",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md",
     "Excalidraw/Drawing 2023-11-25 21.34.09.excalidraw.md",
     "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
-    "Automata/Regular Languages/Chapter 1 (Sipser).md",
-    "Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
+    "Course Studies/Automata/Regular Languages/Chapter 1 (Sipser).md",
+    "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Turing Interview.md",
     "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md",
     "Excalidraw/Drawing 2023-11-22 09.55.49.excalidraw.md",
     "Excalidraw/Archive/Natural Dumbness Art.md",
     "Excalidraw/tanha_bag.md",
-    "Excalidraw/SDP Project.md",
-    "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
-    "Networking/Networking_Presentation_3/Assets",
-    "Excalidraw/Assets",
-    "Networking/Other Papers",
-    "Networking/Other Papers/Efficiency_and_Fairness_Oriented_Dynamic_Task_Offloading_in_Internet_of_Vehicles.pdf",
-    "Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
     "Untitled.canvas"
   ]
 }
