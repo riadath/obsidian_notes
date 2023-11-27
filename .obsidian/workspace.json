@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "150bb26730698e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Memory Management.md"
+              }
             }
           },
           {
@@ -158,8 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "150bb26730698e96",
   "lastOpenFiles": [
+    "Pasted image 20231127161113.png",
+    "Pasted image 20231127155528.png",
+    "Memory Management.md",
     "Excalidraw/Drawing 2023-11-26 22.41.10.excalidraw.md",
     "Operating System",
     "Algo Note/Assets/Pasted image 20231126041512.png",
@@ -176,8 +196,6 @@
     "Algo Note/Assets/Pasted image 20231126004517.png",
     "Algo Note/Assets/Pasted image 20231126004449.png",
     "Algo Note/Assets",
-    "Algo Note/Assets/Pasted image 20231126000854.png",
-    "Untitled.md",
     "Algo Note",
     "Algo Syllabus Amolnama.md",
     "Networking/Networking_Presentation_3/Main Note.md",
@@ -199,7 +217,6 @@
     "Excalidraw/Archive/Natural Dumbness Art.md",
     "Excalidraw/tanha_bag.md",
     "Excalidraw/SDP Project.md",
-    "Excalidraw/Archive/Math Class Fereshteh.md",
     "Networking/Networking_Presentation_3/Voronoi-Based_Multi-Robot_Autonomous_Exploration_in_Unknown_Environments_via_Deep_Reinforcement_Learning.pdf",
     "Networking/Networking_Presentation_3/Assets",
     "Excalidraw/Assets",
