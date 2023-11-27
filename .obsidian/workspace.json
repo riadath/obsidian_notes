@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rough0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rough0.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,6 +160,7 @@
   },
   "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-26 22.41.10.excalidraw.md",
     "Operating System",
     "Algo Note/Assets/Pasted image 20231126041512.png",
     "Algo Note/Assets/Pasted image 20231126041322.png",
