@@ -15,6 +15,7 @@
               "state": {
                 "file": "Course Studies/Operating System/Memory Management.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -167,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ccb476cb8a70dd5c",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
     "Archive/Assets_All/Pasted image 20231128014619.png",
     "Archive/Assets_All/Pasted image 20231128014337.png",
