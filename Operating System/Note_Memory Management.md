@@ -58,7 +58,7 @@ Internal fragmentation occurs  when memory allocated to a process contains more 
 - Memory is allocated to a process starting from the last allocated block and moving forward in a circular manner through the available memory space.
 **Pros**
 - More uniform allocation
-	- More often allocates a block at the end of the memory where the largest block is found
+- More often allocates a block at the end of the memory where the largest block is found
 ### Best Fit Algorithm
 
 1. When a process requests memory, the algorithm searches for the smallest available memory block that can accommodate the process.
@@ -85,3 +85,21 @@ Internal fragmentation occurs  when memory allocated to a process contains more 
 - Used to reduce external fragmentation in a computer's memory
 ![[Pasted image 20231127195338.png|200x300]]
 
+# <u>Swapping</u>
+
+### Why?
+If the physical memory of the computer is large enough to hold all the processes, the schemes described so far will more or less do. But in practice, the total amount of RAM needed by all the processes is often much more than can fit in memory.
+#### Solution : 
+1. Swapping
+2. Virtual Memory
+	- Paging
+	- Segmentation
+### How?
+- swapping, consists of bringing in each process in its entirety, running it for a while, then putting it back on the disk.
+- Idle processes are mostly stored on disk, so they do not take up any memory when they are not running
+![[Pasted image 20231128012531.png|500x350]]
+
+# Virtual Memory : Segmentation
+- divides a computer's memory into logical segments, each representing a different part of a program or data.
+- Segments can be : main program, procedure, function, array, data, stack, symbol
+- 
