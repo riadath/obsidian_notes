@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -169,6 +170,7 @@
   },
   "active": "ccb476cb8a70dd5c",
   "lastOpenFiles": [
+    "Pasted image 20231127195338.png",
     "Pasted image 20231127163846.png",
     "Algo Syllabus.md",
     "Operating System/Note_Memory Management.md",
@@ -186,7 +188,6 @@
     "Algo Note/Assets/Pasted image 20231126004531.png",
     "Algo Note/Assets/Pasted image 20231126004527.png",
     "Algo Note/Assets/Pasted image 20231126004522.png",
-    "Algo Note/Assets/Pasted image 20231126004517.png",
     "Algo Note/Assets",
     "Algo Note",
     "Algo Syllabus Amolnama.md",

@@ -59,3 +59,29 @@ Internal fragmentation occurs  when memory allocated to a process contains more 
 **Pros**
 - More uniform allocation
 	- More often allocates a block at the end of the memory where the largest block is found
+### Best Fit Algorithm
+
+1. When a process requests memory, the algorithm searches for the smallest available memory block that can accommodate the process.
+2. Allocates the process to the found block, leaving minimal remaining free space.
+3. Helps in minimizing internal fragmentation by fitting processes into the smallest suitable blocks. 
+
+**Cons**
+- May lead to more fragmentation over time compared to other algorithms.
+- Searching for the best fit can be computationally intensive.
+
+### Worst Fit Algorithm
+
+1. When a process requests memory, the algorithm searches for the largest available memory block.
+2. Allocates the process to the found block, leaving larger remaining free space.
+3. Aims to minimize the creation of small free spaces for better future allocations. 
+
+**Cons**
+- Can result in increased internal fragmentation.
+- May not use memory space as efficiently as other algorithms, leading to potential wastage.
+
+
+## Compaction
+- Compaction involves rearranging the allocated and free memory blocks to create a larger, contiguous block of free memory.
+- Used to reduce external fragmentation in a computer's memory
+![[Pasted image 20231127195338.png|200x300]]
+
