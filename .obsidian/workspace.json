@@ -4,29 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "11eb4ba21ea4b413",
+        "id": "870d7b4fa32f79a1",
         "type": "tabs",
         "children": [
           {
-            "id": "ccb476cb8a70dd5c",
+            "id": "6c648b3d0ec4d155",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course Studies/Operating System/Memory Management.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "1d1b525f9dd647a0",
+            "id": "a2cfb8a409ea5a64",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-29 00.46.34.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md"
               }
             }
           }
@@ -81,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -98,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-29 00.46.34.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-29 00.46.34.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-29 00.46.34.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md"
               }
             }
           },
@@ -179,23 +173,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d1b525f9dd647a0",
+  "active": "a2cfb8a409ea5a64",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
+    "Course Studies/Operating System/Memory Management.md",
+    "Excalidraw/Archive/fereshteh_comp_arch.md",
     "Archive/Assets_All/Pasted Image 20231129020658_283.png",
     "Archive/Assets_All/Pasted Image 20231129020556_279.png",
     "Archive/Assets_All/Pasted Image 20231129020510_307.png",
     "Archive/Assets_All/Pasted Image 20231129020455_296.png",
     "Archive/Assets_All/Pasted Image 20231129015742_291.png",
     "Archive/Assets_All/Pasted Image 20231129015305_915.png",
-    "Course Studies/Operating System/Memory Management.md",
-    "Excalidraw/Drawing 2023-11-29 00.46.34.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231129011158_201.png",
     "Archive/Assets_All/Pasted Image 20231129004935_931.png",
     "Archive/Assets_All/Pasted image 20231128014619.png",
     "Archive/Assets_All/Pasted image 20231128014337.png",
     "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Not Course Studies/Networking/Networking_Presentation_3/Main Note.md",
-    "Archive/Assets_All/Pasted Image 20231019015854_187.png",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
