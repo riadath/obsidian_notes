@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -188,13 +187,13 @@
   },
   "active": "3e94a4d96423a13d",
   "lastOpenFiles": [
+    "Course Studies/Operating System/Memory Management.md",
+    "Excalidraw/Drawing 2023-12-02 02.16.39.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231202022051_450.png",
     "Archive/Assets_All/Pasted Image 20231202021859_421.png",
     "Archive/Assets_All/Pasted Image 20231202021654_405.png",
     "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-02 02.16.39.excalidraw.md",
     "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
-    "Course Studies/Operating System/Memory Management.md",
     "Archive/Assets_All/Pasted Image 20231201150103_154.png",
     "Archive/Assets_All/Pasted Image 20231201145148_174.png",
     "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.png",
@@ -205,7 +204,6 @@
     "Archive/Assets_All/Pasted Image 20231130213026_274.png",
     "Excalidraw/Archive/fereshteh_comp_arch.md",
     "Archive/Assets_All/Pasted Image 20231129020658_283.png",
-    "Archive/Assets_All/Pasted Image 20231129020556_279.png",
     "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Not Course Studies/Networking/Networking_Presentation_3/Main Note.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
