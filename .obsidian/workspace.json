@@ -21,9 +21,11 @@
             "id": "43657ae4945c422b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md"
+                "file": "Course Studies/Operating System/Memory Management.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md",
+                "file": "Course Studies/Operating System/Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md",
+                "file": "Course Studies/Operating System/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md"
+                "file": "Course Studies/Operating System/Memory Management.md"
               }
             }
           },
@@ -178,8 +179,8 @@
   },
   "active": "43657ae4945c422b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
     "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231201150103_154.png",
     "Archive/Assets_All/Pasted Image 20231201145148_174.png",
     "Course Studies/Operating System/Memory Management.md",
