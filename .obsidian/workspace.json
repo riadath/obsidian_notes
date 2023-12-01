@@ -13,11 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
+                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "43657ae4945c422b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
                 "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8a3f826c78b2eb1",
+  "active": "43657ae4945c422b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
     "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md",
