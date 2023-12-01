@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2cfb8a409ea5a64",
+            "id": "a8a3f826c78b2eb1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md"
               }
             }
           },
@@ -165,10 +165,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2cfb8a409ea5a64",
+  "active": "a8a3f826c78b2eb1",
   "lastOpenFiles": [
-    "Archive/Assets_All/Pasted Image 20231130221019_278.png",
     "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.png",
+    "Rough0.md",
+    "Excalidraw/Drawing 2023-12-01 09.17.55.excalidraw.md",
+    "Archive/Assets_All/Pasted Image 20231130221019_278.png",
     "Archive/Assets_All/Pasted Image 20231130214856_583.png",
     "Archive/Assets_All/Pasted Image 20231130213026_274.png",
     "Course Studies/Operating System/Memory Management.md",
@@ -179,8 +183,6 @@
     "Archive/Assets_All/Pasted Image 20231129020455_296.png",
     "Archive/Assets_All/Pasted Image 20231129015742_291.png",
     "Archive/Assets_All/Pasted Image 20231129015305_915.png",
-    "Archive/Assets_All/Pasted Image 20231129011158_201.png",
-    "Archive/Assets_All/Pasted Image 20231129004935_931.png",
     "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Not Course Studies/Networking/Networking_Presentation_3/Main Note.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
@@ -189,7 +191,6 @@
     "Assets",
     "Not Course Studies",
     "Course Studies",
-    "Rough0.md",
     "Rough1.md",
     "Rough2.md",
     "Course Studies/Operating System/Assets",
@@ -212,7 +213,6 @@
     "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Turing Interview.md",
     "Excalidraw/Drawing 2023-11-21 12.14.00.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-22 09.55.49.excalidraw.md",
     "Untitled.canvas"
   ]
 }
