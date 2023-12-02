@@ -26,19 +26,9 @@
                 "file": "Excalidraw/Drawing 2023-12-01 09.31.38.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "3e94a4d96423a13d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 02.16.39.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 02.16.39.excalidraw.md",
+                "file": "Excalidraw/Archive/Automata Fereshteh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 02.16.39.excalidraw.md",
+                "file": "Excalidraw/Archive/Automata Fereshteh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-02 02.16.39.excalidraw.md"
+                "file": "Excalidraw/Archive/Automata Fereshteh.md"
               }
             }
           },
@@ -185,10 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e94a4d96423a13d",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
-    "Course Studies/Operating System/Memory Management.md",
+    "Excalidraw/Archive/EEE Class Fereshteh.md",
+    "Excalidraw/Archive/Math Class Fereshteh.md",
+    "Excalidraw/Archive/Natural Dumbness Art.md",
     "Excalidraw/Drawing 2023-12-02 02.16.39.excalidraw.md",
+    "Course Studies/Operating System/Memory Management.md",
     "Archive/Assets_All/Pasted Image 20231202022051_450.png",
     "Archive/Assets_All/Pasted Image 20231202021859_421.png",
     "Archive/Assets_All/Pasted Image 20231202021654_405.png",
@@ -230,8 +223,6 @@
     "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md",
     "Excalidraw/Drawing 2023-11-25 21.34.09.excalidraw.md",
     "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
-    "Course Studies/Automata/Regular Languages/Chapter 1 (Sipser).md",
-    "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Untitled.canvas"
   ]
 }
