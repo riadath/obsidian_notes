@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cc565911e658aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Studies/Numerical/Numerical.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Studies/Numerical/Syllabus.md",
+                "file": "Course Studies/Numerical/Numerical.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Studies/Numerical/Syllabus.md",
+                "file": "Course Studies/Numerical/Numerical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Studies/Numerical/Syllabus.md"
+                "file": "Course Studies/Numerical/Numerical.md"
               }
             }
           },
@@ -167,10 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac70b72e3fbcd4f5",
+  "active": "6cc565911e658aaf",
   "lastOpenFiles": [
-    "Excalidraw/Archive/os3.md",
     "Course Studies/Numerical/Syllabus.md",
+    "Excalidraw/Archive/os3.md",
     "Excalidraw/Archive/os2.md",
     "Excalidraw/Archive/os1.md",
     "Archive/Operating System/Memory Management.md",

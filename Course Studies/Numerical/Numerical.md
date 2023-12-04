@@ -19,7 +19,7 @@ $$x_{n + 1} = x_n - \frac{f(x_n)}{f'(x_n)}$$
 
 # Secant Method
 $$x_{n + 1} = x_{n - 1} - \frac{f(x_{n - 1})}{\frac{f(x_n) - f(x_{n - 1})}{x_n - x_{n - 1}}}$$
-Secant might be faster than newton raphsons in practice since we are computing only $f$ over a certain number of iterations vs computing both $f$ and $f'$ for newton raphson.
+Secant might be faster than newton Raphson's in practice since we are computing only $f$ over a certain number of iterations vs computing both $f$ and $f'$ for newton raphson.
 
 # Bisection Method
 
