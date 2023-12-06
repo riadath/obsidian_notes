@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Studies/Numerical/Numerical.md",
+                "file": "Course Studies/Algo Note/Algo Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Studies/Numerical/Numerical.md",
+                "file": "Course Studies/Algo Note/Algo Syllabus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Studies/Numerical/Numerical.md",
+                "file": "Course Studies/Algo Note/Algo Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Studies/Numerical/Numerical.md"
+                "file": "Course Studies/Algo Note/Algo Syllabus.md"
               }
             }
           },
@@ -182,6 +181,9 @@
   },
   "active": "6cc565911e658aaf",
   "lastOpenFiles": [
+    "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
+    "Course Studies/Algo Note/Algo Syllabus.md",
+    "Course Studies/Numerical/Numerical.md",
     "Course Studies/Numerical/Syllabus.md",
     "Excalidraw/Archive/os3.md",
     "Excalidraw/Archive/os2.md",
@@ -216,7 +218,6 @@
     "Rough1.md",
     "Rough2.md",
     "Course Studies/Operating System/Assets",
-    "Course Studies/Algo Note/Algo Syllabus.md",
     "Excalidraw/Drawing 2023-11-26 22.41.10.excalidraw.md",
     "Archive/Operating System",
     "Course Studies/Algo Note/Backtracking.md",
@@ -224,10 +225,8 @@
     "Untitled 1.md",
     "Course Studies/Algo Note/Assets",
     "Course Studies/Algo Note",
-    "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-25 21.34.09.excalidraw.md",
     "Untitled.canvas"
   ]
 }
