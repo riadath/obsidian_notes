@@ -8,19 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac70b72e3fbcd4f5",
+            "id": "6cc565911e658aaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Studies/Numerical/Syllabus.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "260326821b4c6eac",
+        "type": "tabs",
+        "children": [
           {
-            "id": "6cc565911e658aaf",
+            "id": "193912e759464f11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922
+    "width": 339.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -98,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Studies/Algo Note/Algo Syllabus.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Studies/Algo Note/Algo Syllabus.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Studies/Algo Note/Algo Syllabus.md"
+                "file": "Course Studies/Algo Note/Plan.md"
               }
             }
           },
@@ -181,8 +187,9 @@
   },
   "active": "6cc565911e658aaf",
   "lastOpenFiles": [
-    "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
     "Course Studies/Algo Note/Algo Syllabus.md",
+    "Course Studies/Algo Note/Plan.md",
+    "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
     "Course Studies/Numerical/Numerical.md",
     "Course Studies/Numerical/Syllabus.md",
     "Excalidraw/Archive/os3.md",
@@ -226,7 +233,6 @@
     "Course Studies/Algo Note/Assets",
     "Course Studies/Algo Note",
     "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md",
     "Untitled.canvas"
   ]
 }
