@@ -18,13 +18,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "260326821b4c6eac",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "193912e759464f11",
             "type": "leaf",
@@ -36,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac1d1983913a3cb5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md",
+                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md",
+                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md"
+                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md"
               }
             }
           },
@@ -185,10 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cc565911e658aaf",
+  "active": "ac1d1983913a3cb5",
   "lastOpenFiles": [
-    "Course Studies/Algo Note/Algo Syllabus.md",
     "Course Studies/Algo Note/Plan.md",
+    "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
+    "Course Studies/Algo Note/Algo Syllabus.md",
     "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
     "Course Studies/Numerical/Numerical.md",
     "Course Studies/Numerical/Syllabus.md",
@@ -232,7 +238,6 @@
     "Untitled 1.md",
     "Course Studies/Algo Note/Assets",
     "Course Studies/Algo Note",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas"
   ]
 }
