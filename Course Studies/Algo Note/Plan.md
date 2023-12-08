@@ -9,7 +9,7 @@
 # 8/12
 - [ ] String Matching
 - [ ] NP, Approximation
-	- [ ] The complexity class NP (Page : 1064 CLRS)
+	- [x] The complexity class NP (Page : 1064 CLRS)
 	- [ ] 34.5.1 The clique problem
 	- [ ] 34.5.2 The vertex cover problem
 	- [ ] 34.5.3 The hamiltonian cycle problem
