@@ -30,19 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ac1d1983913a3cb5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md"
+                "file": "Course Studies/Algo Note/Plan.md"
               }
             }
           },
@@ -190,11 +179,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac1d1983913a3cb5",
+  "active": "6cc565911e658aaf",
   "lastOpenFiles": [
+    "Course Studies/Algo Note/Algo Syllabus.md",
     "Course Studies/Algo Note/Plan.md",
     "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
-    "Course Studies/Algo Note/Algo Syllabus.md",
     "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
     "Course Studies/Numerical/Numerical.md",
     "Course Studies/Numerical/Syllabus.md",
