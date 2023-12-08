@@ -11,11 +11,9 @@
             "id": "6cc565911e658aaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md"
               }
             }
           },
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md",
+                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md",
+                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md"
+                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md"
               }
             }
           },
@@ -181,8 +179,8 @@
   },
   "active": "6cc565911e658aaf",
   "lastOpenFiles": [
-    "Course Studies/Algo Note/Algo Syllabus.md",
     "Course Studies/Algo Note/Plan.md",
+    "Course Studies/Algo Note/Algo Syllabus.md",
     "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
     "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
     "Course Studies/Numerical/Numerical.md",
