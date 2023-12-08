@@ -1,9 +1,9 @@
 # 7/12
 - [x] Hashing
-- [ ] Number Theory
+- [x] Number Theory
 	- [x] GCD : Euclid , Extended Euclid (CLRS 31.2)
 	- [x] Chinese Remainder Theorem (Forouzan 9.4)
-	- [ ] Modular Exponentiation (CLRS 31.6)
+	- [x] Modular Exponentiation (CLRS 31.6)
 	- [ ] RSA (CLRS 31.7, Forouzan 10.2)
 
 # 8/12
