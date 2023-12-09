@@ -19,8 +19,8 @@
 	- [x] 34.5.4 The traveling salesman problem
 	- [x] 34.5.5 The subset sum problem
 - [x] Approximation Algorithms 
-	- [ ] 35.1 The vertex cover problem
-	- [ ] 35.2 The traveling salesman problem
+	- [x] 35.1 The vertex cover problem
+	- [x] 35.2 The traveling salesman problem
 	- [ ] 35.5 The subset sum problem
 
 # 9/12
