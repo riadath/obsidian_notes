@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "193912e759464f11",
+            "id": "4149c9ee569ae542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Studies/Algo Note/Algo Syllabus.md",
+                "file": "Course Studies/Algo Note/Backtracking.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6eca0e57ba8e4bf5",
+            "id": "51fec2d96a18b9b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NP-Completeness.md",
+                "file": "Course Studies/Algo Note/Algo Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,14 +194,14 @@
   "lastOpenFiles": [
     "Course Studies/Algo Note/Algo Syllabus.md",
     "Course Studies/Algo Note/Plan.md",
+    "Course Studies/Algo Note/Backtracking.md",
+    "NP-Completeness.md",
     "Excalidraw/Archive/os1.md",
     "Excalidraw/Archive/os2.md",
     "Excalidraw/Archive/os3.md",
     "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
-    "NP-Completeness.md",
     "Archive/Assets_All/Pasted image 20231209052955.png",
     "Course Studies/Algo Note/Number Theory.md",
-    "Course Studies/Algo Note/Backtracking.md",
     "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
     "Course Studies/Numerical/Numerical.md",
     "Course Studies/Numerical/Syllabus.md",
