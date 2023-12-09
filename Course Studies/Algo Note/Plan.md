@@ -21,7 +21,7 @@
 - [x] Approximation Algorithms 
 	- [x] 35.1 The vertex cover problem
 	- [x] 35.2 The traveling salesman problem
-	- [ ] 35.5 The subset sum problem
+	- [x] 35.5 The subset sum problem
 
 # 9/12
 - [ ] Backtracking
