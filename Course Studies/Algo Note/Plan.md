@@ -12,7 +12,7 @@
 	- [ ] KMP
 	- [ ] FSA
 	- [ ] Rabin Karp
-- [ ] NP Complete Proof
+- [x] NP Complete Proof
 	- [x] The complexity class NP (Page : 1064 CLRS)
 	- [x] 34.5.1 The clique problem
 	- [x] 34.5.2 The vertex cover problem
