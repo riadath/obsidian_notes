@@ -11,9 +11,9 @@
 # 8/12
 - [x] String Matching
 	- [x] Naive
-	- [ ] KMP
-	- [ ] FSA
-	- [ ] Rabin Karp
+	- [x] KMP
+	- [x] FSA
+	- [x] Rabin Karp
 	- [ ] Suffix Tries
 - [x] NP Complete Proof
 	- [x] The complexity class NP (Page : 1064 CLRS)
