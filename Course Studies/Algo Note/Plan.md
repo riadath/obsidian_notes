@@ -6,7 +6,7 @@
 	- [x] Modular Exponentiation (CLRS 31.6)
 	- [x] RSA (CLRS 31.7, Forouzan 10.2)
 	- [x] Euler Totient Function
-	- [ ] Fermat's Little Theorem
+	- [x] Fermat's Little Theorem
 
 # 8/12
 - [x] String Matching
@@ -37,9 +37,8 @@
 - [ ] Computational Geometry
 	- [ ]  Line Segment Intersection (CLRS)
 	- [ ] Convex Hull (Graham Scan) (CLRS)
-- [ ] Miscellaneous
-	- [ ] Online Algorithms
-	- [ ] Renting Ski
-	- [ ] CLRS 4.1 : Maximum Subarray Problem
+- [ ] Online Algorithms
+	- [ ] Ski Rental
+	- [ ] Maximum Subarray Problem
 # 10/12
 - [ ] Run it back
