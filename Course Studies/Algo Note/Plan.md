@@ -5,7 +5,7 @@
 	- [x] Chinese Remainder Theorem (Forouzan 9.4)
 	- [x] Modular Exponentiation (CLRS 31.6)
 	- [x] RSA (CLRS 31.7, Forouzan 10.2)
-	- [ ] Euler Totient Function
+	- [x] Euler Totient Function
 	- [ ] Fermat's Little Theorem
 
 # 8/12
@@ -29,8 +29,8 @@
 # 9/12
 - [ ] Backtracking
 	- [x]  Permutations / Combinations
-	- [x] Subset Sum
-	- [ ] N Queen
+	- [ ] Subset Sum
+	- [x] N Queen
 	- [ ] Graph Coloring
 	- [ ] Hamiltonian Cycle
 	- [ ] Branch and Bound : Job Sequencing
