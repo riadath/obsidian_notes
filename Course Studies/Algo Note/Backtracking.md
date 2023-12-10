@@ -98,7 +98,7 @@ end procedure
 ```
 
 ### State Space Tree Example
-![[Pasted image 20231125235904.png | 700x350]]
+![[Pasted image 20231125235904.png]]
 
 
 # N-Queen Problem

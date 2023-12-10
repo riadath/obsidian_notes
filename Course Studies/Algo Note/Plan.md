@@ -28,8 +28,8 @@
 
 # 9/12
 - [ ] Backtracking
-	- [ ]  Permutations / Combinations
-	- [ ] Subset Sum
+	- [x]  Permutations / Combinations
+	- [x] Subset Sum
 	- [ ] N Queen
 	- [ ] Graph Coloring
 	- [ ] Hamiltonian Cycle
