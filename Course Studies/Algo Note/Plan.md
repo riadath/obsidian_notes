@@ -1,5 +1,11 @@
-# 7/12
+
 - [x] Hashing
+	- [x] Direct Hashing
+	- [x] Chaining
+	- [x] Open Addressing
+		- [x] Linear Probing
+		- [x] Quadratic Probing
+		- [x] Double Hashing
 - [x] Number Theory
 	- [x] GCD : Euclid , Extended Euclid (CLRS 31.2)
 	- [x] Chinese Remainder Theorem (Forouzan 9.4)
@@ -8,7 +14,6 @@
 	- [x] Euler Totient Function
 	- [x] Fermat's Little Theorem
 
-# 8/12
 - [x] String Matching
 	- [x] Naive
 	- [x] KMP
@@ -26,7 +31,6 @@
 	- [x] 35.2 The traveling salesman problem
 	- [x] 35.5 The subset sum problem
 
-# 9/12
 - [ ] Backtracking
 	- [x]  Permutations / Combinations
 	- [ ] Subset Sum
@@ -34,9 +38,9 @@
 	- [ ] Graph Coloring
 	- [ ] Hamiltonian Cycle
 	- [ ] Branch and Bound : Job Sequencing
-- [ ] Computational Geometry
+- [x] Computational Geometry
 	- [x]  Line Segment Intersection (CLRS)
-	- [ ] Convex Hull (Graham Scan) (CLRS)
+	- [x] Convex Hull (Graham Scan) (CLRS)
 - [ ] Online Algorithms
 	- [ ] Ski Rental
 	- [ ] Maximum Subarray Problem
