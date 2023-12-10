@@ -153,7 +153,7 @@ function solveNQueens(col: int, board: array of array of bool): bool
 ```
 
 ### State Space Tree Example
-![[Pasted image 20231126000854.png|800x400]]
+![[Pasted image 20231126000854.png]]
 
 
 # Graph Coloring
