@@ -19,7 +19,7 @@
 	- [x] KMP
 	- [x] FSA
 	- [x] Rabin Karp
-	- [ ] Suffix Tries
+	- [x] Suffix Tries
 - [x] NP Complete Proof
 	- [x] The complexity class NP (Page : 1064 CLRS)
 	- [x] 34.5.1 The clique problem
