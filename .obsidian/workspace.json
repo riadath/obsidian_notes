@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Studies/Algo Note/Backtracking.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Studies/Algo Note/Backtracking.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Studies/Algo Note/Backtracking.md"
+                "file": "Course Studies/Algo Note/Plan.md"
               }
             }
           },
@@ -191,12 +190,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4149c9ee569ae542",
+  "active": "f145b5b63a1bf9b6",
   "lastOpenFiles": [
+    "Course Studies/Algo Note/Backtracking.md",
     "Course Studies/Algo Note/Plan.md",
     "Course Studies/Algo Note/Algo Syllabus.md",
     "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
-    "Course Studies/Algo Note/Backtracking.md",
     "NP-Completeness.md",
     "Excalidraw/Archive/os1.md",
     "Excalidraw/Archive/os2.md",

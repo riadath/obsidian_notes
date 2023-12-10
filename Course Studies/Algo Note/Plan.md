@@ -35,7 +35,7 @@
 	- [ ] Hamiltonian Cycle
 	- [ ] Branch and Bound : Job Sequencing
 - [ ] Computational Geometry
-	- [ ]  Line Segment Intersection (CLRS)
+	- [x]  Line Segment Intersection (CLRS)
 	- [ ] Convex Hull (Graham Scan) (CLRS)
 - [ ] Online Algorithms
 	- [ ] Ski Rental
