@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "000a2a96f269e7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course Studies/Algo Note/Backtracking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4149c9ee569ae542",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md",
+                "file": "Course Studies/Algo Note/Backtracking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md",
+                "file": "Course Studies/Algo Note/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Studies/Algo Note/Plan.md"
+                "file": "Course Studies/Algo Note/Backtracking.md"
               }
             }
           },
@@ -188,10 +201,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f145b5b63a1bf9b6",
+  "active": "000a2a96f269e7d1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
     "Course Studies/Algo Note/Plan.md",
+    "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231210233150_194.png",
     "Course Studies/Algo Note/Backtracking.md",
     "Course Studies/Algo Note/Algo Syllabus.md",

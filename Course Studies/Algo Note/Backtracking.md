@@ -207,7 +207,7 @@ end function
 ```
 
 ### State Space Tree Example
-![[Pasted image 20231126001520.png |700x350]]
+![[Pasted image 20231126001520.png ]]
 
 
 # Hamiltonian Cycle
