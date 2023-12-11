@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
+                "file": "Course Studies/Algo Note/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md"
+                "file": "Course Studies/Algo Note/Plan.md"
               }
             }
           },
@@ -190,10 +188,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4149c9ee569ae542",
+  "active": "f145b5b63a1bf9b6",
   "lastOpenFiles": [
-    "Course Studies/Algo Note/Plan.md",
     "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
+    "Course Studies/Algo Note/Plan.md",
     "Archive/Assets_All/Pasted Image 20231210233150_194.png",
     "Course Studies/Algo Note/Backtracking.md",
     "Course Studies/Algo Note/Algo Syllabus.md",
