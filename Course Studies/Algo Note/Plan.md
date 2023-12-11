@@ -31,13 +31,13 @@
 	- [x] 35.2 The traveling salesman problem
 	- [x] 35.5 The subset sum problem
 
-- [ ] Backtracking
+- [x] Backtracking
 	- [x]  Permutations / Combinations
-	- [ ] Subset Sum
+	- [x] Subset Sum
 	- [x] N Queen
-	- [ ] Graph Coloring
-	- [ ] Hamiltonian Cycle
-	- [ ] Branch and Bound : Job Sequencing
+	- [x] Graph Coloring
+	- [x] Hamiltonian Cycle
+	- [x] Branch and Bound : Job Sequencing
 - [x] Computational Geometry
 	- [x]  Line Segment Intersection (CLRS)
 	- [x] Convex Hull (Graham Scan) (CLRS)
@@ -45,4 +45,4 @@
 	- [ ] Ski Rental
 	- [ ] Maximum Subarray Problem
 # 10/12
-- [ ] Run it back
+- [x] Run it back
