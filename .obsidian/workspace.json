@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Studies/Algo Note/Algo Syllabus.md",
+                "file": "Rough0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course Studies/Algo Note/Algo Syllabus.md",
+                "file": "Rough0.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course Studies/Algo Note/Algo Syllabus.md",
+                "file": "Rough0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course Studies/Algo Note/Algo Syllabus.md"
+                "file": "Rough0.md"
               }
             }
           },
@@ -168,18 +168,23 @@
   },
   "active": "51fec2d96a18b9b7",
   "lastOpenFiles": [
+    "Archive/Assets_All/Pasted image 20231213203949.png",
+    "Archive/Assets_All/Pasted image 20231213203940.png",
+    "Archive/Assets_All/Pasted image 20231213203933.png",
+    "Archive/Assets_All/Pasted image 20231213203930.png",
+    "Archive/Assets_All/Pasted image 20231213203922.png",
+    "Archive/Algo Note/Algo Syllabus.md",
     "Excalidraw/Drawing 2023-12-08 22.01.12.excalidraw.md",
-    "Course Studies/Algo Note/Backtracking.md",
-    "Course Studies/Algo Note/Plan.md",
+    "Archive/Algo Note/Backtracking.md",
+    "Archive/Algo Note/Plan.md",
     "Archive/Assets_All/Pasted Image 20231210233150_194.png",
-    "Course Studies/Algo Note/Algo Syllabus.md",
-    "Course Studies/Algo Note/Algo Syllabus Amolnama.md",
+    "Archive/Algo Note/Algo Syllabus Amolnama.md",
     "NP-Completeness.md",
     "Excalidraw/Archive/os1.md",
     "Excalidraw/Archive/os2.md",
     "Excalidraw/Archive/os3.md",
     "Archive/Assets_All/Pasted image 20231209052955.png",
-    "Course Studies/Algo Note/Number Theory.md",
+    "Archive/Algo Note/Number Theory.md",
     "Course Studies/Numerical/Numerical.md",
     "Course Studies/Numerical/Syllabus.md",
     "Archive/Operating System/Memory Management.md",
@@ -192,12 +197,8 @@
     "Archive/Assets_All/Pasted Image 20231202021859_421.png",
     "Archive/Assets_All/Pasted Image 20231202021654_405.png",
     "Archive/Assets_All/Pasted Image 20231201150103_154.png",
-    "Archive/Assets_All/Pasted Image 20231201145148_174.png",
-    "Excalidraw/Drawing 2023-11-29 07.08.57.excalidraw.png",
     "Rough0.md",
     "Excalidraw/Drawing 2023-12-01 09.17.55.excalidraw.md",
-    "Archive/Assets_All/Pasted Image 20231130221019_278.png",
-    "Archive/Assets_All/Pasted Image 20231130214856_583.png",
     "Excalidraw/Archive/fereshteh_comp_arch.md",
     "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Not Course Studies/Networking/Networking_Presentation_3/Main Note.md",
@@ -212,7 +213,7 @@
     "Course Studies/Operating System/Assets",
     "Archive/Operating System",
     "Course Studies/Algo Note/Assets",
-    "Course Studies/Algo Note",
+    "Archive/Algo Note",
     "Untitled.canvas"
   ]
 }
