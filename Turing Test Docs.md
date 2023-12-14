@@ -4,3 +4,7 @@
 ![[WhatsApp Image 2023-12-12 at 16.34.22_5a19077d.jpg|800x600]]
 ![[WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg|800x600]]
 ![[WhatsApp Image 2023-12-12 at 16.34.22_22269976.jpg|800x600]]
+![[Pasted image 20231213230259.png]]
+![[Pasted image 20231213230316.png]]
+![[Pasted image 20231213230338.png]]
+![[Pasted image 20231213230343.png]]
