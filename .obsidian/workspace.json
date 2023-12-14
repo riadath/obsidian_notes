@@ -48,9 +48,19 @@
                 "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "7d0cf319d54fa6d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md"
               }
             }
           },
@@ -198,10 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d248a0167fad028",
+  "active": "7d0cf319d54fa6d6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231214070334_108.png",
     "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Course Studies/Automata/Regular Languages/Chapter 1 (Sipser).md",
@@ -235,7 +246,6 @@
     "Excalidraw/Archive/Natural Dumbness Art.md",
     "Excalidraw/Drawing 2023-12-01 09.17.55.excalidraw.md",
     "Excalidraw/Archive/fereshteh_comp_arch.md",
-    "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
