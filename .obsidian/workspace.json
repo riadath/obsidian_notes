@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e08e74601942c2c4",
+        "id": "82079eb58faba04c",
         "type": "tabs",
         "children": [
           {
-            "id": "51fec2d96a18b9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turing Test Docs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7be1f5c876fb9bc",
+            "id": "ef03d469ea0acc9b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Archive/Algo Prac.md"
-              }
-            }
-          },
-          {
-            "id": "7e5cb3896198da4f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0d248a0167fad028",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "7d0cf319d54fa6d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922
+    "width": 339.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -128,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
+                "file": "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
+                "file": "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md"
+                "file": "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md"
               }
             }
           },
@@ -209,18 +165,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d0cf319d54fa6d6",
+  "active": "ef03d469ea0acc9b",
   "lastOpenFiles": [
-    "Not Course Studies/Networking/Networking_Presentation_2/Nonlinear Programming.md",
-    "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
-    "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
     "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
+    "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
+    "Turing Test Docs.md",
+    "Excalidraw/Archive/Algo Prac.md",
+    "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
+    "Not Course Studies/Networking/Networking_Presentation_2/Nonlinear Programming.md",
     "Archive/Assets_All/Pasted Image 20231214070334_108.png",
     "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Course Studies/Automata/Regular Languages/Chapter 1 (Sipser).md",
-    "Excalidraw/Archive/Algo Prac.md",
-    "Turing Test Docs.md",
     "Archive/Assets_All/Pasted image 20231213230343.png",
     "Archive/Assets_All/Pasted image 20231213230338.png",
     "Archive/Assets_All/Pasted image 20231213230324.png",
@@ -246,7 +203,6 @@
     "Excalidraw/Archive/Automata Fereshteh.md",
     "Excalidraw/Archive/EEE Class Fereshteh.md",
     "Excalidraw/Archive/Math Class Fereshteh.md",
-    "Excalidraw/Archive/Natural Dumbness Art.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
