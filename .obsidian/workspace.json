@@ -53,9 +53,11 @@
             "id": "7d0cf319d54fa6d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md"
+                "file": "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -110,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
+                "file": "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
+                "file": "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md"
+                "file": "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md"
               }
             }
           },
@@ -210,8 +211,10 @@
   },
   "active": "7d0cf319d54fa6d6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
+    "Not Course Studies/Networking/Networking_Presentation_2/Nonlinear Programming.md",
+    "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
     "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231214070334_108.png",
     "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
@@ -244,8 +247,6 @@
     "Excalidraw/Archive/EEE Class Fereshteh.md",
     "Excalidraw/Archive/Math Class Fereshteh.md",
     "Excalidraw/Archive/Natural Dumbness Art.md",
-    "Excalidraw/Drawing 2023-12-01 09.17.55.excalidraw.md",
-    "Excalidraw/Archive/fereshteh_comp_arch.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
