@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md"
               }
             }
           },
@@ -167,8 +166,8 @@
   },
   "active": "ef03d469ea0acc9b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md",
     "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
     "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Turing Test Docs.md",
