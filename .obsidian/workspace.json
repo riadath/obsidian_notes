@@ -13,11 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md"
+                "file": "Excalidraw/Archive/shah_cs102to602.md"
+              }
+            }
+          },
+          {
+            "id": "dd428c1f51c34083",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-16 20.13.02.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922
+    "width": 339.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-16 20.13.02.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-16 20.13.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-16 20.13.02.excalidraw.md"
               }
             }
           },
@@ -164,15 +176,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ef03d469ea0acc9b",
+  "active": "dd428c1f51c34083",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-15 18.24.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md",
+    "Excalidraw/Archive/shah_cs102to602.md",
+    "Excalidraw/Drawing 2023-12-16 20.13.02.excalidraw.md",
     "Excalidraw/Drawing 2023-12-14 17.28.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-14 06.31.08.excalidraw.md",
+    "Excalidraw/automata.md",
     "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Turing Test Docs.md",
     "Excalidraw/Archive/Algo Prac.md",
-    "Excalidraw/Drawing 2023-12-15 04.49.19.excalidraw.md",
     "Not Course Studies/Networking/Networking_Presentation_2/Nonlinear Programming.md",
     "Archive/Assets_All/Pasted Image 20231214070334_108.png",
     "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
@@ -201,7 +214,6 @@
     "Archive/Python Loops Arisha Question.md",
     "Excalidraw/Archive/Automata Fereshteh.md",
     "Excalidraw/Archive/EEE Class Fereshteh.md",
-    "Excalidraw/Archive/Math Class Fereshteh.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
