@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "602640be29b39e32",
+        "id": "9f7f2b72dfaa7ebd",
         "type": "tabs",
         "children": [
           {
-            "id": "b64859650aac0506",
+            "id": "5f06df01f5eea422",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -16,29 +16,8 @@
                 "file": "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "159f6c3b48c57446",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "694101cb770b1624",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md"
               }
             }
           },
@@ -188,21 +167,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "694101cb770b1624",
+  "active": "5f06df01f5eea422",
   "lastOpenFiles": [
+    "Archive/Assets_All/Pasted Image 20231229144111_260.png",
+    "Archive/Assets_All/Pasted Image 20231229144044_713.png",
+    "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231229141004_646.jpg",
     "Archive/Assets_All/Pasted Image 20231229141004_638.jpg",
     "Archive/Assets_All/Pasted Image 20231229140918_627.jpg",
     "Archive/Assets_All/Pasted Image 20231229140908_602.jpg",
-    "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231217015632_900.png",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.21_ce452600.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_7f0e791a.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_22269976.jpg",
-    "Archive/Assets_All/Pasted Image 20231130221019_278.png",
-    "Archive/Assets_All/Pasted image 20230831110258.png",
     "Excalidraw/Drawing 2023-12-19 02.41.43.excalidraw.md",
     "Excalidraw/Archive/Drawing 2023-12-14 06.31.08.excalidraw.md",
     "Excalidraw/Archive/Drawing 2023-12-16 20.13.02.excalidraw.md",
