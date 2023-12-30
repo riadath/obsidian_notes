@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f06df01f5eea422",
+            "id": "6504b52e622bbf6f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md"
+                "file": "rought.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
+                "file": "rought.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
+                "file": "rought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md"
+                "file": "rought.md"
               }
             }
           },
@@ -167,12 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f06df01f5eea422",
+  "active": "6504b52e622bbf6f",
   "lastOpenFiles": [
+    "rought.md",
+    "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
+    "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231229144111_260.png",
     "Archive/Assets_All/Pasted Image 20231229144044_713.png",
     "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231229141004_646.jpg",
     "Archive/Assets_All/Pasted Image 20231229141004_638.jpg",
     "Archive/Assets_All/Pasted Image 20231229140918_627.jpg",
@@ -181,7 +185,6 @@
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.21_ce452600.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_7f0e791a.jpg",
-    "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_22269976.jpg",
     "Excalidraw/Drawing 2023-12-19 02.41.43.excalidraw.md",
     "Excalidraw/Archive/Drawing 2023-12-14 06.31.08.excalidraw.md",
     "Excalidraw/Archive/Drawing 2023-12-16 20.13.02.excalidraw.md",
@@ -193,7 +196,6 @@
     "Turing Test Docs.md",
     "Excalidraw/Archive/Algo Prac.md",
     "Not Course Studies/Networking/Networking_Presentation_2/Nonlinear Programming.md",
-    "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Course Studies/Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Archive/Algo Note/Algo Syllabus.md",
     "Archive/Algo Note/Backtracking.md",
