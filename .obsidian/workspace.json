@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rought.md",
+                "file": "rough.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rought.md",
+                "file": "rough.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rought.md",
+                "file": "rough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rought.md"
+                "file": "rough.md"
               }
             }
           },
@@ -171,7 +171,7 @@
   },
   "active": "6504b52e622bbf6f",
   "lastOpenFiles": [
-    "rought.md",
+    "rough.md",
     "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
     "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231229144111_260.png",
