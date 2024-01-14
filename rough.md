@@ -1,6 +1,6 @@
 ## Error Messages and Explanation
 ****
-#### C:\\Shorts\\shorts.mp3: No such file or directory
+#### Message: C:\\Shorts\\shorts.mp3: No such file or directory
 **Explanation**
 
 - There was an issue with the provided file path.
@@ -20,7 +20,7 @@
 
 - Verify that the paths used in the `ffmpeg` commands are correct and properly escaped if necessary
 - Check if there's are any issues with the input files
-#### C:\\Shorts\\i-survived-50-hours-in-antarctica_merged.mp4: No such file or directory"
+#### Message: C:\\Shorts\\i-survived-50-hours-in-antarctica_merged.mp4: No such file or directory"
 **Explanation**
 
 - There was an issue with the provided file path.
@@ -31,7 +31,7 @@
 - Check that the `download_video` function successfully downloaded the audio file and that it was saved with the correct filename
 - Check the spelling and case sensitivity of the filename.
 
-#### `youtube-dl` is not recognized as an internal or external command
+#### Message:  `youtube-dl` is not recognized as an internal or external command
 **Explanation**
 
 The `youtube-dl` error message does not seem to relate to the provided code snippet. This error suggests that the script may be attempting to call `youtube-dl` at some point, which is not present in the provided code snippet. 
