@@ -19,6 +19,7 @@
 **Suggested Action**
 
 - Verify that the paths used in the `ffmpeg` commands are correct and properly escaped if necessary
+- Check if there's are any issues with the input files
 #### C:\\Shorts\\i-survived-50-hours-in-antarctica_merged.mp4: No such file or directory"
 **Explanation**
 
@@ -31,8 +32,12 @@
 - Check the spelling and case sensitivity of the filename.
 
 #### `youtube-dl` is not recognized as an internal or external command
-**Suggested Action**
+**Explanation**
 
+The `youtube-dl` error message does not seem to relate to the provided code snippet. This error suggests that the script may be attempting to call `youtube-dl` at some point, which is not present in the provided code snippet. 
+
+**Suggested Action**
+- Check if any of the libraries you are using have dependencies on `youtube-dl`. 
 - Install `youtube-dl`. You can install it using `pip` with the following command:
 ```bash
 pip install youtube-dl
