@@ -22,6 +22,5 @@ The repo primarily consists of shell scripts and JSON files. (.sh and .json file
 ## Continuous Integration/CI
 Details regarding CI setup is not explicitly mentioned in the file tree thus it is not possible to provide accurate information about how the CI exactly works.
 
-
 ## Developer Workflow
-- Add features in the `src` directory
+Details regarding the developer workflow  is not explicitly mentioned in the prompt thus it is not possible to provide accurate information about the developer workflow.
