@@ -1,7 +1,6 @@
 ## Error Messages and Explanation
 
 ---
-
 #### Error: C:\\Shorts\\shorts.mp3: No such file or directory
 
 - **Explanation:** This error message suggests that there is an issue with the provided file path. Either the `shorts.mp3` file does not exist in the specified directory, or the provided directory path is incorrect.
