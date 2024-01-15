@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7f2b72dfaa7ebd",
+        "id": "ca83a83c12b13e38",
         "type": "tabs",
         "children": [
           {
-            "id": "8d6b70e7e7f98d5b",
+            "id": "9a74156b23c2ca5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bullshit/b3.md",
+                "file": "bullshit/b4.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bullshit/b3.md",
+                "file": "bullshit/b4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bullshit/b3.md",
+                "file": "bullshit/b4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bullshit/b3.md"
+                "file": "bullshit/b4.md"
               }
             }
           },
@@ -169,10 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d6b70e7e7f98d5b",
+  "active": "9a74156b23c2ca5e",
   "lastOpenFiles": [
-    "bullshit/b2.md",
+    "bullshit/b4.md",
     "bullshit/b3.md",
+    "bullshit/b2.md",
     "bullshit/b1.md",
     "bullshit",
     "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
@@ -207,7 +208,6 @@
     "NP-Completeness.md",
     "Excalidraw/Archive/os1.md",
     "Excalidraw/Archive/os2.md",
-    "Excalidraw/Archive/os3.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
