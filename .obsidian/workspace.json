@@ -11,26 +11,15 @@
             "id": "ebd33f816f3ffaae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-23 23.20.04.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "07a7250cbd602196",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Hints I missed cause I am a fucking retard.md",
+                "file": "owl/Rationales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hints I missed cause I am a fucking retard.md",
+                "file": "owl/Rationales.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hints I missed cause I am a fucking retard.md",
+                "file": "owl/Rationales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hints I missed cause I am a fucking retard.md"
+                "file": "owl/Rationales.md"
               }
             }
           },
@@ -180,15 +168,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07a7250cbd602196",
+  "active": "ebd33f816f3ffaae",
   "lastOpenFiles": [
+    "owl/Response D.md",
+    "owl/Response C.md",
     "Excalidraw/Drawing 2024-01-23 23.20.04.excalidraw.md",
     "Hints I missed cause I am a fucking retard.md",
-    "Response D.md",
     "owl/Rationales.md",
     "owl/Response B.md",
     "owl/Response A.md",
-    "owl/Response C.md",
     "Turing Test Docs.md",
     "owl",
     "bullshit/b4.md",
