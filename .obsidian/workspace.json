@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "a78f85f52cc972aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e9406f777d0c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/Response A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "1f1bb9df82a27772",
         "type": "tabs",
         "children": [
@@ -14,18 +32,6 @@
               "type": "markdown",
               "state": {
                 "file": "owl/Rationales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80e9406f777d0c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/Response A.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922
+    "width": 339.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/Response B.md",
+                "file": "owl/Rationales.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/Response B.md",
+                "file": "owl/Rationales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/Response B.md"
+                "file": "owl/Rationales.md"
               }
             }
           },
@@ -193,12 +199,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d313020f9b70afd",
+  "active": "6683394379862f41",
   "lastOpenFiles": [
-    "Turing Test Docs.md",
     "owl/Response B.md",
-    "owl/Rationales.md",
     "owl/Response A.md",
+    "Turing Test Docs.md",
+    "owl/Rationales.md",
     "owl",
     "bullshit/b4.md",
     "bullshit/b3.md",
