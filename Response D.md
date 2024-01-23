@@ -137,4 +137,4 @@ Here's what to consider:
 - Provides installation guidelines for `Pygame`
 - Takes user input which makes the game playable.
 - Since the response doesn't have a detailed description of the implementation the code needs more comment to increase the helpfulness of the response.
--  The response doesn't mention the shortcomings what the user needs to implement in to complete the game. such as better U,I , adding split, bet features etc.
+-  The response doesn't specifically mention the shortcomings what the user needs to implement in to complete the game. such as better U,I , adding split, bet features etc.

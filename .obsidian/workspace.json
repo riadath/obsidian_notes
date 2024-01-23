@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1f1bb9df82a27772",
@@ -73,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Response D.md",
+                "file": "owl/Rationales.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Response D.md",
+                "file": "owl/Rationales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Response D.md"
+                "file": "owl/Rationales.md"
               }
             }
           },
@@ -224,13 +224,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd748b54dbf27932",
+  "active": "6683394379862f41",
   "lastOpenFiles": [
-    "owl/Response A.md",
     "Response D.md",
+    "owl/Response B.md",
+    "owl/Response A.md",
     "owl/Response C.md",
     "owl/Rationales.md",
-    "owl/Response B.md",
     "Turing Test Docs.md",
     "owl",
     "bullshit/b4.md",
