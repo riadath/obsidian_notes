@@ -130,5 +130,8 @@ Write a content rationale for the response. Write the rationale in 6-7 sentences
 Here's what to consider:
 - Doesn't provide a brief description of the blackjack rules
 - Provides installation guidelines for `Pygame`
+- Takes user input which makes the game playable.
+- Show both the dealer card which is a major violation of the blackjack game rules
+- the code is properly commented
 - 
 
