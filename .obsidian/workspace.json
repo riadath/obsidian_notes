@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15241cbf2402ab98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/Response C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1f1bb9df82a27772",
@@ -51,18 +62,19 @@
             }
           },
           {
-            "id": "15241cbf2402ab98",
+            "id": "dd748b54dbf27932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "owl/Response C.md",
+                "file": "Response D.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/Rationales.md",
+                "file": "Response D.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/Rationales.md",
+                "file": "Response D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/Rationales.md"
+                "file": "Response D.md"
               }
             }
           },
@@ -212,12 +224,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6683394379862f41",
+  "active": "dd748b54dbf27932",
   "lastOpenFiles": [
-    "owl/Response C.md",
-    "owl/Response B.md",
     "owl/Response A.md",
+    "Response D.md",
+    "owl/Response C.md",
     "owl/Rationales.md",
+    "owl/Response B.md",
     "Turing Test Docs.md",
     "owl",
     "bullshit/b4.md",
@@ -251,7 +264,6 @@
     "Course Studies/Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Archive/Algo Note/Algo Syllabus.md",
     "Archive/Algo Note/Backtracking.md",
-    "Archive/Algo Note/Plan.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",

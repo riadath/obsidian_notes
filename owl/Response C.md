@@ -134,6 +134,6 @@ Here's what to consider:
 - The game doesn't provide any instructions on the screen about which buttons to press for hit and stand thus the user has to dig through the code in order to find out.
 - Show both the dealer card which is a major violation of the blackjack game rules
 - the code is properly commented
--   The response also mentions all the shortcomings and mentions what the user needs to implement to complete the game.
+-  The response also mentions all the shortcomings and mentions what the user needs to implement to complete the game.
 
 
