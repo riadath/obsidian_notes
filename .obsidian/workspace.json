@@ -4,96 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "158dce03a0b4b122",
-        "type": "split",
-        "dimension": 50.11709601873536,
+        "id": "a4f6962db5bf95e7",
+        "type": "tabs",
         "children": [
           {
-            "id": "a4f6962db5bf95e7",
-            "type": "tabs",
-            "dimension": 49.15074309978769,
-            "children": [
-              {
-                "id": "ebd33f816f3ffaae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "owl/Response A.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "ebd33f816f3ffaae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/Response A.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "b81b9a27f8bf2c07",
-            "type": "tabs",
-            "dimension": 50.84925690021231,
-            "children": [
-              {
-                "id": "2595f71908292eeb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "owl/Response B.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "2595f71908292eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/Response B.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "e4526bc742e34e8e",
-        "type": "split",
-        "dimension": 49.88290398126464,
-        "children": [
-          {
-            "id": "fa8af6264d7d5d0c",
-            "type": "tabs",
-            "dimension": 49.15074309978769,
-            "children": [
-              {
-                "id": "7a3244464f134199",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "owl/Response C.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           },
           {
-            "id": "78191cb5f0a5adbf",
-            "type": "tabs",
-            "dimension": 50.84925690021231,
-            "children": [
-              {
-                "id": "c01f0ec23622f034",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "owl/Response D.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "7a3244464f134199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/Response C.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "c01f0ec23622f034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/Response D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eec34fefe79a292",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-24 21.41.39.excalidraw.md"
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/Response B.md",
+                "file": "Excalidraw/Drawing 2024-01-24 21.41.39.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/Response B.md",
+                "file": "Excalidraw/Drawing 2024-01-24 21.41.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/Response B.md"
+                "file": "Excalidraw/Drawing 2024-01-24 21.41.39.excalidraw.md"
               }
             }
           },
@@ -243,10 +216,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2595f71908292eeb",
+  "active": "8eec34fefe79a292",
   "lastOpenFiles": [
-    "owl/Response A.md",
     "owl/Response B.md",
+    "Excalidraw/Drawing 2024-01-24 21.41.39.excalidraw.md",
+    "owl/Response A.md",
     "owl/Response D.md",
     "owl/Response C.md",
     "owl/Rationales.md",
@@ -282,7 +256,6 @@
     "Not Course Studies/Networking/Networking_Presentation_2/Paper Main Note.md",
     "Excalidraw/Archive/Algo Prac.md",
     "Not Course Studies/Networking/Networking_Presentation_2/Nonlinear Programming.md",
-    "Course Studies/Automata/Regular Languages/Chapter 1 (Sipser).md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
