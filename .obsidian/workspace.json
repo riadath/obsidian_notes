@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb09321ef4e4a07c",
+            "id": "5e0270077cb55a1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "owl/ideal palindrome.md",
+                "file": "owl/Rationale Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e839ec20807faf1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d65c406e16014e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/Palindrome A.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/ideal palindrome.md",
+                "file": "owl/A.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/ideal palindrome.md",
+                "file": "owl/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/ideal palindrome.md"
+                "file": "owl/A.md"
               }
             }
           },
@@ -168,20 +193,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb09321ef4e4a07c",
+  "active": "e839ec20807faf1c",
   "lastOpenFiles": [
+    "owl/Rationale Template.md",
+    "owl/A.md",
+    "owl/Palindrome A.md",
+    "owl/archive/Rationales.md",
     "owl/Palindrome C.md",
     "owl/ideal palindrome.md",
-    "owl/Palindrome A.md",
-    "owl/Rationales.md",
-    "owl/Roman Numerals.md",
-    "owl/Response A.md",
-    "Roman Numerals.md",
+    "owl/archive/Response A.md",
+    "owl/archive",
+    "owl/archive/Response B.md",
+    "Untitled",
+    "owl/archive/Roman Numerals.md",
+    "owl/archive/Roman Numerals.md",
     "Archive/Assets_All/Pasted image 20240125203316.png",
-    "owl/Response D.md",
+    "owl/archive/Response D.md",
     "Excalidraw/Drawing 2024-01-24 21.41.39.excalidraw.md",
-    "owl/Response B.md",
-    "owl/Response C.md",
+    "owl/archive/Response C.md",
     "Excalidraw/Drawing 2024-01-23 23.20.04.excalidraw.md",
     "Hints I missed cause I am a fucking retard.md",
     "Turing Test Docs.md",
@@ -206,16 +235,12 @@
     "Excalidraw/Drawing 2023-12-19 02.41.43.excalidraw.md",
     "Excalidraw/Archive/Drawing 2023-12-14 06.31.08.excalidraw.md",
     "Excalidraw/Archive/Drawing 2023-12-16 20.13.02.excalidraw.md",
-    "Excalidraw/Archive/Drawing 2023-12-17 01.56.02.excalidraw.md",
-    "Excalidraw/Archive/automata.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
     "Assets",
     "Not Course Studies",
     "Course Studies",
-    "Course Studies/Operating System/Assets",
-    "Archive/Operating System",
     "Untitled.canvas"
   ]
 }
