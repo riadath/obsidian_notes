@@ -62,13 +62,13 @@ Write a rationale for this rating. Write in 5-6 sentences. Don't use points, wri
 - A good selection of test cases was provided with the answers given as comments
 
 
-### Style Rating: 6
+### Style Rating: 7
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs, don't use points. 
 - No grammatical or spelling mistakes
 - Good formatting
 - Clear and concise response
 
-### Overall: 6
+### Overall: 7
 Write the rationale in 4-5 sentences considering the points below. Write in paragraphs, don't use points. 
 - Provide a brief overview of response in 1-2 sentences
 - Explain the good things about the response in brief
