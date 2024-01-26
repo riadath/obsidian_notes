@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "8ead2887404596a6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
             "id": "9dd8101659e55a7e",
             "type": "leaf",
             "state": {
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ead2887404596a6",
+  "active": "cdf3abc0e372314c",
   "lastOpenFiles": [
     "owl/Palindrome A.md",
     "owl/Roman Numerals.md",
