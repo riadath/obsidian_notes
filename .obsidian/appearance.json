@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#f9912f",
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 20
+  "baseFontSize": 17
 }

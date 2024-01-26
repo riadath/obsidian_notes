@@ -1,0 +1,23 @@
+# Before In-course
+- Error 
+- Newton Raphson
+- Secant Method
+- Bisection Method
+- Gauss Seidel
+- Forward, Backward, Central Approximation - 2 Point Different
+- Multivariable Newton Raphson
+# After In-course
+- Riemann Sum
+	- Left Hand
+	- Right Hand
+	- Trapezoidal 
+	- Midpoint
+- SDR for Gauss Seidel to converge faster
+- Numerical Differentiation for multiple points
+- 3 point/ 2 point
+- Integration
+- Simpson Rule
+- Polynomial Interpolation
+- Newton's Polynomial Interpolation
+- Linear Spline
+- Quadratic Spline
