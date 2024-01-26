@@ -21,12 +21,21 @@ def isPalindrome(x):
 print(isPalindrome(121))  # Output: True
 print(isPalindrome(-121))  # Output: False
 print(isPalindrome(10))   # Output: False
+print(isPalindrome(12321))  # Output: True
+print(isPalindrome(12345))  # Output: False
+print(isPalindrome(0))      # Output: True
+print(isPalindrome(1))      # Output: True
+
 ```
 
 Key points in the code:
 
 1. **Handling Special Cases**: The function first checks for numbers that cannot be palindromes, such as negative numbers or those ending in 0 (excluding 0 itself).
 
-2. **Reversing Half of the Number**: A variable `reversed_num` is initialized to 0. In the `while` loop, digits from the right half of `x` are successively added to `reversed_num`. Once `reversed_num` equals or exceeds half of `x`, the loop terminates. This approach only reverses the second half of the number, making it more efficient.
+2. **Reversing Half of the Number**:
+	-  A variable `reversed_num` is initialized to 0.
+	- In the `while` loop, digits from the right half of `x` are successively added to `reversed_num`. 
+	- Once `reversed_num` equals or exceeds half of `x`, the loop terminates. 
+	- This approach only reverses the second half of the number, making it more efficient.
 
-3. **Comparing Halves**: The final check compares the left half (`x`) and the right half (`reversed_num`). For an odd-length number, the middle digit is irrelevant in determining if it's a palindrome, so `reversed_num // 10` is used to ignore the middle digit.
+4. **Comparing Halves**: The final check compares the left half (`x`) and the right half (`reversed_num`). For an odd-length number, the middle digit is irrelevant in determining if it's a palindrome, so `reversed_num // 10` is used to ignore the middle digit.
