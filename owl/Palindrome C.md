@@ -44,7 +44,7 @@ Write a rationale for this rating. Write in 5-6 sentences. Don't use points, wri
 - The code is properly commented.
 - There's a comprehensive explanation of the code provided
 - A good selection of test cases was provided with the answers given as comments
-	- However, the response tries to take a more efficient approach by only reversing the latter half of the number. But this approach is not very apparent from the start. Since the input 
+-  However, the response tries to take a more efficient approach by only reversing the latter half of the number. But this approach is not very apparent from the start. This would increase the efficiency but a little bit but the approach should be explained more explicitly
 
 
 ### Style Rating: 7
