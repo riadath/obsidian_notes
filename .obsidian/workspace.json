@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb09321ef4e4a07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/ideal palindrome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/Palindrome C.md",
+                "file": "owl/ideal palindrome.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/Palindrome C.md",
+                "file": "owl/ideal palindrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/Palindrome C.md"
+                "file": "owl/ideal palindrome.md"
               }
             }
           },
@@ -168,12 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f42ec5f053279c5",
+  "active": "bb09321ef4e4a07c",
   "lastOpenFiles": [
+    "owl/Palindrome C.md",
+    "owl/ideal palindrome.md",
     "owl/Palindrome A.md",
     "owl/Rationales.md",
     "owl/Roman Numerals.md",
-    "owl/Palindrome C.md",
     "owl/Response A.md",
     "Roman Numerals.md",
     "Archive/Assets_All/Pasted image 20240125203316.png",
@@ -207,7 +221,6 @@
     "Excalidraw/Archive/Drawing 2023-12-16 20.13.02.excalidraw.md",
     "Excalidraw/Archive/Drawing 2023-12-17 01.56.02.excalidraw.md",
     "Excalidraw/Archive/automata.md",
-    "Excalidraw/Archive/shah_cs102to602.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
