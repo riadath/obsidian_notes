@@ -14,19 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3f8d2865269f7b23",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,10 +158,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f8d2865269f7b23",
+  "active": "9211db4e4f2d003b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-25 21.34.09.excalidraw.md",
     "Excalidraw/Drawing 2023-11-25 22.10.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-25 21.34.09.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2023-11-25 21.15.13.excalidraw.md",
     "Algo Syllabus.md",
