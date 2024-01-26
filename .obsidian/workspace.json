@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03dfa641560a03f0",
+            "id": "cdf3abc0e372314c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "owl/Palindrome A.md",
+                "file": "owl/Palindrome C.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aa146d9b924f087e",
+            "id": "9dd8101659e55a7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "owl/Roman Numerals.md",
+                "file": "owl/Palindrome A.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/Palindrome A.md",
+                "file": "owl/Palindrome C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/Palindrome A.md",
+                "file": "owl/Palindrome C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/Palindrome A.md"
+                "file": "owl/Palindrome C.md"
               }
             }
           },
@@ -178,10 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "cdf3abc0e372314c",
   "lastOpenFiles": [
-    "owl/Roman Numerals.md",
     "owl/Palindrome A.md",
+    "owl/Roman Numerals.md",
+    "owl/Palindrome C.md",
     "owl/Response B.md",
     "owl/Response A.md",
     "conflict-files-obsidian-git.md",
@@ -215,7 +216,6 @@
     "Not Course Studies/Networking/Networking_Presentation_2",
     "Excalidraw/Drawing 2024-01-24 21.41.39.excalidraw.md",
     "Excalidraw/Drawing 2024-01-23 23.20.04.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_7f0e791a.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_5a19077d.jpg",
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg",
