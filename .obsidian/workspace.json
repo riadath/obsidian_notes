@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/Rationale Template.md",
+                "file": "Instructions Task ChatGPT Improvements.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/Rationale Template.md",
+                "file": "Instructions Task ChatGPT Improvements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/Rationale Template.md"
+                "file": "Instructions Task ChatGPT Improvements.md"
               }
             }
           },
@@ -217,13 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e0270077cb55a1b",
+  "active": "4036d90b6a774a6a",
   "lastOpenFiles": [
-    "owl/ideal.md",
+    "Stuff.md",
     "Instructions Task ChatGPT Improvements.md",
     "owl/Rationale Template.md",
+    "owl/ideal.md",
     "owl/Grading Rubric.md",
-    "Stuff.md",
     "owl/A.md",
     "owl/D.md",
     "owl/B.md",
