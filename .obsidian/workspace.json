@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec680786904970bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/ideal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/D.md",
+                "file": "owl/ideal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/D.md",
+                "file": "owl/ideal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/D.md"
+                "file": "owl/ideal.md"
               }
             }
           },
@@ -217,13 +229,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e57bcd9a9d11ae25",
+  "active": "ec680786904970bd",
   "lastOpenFiles": [
-    "owl/B.md",
     "owl/D.md",
-    "owl/Rationale Template.md",
-    "owl/A.md",
+    "owl/B.md",
     "owl/C.md",
+    "owl/ideal.md",
+    "owl/A.md",
+    "owl/Rationale Template.md",
     "owl/Palindrome A.md",
     "owl/archive/Rationales.md",
     "owl/Palindrome C.md",
@@ -251,7 +264,6 @@
     "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231229144111_260.png",
     "Archive/Assets_All/Pasted Image 20231229144044_713.png",
-    "Excalidraw/Drawing 2023-12-29 14.09.02.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231229141004_646.jpg",
     "Archive/Assets_All/Pasted Image 20231229141004_638.jpg",
     "Archive/Assets_All/Pasted Image 20231229140918_627.jpg",
