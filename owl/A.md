@@ -107,7 +107,8 @@ Write a rationale for this rating. Write in 5-6 sentences. Don't use points, wri
 - the code is properly commented
 - There's sufficient explanation provided alongside the code
 - The code doesn't deviate too much from the previous version and only makes minor adjustments to fix the error which is good.
-- However the code does proved a runtime warning, `RuntimeWarning: All-NaN slice encountered` when every element of a column is 0. In cases like this the answer should be something like `None` or `-1` and the response should clearly mention what these values mean. In this cases `None` or `-1` could mean that all values of a column are filled with zeros.
+- The response should also acknowledge the error where it put "<URL>" instead of writing "np.minimu.at" in the previous response.
+   - However the code does proved a runtime warning, `RuntimeWarning: All-NaN slice encountered` when every element of a column is 0. In cases like this the answer should be something like `None` or `-1` and the response should clearly mention what these values mean. In this cases `None` or `-1` could mean that all values of a column are filled with zeros.
 
 
 ### Style Rating: 6

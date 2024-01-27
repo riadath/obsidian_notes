@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "d65c406e16014e0f",
+            "id": "c47f025c199771da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "owl/Palindrome A.md",
+                "file": "owl/B.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/A.md",
+                "file": "owl/B.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/A.md",
+                "file": "owl/B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/A.md"
+                "file": "owl/B.md"
               }
             }
           },
@@ -193,10 +193,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e839ec20807faf1c",
+  "active": "c47f025c199771da",
   "lastOpenFiles": [
-    "owl/Rationale Template.md",
     "owl/A.md",
+    "owl/B.md",
+    "owl/Rationale Template.md",
     "owl/Palindrome A.md",
     "owl/archive/Rationales.md",
     "owl/Palindrome C.md",
@@ -234,7 +235,6 @@
     "Archive/Assets_All/WhatsApp Image 2023-12-12 at 16.34.22_2e73f42a.jpg",
     "Excalidraw/Drawing 2023-12-19 02.41.43.excalidraw.md",
     "Excalidraw/Archive/Drawing 2023-12-14 06.31.08.excalidraw.md",
-    "Excalidraw/Archive/Drawing 2023-12-16 20.13.02.excalidraw.md",
     "Archive/Assets_All/Vehicle Selection and Resource Optimization for Federated Learning in Vehicular Edge Computing.pdf",
     "Archive/Assets_All",
     "Assets_All",
