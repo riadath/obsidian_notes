@@ -93,6 +93,8 @@ Write the rationales for each of these sections by strictly following the instru
 
 ### Content Rating : 5
 Write a rationale for this rating. Write in 5-6 sentences. Don't use points, write in 2-3 paragraphs. Here's what to write:
+- The response is correct and achieves the desired goal
+- The code is properly commented
 - 
 
 
