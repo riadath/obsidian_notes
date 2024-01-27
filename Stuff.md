@@ -56,7 +56,7 @@ Write a rationale for this rating. Write in 5-6 sentences. Don't use points, wri
 
 ### Style Rating: 6
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs, don't use points. 
-
+- The response is well formatted. There are not grammatical 
 
 ### Overall: 7
 Write the rationale in 4-5 sentences considering the points below. Write in paragraphs, don't use points. 
