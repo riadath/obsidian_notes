@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/ideal.md",
+                "file": "owl/Rationale Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/ideal.md",
+                "file": "owl/Rationale Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/ideal.md"
+                "file": "owl/Rationale Template.md"
               }
             }
           },
@@ -217,14 +217,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec680786904970bd",
+  "active": "5e0270077cb55a1b",
   "lastOpenFiles": [
+    "owl/ideal.md",
     "Instructions Task ChatGPT Improvements.md",
     "owl/Rationale Template.md",
-    "Stuff.md",
-    "owl/ideal.md",
-    "owl/A.md",
     "owl/Grading Rubric.md",
+    "Stuff.md",
+    "owl/A.md",
     "owl/D.md",
     "owl/B.md",
     "owl/C.md",
