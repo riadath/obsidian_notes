@@ -8,60 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "04a398a2b241ae18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owl/Grading Rubric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5e0270077cb55a1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "owl/Rationale Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e839ec20807faf1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/A.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47f025c199771da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/B.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4b8446e69a13824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e57bcd9a9d11ae25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/D.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4036d90b6a774a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Instructions Task ChatGPT Improvements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b8a2796aa9fcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/ideal.md",
+                "file": "Stuff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/ideal.md",
+                "file": "Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/ideal.md"
+                "file": "Stuff.md"
               }
             }
           },
@@ -229,18 +217,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec680786904970bd",
+  "active": "81b8a2796aa9fcae",
   "lastOpenFiles": [
+    "Instructions Task ChatGPT Improvements.md",
+    "Stuff.md",
+    "owl/ideal.md",
+    "owl/Rationale Template.md",
+    "owl/A.md",
+    "owl/Grading Rubric.md",
     "owl/D.md",
     "owl/B.md",
     "owl/C.md",
-    "owl/ideal.md",
-    "owl/A.md",
-    "owl/Rationale Template.md",
-    "owl/Palindrome A.md",
+    "owl/archive/Palindrome A.md",
     "owl/archive/Rationales.md",
-    "owl/Palindrome C.md",
-    "owl/ideal palindrome.md",
+    "owl/archive/Palindrome C.md",
+    "owl/archive/ideal palindrome.md",
     "owl/archive/Response A.md",
     "owl/archive",
     "owl/archive/Response B.md",
@@ -258,10 +249,7 @@
     "bullshit/b4.md",
     "bullshit/b3.md",
     "bullshit/b2.md",
-    "bullshit/b1.md",
     "bullshit",
-    "Course Studies/Automata/Regular Languages/Regular Expression and Languages (Ullman 3).md",
-    "Excalidraw/Drawing 2023-12-19 02.42.06.excalidraw.md",
     "Archive/Assets_All/Pasted Image 20231229144111_260.png",
     "Archive/Assets_All/Pasted Image 20231229144044_713.png",
     "Archive/Assets_All/Pasted Image 20231229141004_646.jpg",
