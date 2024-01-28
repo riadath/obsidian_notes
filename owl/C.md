@@ -57,7 +57,6 @@ Write a rationale for this rating. Write in 5-6 sentences. Don't use points, wri
 - Response is mostly correct with a few words that don't match the requirement or are incorrect
 - Eideticize is not a real word
 - Dowsing is not a verb
-- 
 ### Style Rating: 7
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs, don't use points. 
 - The response is well formatted. There are not grammatical errors to be found.
