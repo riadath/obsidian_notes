@@ -44,6 +44,7 @@ Write a rationale for this rating. Write in 5-6 sentences. Don't use points, wri
 - Lucid Dream here is not a verb but a noun.
 - Photograph Memory is noun
 - Parkour is a noun
+- Dowsing is not a verb
 ### Style Rating: 7
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs, don't use points. 
 - The response is well formatted. There are not grammatical errors to be found.
