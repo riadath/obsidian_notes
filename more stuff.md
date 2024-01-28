@@ -51,6 +51,7 @@ Write a rationale for this rating. Write in 5-6 sentences. Don't use points, wri
 - Response is mostly correct with a few words that don't match the requirement or are incorrect
 - Eidetize is not a real word
 - The most common definition of Chromatize is "**To treat a metal surface with chromate**." and the provided definition can't seem to be found anywhere
+- The word "Tesser" has the meaning "Dutch and North German: occupational name for a joiner, from an agent derivative of Middle Dutch" 
 - 
 ### Style Rating: 7
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs, don't use points. 
