@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81b8a2796aa9fcae",
+            "id": "2ec09ce9480854fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stuff.md",
+                "file": "owl/A.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "907f08578171212f",
+            "id": "e194af2fda8faaff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "more stuff.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8152c5edde1a2755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/Rationale Template.md",
+                "file": "owl/B.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "more stuff.md",
+                "file": "owl/B.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "more stuff.md",
+                "file": "owl/B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "more stuff.md"
+                "file": "owl/B.md"
               }
             }
           },
@@ -193,17 +181,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "907f08578171212f",
+  "active": "e194af2fda8faaff",
   "lastOpenFiles": [
-    "Stuff.md",
+    "owl/A.md",
+    "owl/B.md",
     "more stuff.md",
+    "Stuff.md",
     "owl/Rationale Template.md",
     "Instructions Task ChatGPT Improvements.md",
     "owl/ideal.md",
     "owl/Grading Rubric.md",
-    "owl/A.md",
     "owl/D.md",
-    "owl/B.md",
     "owl/C.md",
     "owl/archive/Palindrome A.md",
     "owl/archive/Rationales.md",
