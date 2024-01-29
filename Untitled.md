@@ -129,7 +129,7 @@ Write the rationales for each of these sections by strictly following the instru
 
 
 
-### Content Rating : 4
+### Content Rating : 2
 Write a rationale for this rating. Write in 5-6 sentences. Don't use points, write in 2-3 paragraphs. Here's what to write:
 - The code contains code that the user requested from previous response. 
 - The fade-in effect starts from 2 seconds which is accurate.
