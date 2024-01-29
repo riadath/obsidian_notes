@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "owl/A.md",
+                "file": "owl/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/A.md",
+                "file": "owl/C.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/A.md",
+                "file": "owl/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/A.md"
+                "file": "owl/C.md"
               }
             }
           },
@@ -170,6 +170,9 @@
   },
   "active": "cdf3abc0e372314c",
   "lastOpenFiles": [
+    "owl/archive/Response B.md",
+    "owl/archive/Response A.md",
+    "owl/A.md",
     "more stuff.md",
     "Not Course Studies/Networking/Networking_Presentation_4/Paper 4.pdf",
     "Not Course Studies/Networking/Networking_Presentation_4/Paper 4 (Unmarked).pdf",
@@ -177,15 +180,12 @@
     "Not Course Studies/Networking/Networking_Presentation_4",
     "owl/archive/Palindrome C.md",
     "owl/archive/Palindrome A.md",
-    "owl/A.md",
     "owl/Rationale Template.md",
     "owl/Palindrome C.md",
     "owl/ideal.md",
     "owl/archive/Roman Numerals.md",
     "owl/archive/Response D.md",
     "owl/archive/Response C.md",
-    "owl/archive/Response B.md",
-    "owl/archive/Response A.md",
     "owl/archive/Rationales.md",
     "owl/archive/ideal palindrome.md",
     "owl/archive",
