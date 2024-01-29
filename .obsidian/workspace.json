@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a08781b61e45fe93",
+        "id": "3ef97f20366f75e3",
         "type": "tabs",
         "children": [
           {
-            "id": "0e2272242432fe59",
+            "id": "a062397b98487a17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "owl/A.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,18 +160,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c933d2a4a20f481",
+  "active": "a062397b98487a17",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Stuff.md",
+    "more stuff.md",
+    "Instructions Task ChatGPT Improvements.md",
+    "owl/A.md",
     "owl/C.md",
     "owl/ideal.md",
-    "owl/A.md",
     "owl/D.md",
     "owl/B.md",
-    "Untitled.md",
-    "more stuff.md",
-    "Stuff.md",
     "owl/Rationale Template.md",
-    "Instructions Task ChatGPT Improvements.md",
     "owl/Grading Rubric.md",
     "owl/archive/Palindrome A.md",
     "owl/archive/Rationales.md",
