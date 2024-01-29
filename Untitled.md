@@ -51,143 +51,97 @@ Copy the code into a Python script and run it. You should see a blank window wit
 
 perfect 2 seconds after the blank window opens , I want a fade-in message " Welcome! to the Number Ninja Game" to be displayed in the Middle of the window. Add this as extension to previous code. Don't break or change previous functionalities and GUI settings. Give me the output with detailed comments for each line.
 ## Final Response to Rate
-In order to display a fade-in message, we'll need to draw on the canvas. Tkinter doesn't natively support text fading, so we'll simulate it by changing the text color gradually.
+Adding a fade-in effect can be a bit tricky with `Tkinter` as it doesn't have built-in support for such animations. However, you can create a similar effect by gradually changing the color of the text.
 
-Here is the modified code:
+Here's how you can modify your previous code to display a welcome message that fades in:
 ```python
-# Import the required modules from tkinter
-
 import tkinter as tk
 
   
 
-# Function to fade in the welcome text
-
-def fade_in_text(canvas, text_id):
-
-    # Define the fade in function
-
-    def fade():
-
-        # Get the current color of the text
-
-        current_color = canvas.itemcget(text_id, 'fill')
-
-  
-
-        # Extract the red, green, and blue components of the color
-
-        r, g, b = int(current_color[1:3], 16), int(current_color[3:5], 16), int(current_color[5:7], 16)
-
-  
-
-        # Increment each color component by 1
-
-        r = min(r + 1, 255)
-
-        g = min(g + 1, 255)
-
-        b = min(b + 1, 255)
-
-  
-
-        # Update the color of the text
-
-        canvas.itemconfig(text_id, fill=f'#{r:02x}{g:02x}{b:02x}')
-
-  
-
-        # Repeat the fade function after 10 milliseconds
-
-        if r < 255 or g < 255 or b < 255:
-
-            canvas.after(10, fade)
-
-  
-
-    # Start the fade function
-
-    fade()
-
-  
-
-# Create a root window object
-
 root = tk.Tk()
-
-  
-
-# Set the title of the window
 
 root.title("The Number Ninja Game")
 
-  
-
-# Set the size of the window
-
 root.geometry("700x500")
-
-  
-
-# Set the background color of the window
 
 root.configure(bg="#17202a")
 
   
 
-# Create a canvas widget
+# Function to change the color of the text
 
-canvas = tk.Canvas(root, width=700, height=500, bg="#17202a", bd=0, highlightthickness=0)
+def fade_in(step=0):
 
-canvas.pack()
+    # List of color codes representing the fade-in effect
 
-  
+    # Starts from black and goes to white
 
-# Create the welcome text (initially black)
+    colors = ["#000000", "#1a1a1a", "#333333", "#4d4d4d", "#666666",
 
-text_id = canvas.create_text(350, 250, text="Welcome! to the Number Ninja Game", fill="#000000", font=('Helvetica', 24, 'bold'))
-
-  
-
-# Fade in the welcome text after 2000 milliseconds (2 seconds)
-
-canvas.after(2000, lambda: fade_in_text(canvas, text_id))
+              "#7f7f7f", "#999999", "#b3b3b3", "#cccccc", "#e6e6e6", "#ffffff"]
 
   
 
-# Main event loop: This keeps the window running and responsive
+    # If step is less than the number of colors, set the label's color to the current step's color
+
+    if step < len(colors):
+
+        label.config(fg=colors[step])
+
+        root.after(200, fade_in, step+1)
+
+  
+
+# Create a Label widget to display the welcome text
+
+label = tk.Label(root, text="Welcome! to the Number Ninja Game", font=("Helvetica", 32), bg="#17202a")
+
+label.pack(anchor="center", expand=True)
+
+  
+
+# Call the fade_in function after 2000 milliseconds (2 seconds)
+
+root.after(2000, fade_in)
+
+  
 
 root.mainloop()
 ```
-I have added comments for each line of code, explaining its purpose. Here are the new additions to the code:
+Explanation of new code:
 
-1. **`fade_in_text(canvas, text_id)`**: This function handles the fading of the welcome text. It does this by repeatedly incrementing the red, green, and blue components of the text color by 1 until they all reach 255 (white).
+- **`fade_in(step=0)`**: This function will change the color of the `Label` text from black to white, creating a fade-in effect. It takes an optional `step` parameter, which is the index of the current color in the `colors` list.
     
-2. **`canvas = tk.Canvas(root, width=700, height=500, bg="#17202a", bd=0, highlightthickness=0)`**: This creates a canvas widget, which is used to draw shapes, lines, images, and other objects.
+- **`colors`**: This is a list of color codes representing different shades of grey, starting from black and ending with white.
     
-3. **`text_id = canvas.create_text(350, 250, text="Welcome! to the Number Ninja Game", fill="#000000", font=('Helvetica', 24, 'bold'))`**: This creates the welcome text in the middle of the canvas. The `fill="#000000"` argument sets the initial color of the text to black.
+- **`label.config(fg=colors[step])`**: This sets the `Label` text color to the current step's color.
     
-4. **`canvas.after(2000, lambda: fade_in_text(canvas, text_id))`**: This schedules the `fade_in_text` function to be called after 2000 milliseconds (2 seconds).
+- **`root.after(200, fade_in, step+1)`**: This schedules the `fade_in` function to be called again after 200 milliseconds with the next step.
     
-
-When you run this code, the window will open, and after 2 seconds, the welcome text will start to fade in from black to white.
+- **`label = tk.Label(...)`**: This creates a `Label` widget to display the welcome text.
+    
+- **`label.pack(anchor="center", expand=True)`**: This positions the `Label` in the middle of the window.
+    
+- **`root.after(2000, fade_in)`**: This schedules the `fade_in` function to be called after 2000 milliseconds (2 seconds) from when the window opens.
 ### What you need to do:
 Write the rationales for each of these sections by strictly following the instructions provided.
 
 
 
-### Content Rating : 3
+### Content Rating : 4
 Write a rationale for this rating. Write in 5-6 sentences. Don't use points, write in 2-3 paragraphs. Here's what to write:
 - The code contains code that the user requested from previous response. 
 - The fade-in effect starts from 2 seconds which is accurate.
-- Correct idea of starting off with background color and gradually increasing R, G, B values
-- The increment failed to provide proper fade as it cycled through white, black , gray etc
-- Mostly correct
-### Style Rating: 6
+- Implemented incorrectly
+- multiple hard coded colors in an array 
+- Did not even blend with the background color first
+- very big font size crops from the window
+### Style Rating: 3
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs, don't use points. 
-- Properly commented
-- short
+- Not properly commented
 - Hard coded values like title, size, background color
+- added proper segment explaining the code
 
 ### Overall: 4
 Write the rationale in 4-5 sentences considering the points below. Write in paragraphs, don't use points. 
