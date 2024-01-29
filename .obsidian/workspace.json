@@ -11,12 +11,8 @@
             "id": "0e2272242432fe59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/A.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/A.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +162,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e2272242432fe59",
+  "active": "9c933d2a4a20f481",
   "lastOpenFiles": [
     "owl/C.md",
     "owl/ideal.md",
