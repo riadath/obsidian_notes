@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f6962db5bf95e7",
+        "id": "a08781b61e45fe93",
         "type": "tabs",
-        "dimension": 49.531615925058546,
         "children": [
           {
-            "id": "2ec09ce9480854fb",
+            "id": "0e2272242432fe59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "owl/ideal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "dda526b9714dfe33",
-        "type": "tabs",
-        "dimension": 50.468384074941454,
-        "children": [
-          {
-            "id": "767f7e5be0b4bcb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/C.md",
+                "file": "owl/A.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5110321044922,
-    "collapsed": true
+    "width": 339.5110321044922
   },
   "right": {
     "id": "1f466701ab4da56d",
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/ideal.md",
+                "file": "owl/A.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/ideal.md",
+                "file": "owl/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/ideal.md"
+                "file": "owl/A.md"
               }
             }
           },
@@ -189,18 +168,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ec09ce9480854fb",
+  "active": "0e2272242432fe59",
   "lastOpenFiles": [
+    "owl/C.md",
+    "owl/ideal.md",
     "owl/A.md",
     "owl/D.md",
-    "owl/C.md",
     "owl/B.md",
     "Untitled.md",
     "more stuff.md",
     "Stuff.md",
     "owl/Rationale Template.md",
     "Instructions Task ChatGPT Improvements.md",
-    "owl/ideal.md",
     "owl/Grading Rubric.md",
     "owl/archive/Palindrome A.md",
     "owl/archive/Rationales.md",
