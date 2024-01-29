@@ -121,17 +121,18 @@ Write the rationales for each of these sections by strictly following the instru
 
 
 
-### Content Rating : 
+### Content Rating : 1
 Write a rationale for this rating. Write in 5-6 sentences. Don't use points, write in 2-3 paragraphs. Here's what to write:
 - The code contains code that the user requested from previous response. 
 - The fade-in effect starts from 2 seconds which is accurate.
-- The code attempts to set color of the item in RGBA format, where RGB stands for red, green and blue and A stands for alpha or the opacity. However Tkinter does not recognize this python format as a color.
-- 
-### Style Rating: 7
+- The code attempts to set color of the item in ARGB format, where RGB stands for red, green and blue and A stands for alpha or the opacity. However Tkinter does not recognize this python format as a color. 
+- Syntax error
+### Style Rating: 6
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs, don't use points. 
--
+- Properly commented
+- Hard coded values like title, size, background color
 
-### Overall: 7
+### Overall: 2
 Write the rationale in 4-5 sentences considering the points below. Write in paragraphs, don't use points. 
 - Provide a brief overview of response in 1-2 sentences
 - Explain the good things about the response in brief
