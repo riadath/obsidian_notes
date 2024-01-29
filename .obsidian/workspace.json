@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df116c10768ff2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "owl/C.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "owl/C.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "owl/C.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -168,18 +181,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdf3abc0e372314c",
+  "active": "df116c10768ff2f5",
   "lastOpenFiles": [
+    "owl/A.md",
+    "owl/archive/Palindrome A.md",
+    "Untitled.md",
+    "owl/C.md",
     "owl/archive/Response B.md",
     "owl/archive/Response A.md",
-    "owl/A.md",
     "more stuff.md",
     "Not Course Studies/Networking/Networking_Presentation_4/Paper 4.pdf",
     "Not Course Studies/Networking/Networking_Presentation_4/Paper 4 (Unmarked).pdf",
     "Not Course Studies/Networking/Networking_Presentation_4/Cross Entropy Loss (Multiclass).txt",
     "Not Course Studies/Networking/Networking_Presentation_4",
     "owl/archive/Palindrome C.md",
-    "owl/archive/Palindrome A.md",
     "owl/Rationale Template.md",
     "owl/Palindrome C.md",
     "owl/ideal.md",
@@ -191,7 +206,6 @@
     "owl/archive",
     "owl/Grading Rubric.md",
     "owl/D.md",
-    "owl/C.md",
     "owl/B.md",
     "Stuff.md",
     "Instructions Task ChatGPT Improvements.md",
@@ -200,7 +214,6 @@
     "owl/Response B.md",
     "owl/Response A.md",
     "conflict-files-obsidian-git.md",
-    "owl/Response D.md",
     "owl",
     "bullshit",
     "Not Course Studies/Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
