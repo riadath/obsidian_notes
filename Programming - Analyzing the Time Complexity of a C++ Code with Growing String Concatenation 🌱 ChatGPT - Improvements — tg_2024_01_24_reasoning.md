@@ -33,7 +33,7 @@ Write a rationale for this rating. Write in 5-6 sentences. Don't use points, wri
 - The response encapsulates the user's expectation
 - The response is 
 - 
-### Style Rating: 7
+### Style Rating: 6
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs, don't use points. 
 - The explanation is clear
 - It does not contain unnecessary jargons

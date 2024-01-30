@@ -56,31 +56,19 @@
             }
           },
           {
-            "id": "b008cb7ba5af1c5a",
+            "id": "54749d0ae6c1c38c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af540e605be5ebcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "template.md"
               }
             }
           },
@@ -229,9 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af540e605be5ebcd",
+  "active": "54749d0ae6c1c38c",
   "lastOpenFiles": [
     "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
+    "template.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "more stuff.md",
@@ -261,7 +250,6 @@
     "Instructions Task ChatGPT Improvements.md",
     "owl/Palindrome A.md",
     "owl/Roman Numerals.md",
-    "owl/Response B.md",
     "owl",
     "bullshit",
     "Not Course Studies/Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
