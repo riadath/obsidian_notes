@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdf3abc0e372314c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owl/C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "df116c10768ff2f5",
             "type": "leaf",
             "state": {
@@ -42,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ced98cd25c756df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "205eb1b664078f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b008cb7ba5af1c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af540e605be5ebcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -193,11 +229,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8627a85f7c238427",
+  "active": "af540e605be5ebcd",
   "lastOpenFiles": [
-    "more stuff.md",
     "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.md",
+    "more stuff.md",
     "owl/A.md",
     "owl/archive/Palindrome A.md",
     "owl/C.md",
@@ -225,7 +262,6 @@
     "owl/Palindrome A.md",
     "owl/Roman Numerals.md",
     "owl/Response B.md",
-    "owl/Response A.md",
     "owl",
     "bullshit",
     "Not Course Studies/Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
