@@ -96,7 +96,7 @@ Here's what to write:
 - Provides additional information that is useful
 - Contains additional information that might not be comprehensive for people with varying levels of understanding
 - Is not overly verbose
-- Should have added code snippet as user cannot be expected to look back at their prompt w
+- Should have added code snippet as user cannot be expected to look back at their prompt where they wrote the code in an unstructured manner
 
 ### Style Rationale
 
@@ -105,7 +105,7 @@ Write the rationale in 1-2 sentences considering the points below. Write in para
 Here's what to write:
 - Content is grammatically correct
 - The flow is maintained
-- 
+- The tone is mature and professional
 
   
 
