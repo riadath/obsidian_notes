@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02bd0f3c3ea4bdf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template.md",
+                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -217,10 +229,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54749d0ae6c1c38c",
+  "active": "02bd0f3c3ea4bdf9",
   "lastOpenFiles": [
-    "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
     "template.md",
+    "Untitled 1.md",
+    "Programming - Analyzing the Time Complexity of a C++ Code with Growing String Concatenation 🌱 ChatGPT - Improvements — tg_2024_01_24_reasoning.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "more stuff.md",
@@ -249,7 +262,6 @@
     "Stuff.md",
     "Instructions Task ChatGPT Improvements.md",
     "owl/Palindrome A.md",
-    "owl/Roman Numerals.md",
     "owl",
     "bullshit",
     "Not Course Studies/Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
