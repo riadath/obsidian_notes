@@ -80,14 +80,17 @@ Here's what to write:
 
 - Factually correct
 - Provides what the user wanted
+- Provides additional information that is useful
 - Is overly verbose which affects comprehension for people with varying level of understanding which affects clarity
-- 
 
 ### Style Rationale
 
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs and don't use bullet points. Make it brief.
 
-#writeRationaleHere
+Here's what to write:
+- Content is grammatically correct
+- The flow is maintained
+- 
 
   
 
