@@ -423,6 +423,7 @@ Here's what to write:
 - On line 66-69 , in function checkLevel3 the response checked startsWith(userInput + passwordProgress) but it should have been the opposite like the javascript code prompted
 - similarly on line 71-74, checkLevel4 and 76-79, checkLevel5 it was also wrong like that
 - it properly chained the password progress like the user asked
+- did provide a good disclaimer about the potential flaw in the code
 
 ### Style Rationale
 
