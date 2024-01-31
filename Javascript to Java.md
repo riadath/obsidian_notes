@@ -449,7 +449,10 @@ Write a rationale for a content rating. Write in 5-6 sentences. Don't use points
 
 Here's what to write:
 
-#writeRationaleHere
+- When the user enters a new level after 1, the level hint is printed twice. Because the code has the display message code written at the beginning of a level and after succeeding a level. The line where the duplication happened was in line 64. Only the print in line 10 would have sufficed.
+- checkLevel2 function implementation at line 77-81 is not what the javascript code was conveying. Despite the logic being more sound, the user wanted a translation in java. not a correction. It could have been a disclaimer
+- checkLevel3 at line 82-86, checkLevel4 at line 88-91 and checkLevel5 at line 93-96 also did not match the description of the javascript code in the previous response, the user wanted translated
+- 
 
 ### Style Rationale
 
