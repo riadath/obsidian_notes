@@ -419,7 +419,10 @@ Write a rationale for a content rating. Write in 5-6 sentences. Don't use points
 
 Here's what to write:
 
-- On line 65-68 , in function checkLevel3 the response checked startsWith(userInput + password)
+- On line 65-68 , in function checkLevel3 the response checked startsWith(userInput + passwordProgress) but it should have been the opposite like the javascript code prompted
+- similarly on line 70-73, checkLevel4 and 75-77, checkLevel5 it was also wrong like that
+- it properly chained the password progress like the user asked
+- did not really provide a disclaimer for the erroneous code though. It should have warned the user about the flaw in the prompt
 
 ### Style Rationale
 
