@@ -424,12 +424,10 @@ Write a rationale for a content rating. Write in 5-6 sentences. Don't use points
 
 Here's what to write:
 
-- When the user enters a new level after 1, the level hint is printed twice. Because the code has the display message code written at the beginning of a level and after succeeding a level. The line where the duplication happened was in line 64. Only the print in line 10 would have sufficed.
-- checkLevel2 function implementation at line 77-81 is not what the javascript code was conveying. Despite the logic being more sound, the user wanted a translation in java. not a correction. It could have been a disclaimer
-- checkLevel3 at line 82-86, checkLevel4 at line 88-91 and checkLevel5 at line 93-96 also did not match the description of the javascript code in the previous response, the user wanted translated
-- The code is successful at connecting the responses of each level the user wanted
-- Despite the code in prompt being flawed in the prompt, it did an okay job
-- Instead of tailoring the level checking code, it should have been directly translated and add a disclaimer about the potential errors the code might have
+- Perfectly translated the scenario in java from javascript
+- Factually correct
+- Provided disclaimer for the flaws in the logic in the javascript code provided
+- chained the level inputs like the user wanted
 
 ### Style Rationale
 
@@ -437,7 +435,7 @@ Write the rationale in 1-2 sentences considering the points below. Write in para
  - The code lacks comments in many functions
  - But overall, it's readable
  - the description is grammatically correct
-
+ - concise
   
 
 ### Overall Rationale
