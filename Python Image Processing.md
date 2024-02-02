@@ -391,9 +391,9 @@ Here's what to write:
 ### Style Rationale
 
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs and don't use bullet points. Make it brief.
-
-#writeRationaleHere
-
+- Code is not commented properly
+- Overall response has good grammar
+- Lacks specific explanation about the functions
   
 
 ### Overall Rationale
