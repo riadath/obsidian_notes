@@ -131,12 +131,12 @@ Here's what to write:
 - Made a reasonable guess that the user might be experimenting with `textsize`
 - Failed to recognize that `textsize` property actually does not exist
 - Due to syntax error on line 20, the code does not run
-
+- Footnote has clear information regarding the code
 ### Style Rationale
 
 - Very well commented
 - Grammatically Correct
-- Tone is profess
+- Tone is professional
 
   
 
