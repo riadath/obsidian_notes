@@ -254,83 +254,73 @@ This did not fill in the blank spaces.
 
 # Final Response
 
-To correctly fill the blank spaces (with the given color `(255, 255, 255)` for blank spaces and `(100, 100, 100)` for borders) and then to change the border color based on adjacent filled colors, we'll need a more sophisticated approach. One effective strategy involves two main steps:
+Apologies for the oversight. If you need to fill blank spaces (white areas) with a completely different color for each blank space and then adjust the border colors to match the adjacent non-white color, you will likely need a more sophisticated approach to handle flood fill and then adjust border colors accordingly. This can be somewhat complex due to the need to detect contiguous areas (blank spaces) and their borders.
 
-1. **Filling the Blank Spaces:** Identify and fill each blank space with a unique color. This can be done using a flood fill algorithm.
-2. **Adjusting the Border Colors:** Once the blank spaces are filled, we can adjust the colors of the border pixels based on the filled colors they are adjacent to.
+We can use a flood fill algorithm to fill blank spaces and then change the border color to match the newly filled color. However, the initial approach provided does not implement an actual flood fill or accurately change border colors based on new adjacent colors. Let's try a more detailed approach:
 
-This task is more complex because we have to ensure each blank space is filled with a distinct color first, then modify the border colors accordingly. Here's how you can do it:
+1. **Flood Fill Blank Spaces:** Identify and fill each blank space with a unique color. We'll use a flood fill algorithm for this.
+    
+2. **Update Border Colors:** After filling, we'll need to adjust the border colors. Since borders now surround filled areas, we will check for border pixels and update their color to match the adjacent filled area.
+    
+
+This updated script will use the concept above:
 ```python
 from PIL import Image
 import random
 
-def flood_fill(image, x, y, target_color, fill_color):
-    """Perform a flood fill algorithm to fill connected target_color pixels with fill_color."""
-    pixels = image.load()
-    width, height = image.size
-    queue = [(x, y)]
-    while queue:
-        x, y = queue.pop(0)
-        if pixels[x, y] == target_color:
-            pixels[x, y] = fill_color
-            if x > 0:
-                queue.append((x-1, y))
-            if x < width - 1:
-                queue.append((x+1, y))
-            if y > 0:
-                queue.append((x, y-1))
-            if y < height - 1:
-                queue.append((x, y+1))
+def flood_fill(pixels, x, y, width, height, fill_color, target_color):
+    """Flood fill algorithm to fill contiguous area with fill_color."""
+    if x < 0 or x >= width or y < 0 or y >= height:
+        return
+    if pixels[x, y] != target_color:
+        return
 
-def generate_new_color(exclude_colors):
-    """Generate a random color that is not in exclude_colors."""
+    pixels[x, y] = fill_color
+    directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]  # N, E, S, W
+    for dx, dy in directions:
+        flood_fill(pixels, x + dx, y + dy, width, height, fill_color, target_color)
+
+def generate_unique_color(existing_colors):
+    """Generate a unique color not in existing_colors."""
     while True:
         color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
-        if color not in exclude_colors:
+        if color not in existing_colors:
             return color
 
-def fill_blank_spaces_and_adjust_borders(image_path):
+def fill_blank_spaces(image_path, blank_color, border_color):
     img = Image.open(image_path)
+    pixels = img.load()
+
     width, height = img.size
-    blank_color = (255, 255, 255)
-    border_color = (100, 100, 100)
-
-    # First pass: fill blank spaces with unique colors
-    filled_colors = set([blank_color, border_color])
+    filled_colors = set()
+    
+    # Step 1: Flood fill blank spaces with unique colors
     for x in range(width):
         for y in range(height):
-            if img.getpixel((x, y)) == blank_color:
-                fill_color = generate_new_color(filled_colors)
+            if pixels[x, y] == blank_color:
+                fill_color = generate_unique_color(filled_colors)
+                flood_fill(pixels, x, y, width, height, fill_color, blank_color)
                 filled_colors.add(fill_color)
-                flood_fill(img, x, y, blank_color, fill_color)
 
-    # Second pass: adjust border colors
+    # Step 2: Adjust border pixels color. This part is tricky as it might involve checking for the most common adjacent color.
+    # This simplistic approach changes border color directly adjacent to filled areas.
     for x in range(width):
         for y in range(height):
-            if img.getpixel((x, y)) == border_color:
-                # Find the most common adjacent filled color
-                adj_colors = {}
-                for dx in [-1, 0, 1]:
-                    for dy in [-1, 0, 1]:
-                        nx, ny = x + dx, y + dy
-                        if 0 <= nx < width and 0 <= ny < height:
-                            adj_color = img.getpixel((nx, ny))
-                            if adj_color != border_color and adj_color in filled_colors:
-                                adj_colors[adj_color] = adj_colors.get(adj_color, 0) + 1
-                if adj_colors:
-                    # Set border color to the most common adjacent color
-                    new_border_color = max(adj_colors, key=adj_colors.get)
-                    img.putpixel((x, y), new_border_color)
+            if pixels[x, y] == border_color:
+                # Find an adjacent color to the border that is not white or the border color itself.
+                for dx, dy in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
+                    nx, ny = x + dx, y + dy
+                    if 0 <= nx < width and 0 <= ny < height and pixels[nx, ny] not in [border_color, blank_color]:
+                        pixels[x, y] = pixels[nx, ny]
+                        break
 
-    img.save("output_filled_and_adjusted.png")
+    img.save("output_filled.png")
 
-# Example usage
-fill_blank_spaces_and_adjust_borders("path/to/your/image.png")
+fill_blank_spaces("input_image.png", (255, 255, 255), (100, 100, 100))
+
 
 ```
-This script first identifies blank spaces and uses a flood fill algorithm to fill them with unique colors. Then, it goes through the image again to adjust the colors of the border pixels based on the most common adjacent filled color. The result is saved in `"output_filled_and_adjusted.png"`.
-
-Ensure that `"path/to/your/image.png"` is replaced with the actual path to your image. Since this approach uses random color generation for filling blank spaces, the output will differ in terms of filled colors on different executions. If there's a specific set of colors you'd like to fill with or if you need the filled colors to follow a certain pattern, the color generation logic will need to be adjusted accordingly.
+This script should now fill each blank space with a unique color and then attempt to adjust the border colors to match the adjacent, newly filled colors. However, this script does not handle anti-aliasing or gradient borders where colors gradually change. Adjustments may be needed based on your specific image characteristics and requirements.
 ### Important Notes:
 
 1. **Performance:** This script might not perform well on very large images or images with vast blank spaces due to the recursive nature of the flood fill function. For more complex or larger images, an iterative approach or optimization might be necessary.
