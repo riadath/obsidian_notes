@@ -41,8 +41,41 @@ However, in the example code I provided, there's no direct reference to `ImageD
 
 If you're trying to add text to your image and facing this error, it might be because you're trying to use `textsize` incorrectly. The `textsize` method is indeed used to calculate the size of a given text string with the specified font, but it's a method of the `ImageDraw.Draw` class, not an attribute or a standalone function. Here's a quick example of how to use `textsize` correctly, including drawing text on an image:
 
-```py
+```python
+from PIL import Image, ImageDraw, ImageFont
+
+# Assuming you have a 300 DPI image as created in the previous example
+width = 33  # inches
+height = 52  # inches
+dpi = 300
+pixels_width = int(width * dpi)
+pixels_height = int(height * dpi)
+
+# Create a white image
+paper = Image.new("RGB", (pixels_width, pixels_height), "white")
+
+# Create an ImageDraw object
+draw = ImageDraw.Draw(paper)
+
+# Define the text and font (using a built-in PIL font here for simplicity)
+text = "Hello, Newspaper!"
+font = ImageFont.load_default()  # This is a basic, default font. For custom fonts, use ImageFont.truetype()
+
+# Calculate text size
+text_width, text_height = draw.textsize(text, font)
+
+# Specify the text position (top-left corner)
+text_x = (pixels_width - text_width) / 2  # Center the text
+text_y = (pixels_height - text_height) / 2
+
+# Add the text to the image
+draw.text((text_x, text_y), text, fill="black", font=font)
+
+# Save the modified image
+paper.save("newspaper_with_text.png")
+
 ```
+If you were attempting something similar and encountered the `AttributeError`, ensure you're using the `textsize` method on a `ImageDraw.Draw` object, as shown above. The example demonstrates not only creating a paper layout but also how to add centered text to it, using the `ImageDraw` module correctly.
 # Writing Rationale for the response
 
   
@@ -94,13 +127,16 @@ Write a rationale for a content rating. Write in 5-6 sentences. Don't use points
 
 Here's what to write:
 
-#writeRationaleHere
+- Made correct assumption about DPI for news print
+- Made a reasonable guess that the user might be experimenting with `textsize`
+- Failed to recognize that `textsize` property actually does not exist
+- Due to syntax error on line 20, the code does not run
 
 ### Style Rationale
 
-Write the rationale in 1-2 sentences considering the points below. Write in paragraphs and don't use bullet points. Make it brief.
-
-#writeRationaleHere
+- Very well commented
+- Grammatically Correct
+- Tone is profess
 
   
 
