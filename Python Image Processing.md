@@ -381,7 +381,7 @@ plt.show()
 
 
 ```
-
+This script should now fill each blank space with random colors and color the borders as per your requirements.
 # Writing Rationale for the response
 
   
