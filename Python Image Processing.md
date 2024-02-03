@@ -381,7 +381,9 @@ plt.show()
 
 
 ```
-This script should now fill each blank space with random colors and color the borders as per your requirements.
+This script should now fill each blank space with random colors and color the borders as per your requirements. Here is a brief description of the functions:
+- `connected_components` uses `skimage` library to label connected components. To achieve that, a copy of the image can be constructed and turned into a grayscale image with all non-white pixels turned off
+- `validate_border` iterates over a 
 # Writing Rationale for the response
 
   
