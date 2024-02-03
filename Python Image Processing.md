@@ -383,7 +383,10 @@ plt.show()
 ```
 This script should now fill each blank space with random colors and color the borders as per your requirements. Here is a brief description of the functions:
 - `connected_components` uses `skimage` library to label connected components. To achieve that, a copy of the image can be constructed and turned into a grayscale image with all non-white pixels turned off
-- `validate_border` iterates over a 
+- `validate_border` iterates over a `Connected Component` and finds if the white pixels neighboring the border are all connected.
+- `paint_pixels` paints each pixel in a `Connected Component` a random color
+- `paint_borders` paints each border pixel whichever pixel it was bordering prior to coloring.
+
 # Writing Rationale for the response
 
   
