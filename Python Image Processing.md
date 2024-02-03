@@ -264,71 +264,124 @@ Apologies for the oversight. If you need to fill groups of pixels that are color
 
 **Step 4:** For each border pixel, the stored list of neighboring pixel's color can be assigned.
 
-Since the task requires some advance `Image Processing` techniques, we need to install some libraries first
+Since the task requires some advance `Image Processing` techniques, we need to install some libraries first:
+
+```shell
+pip install scikit-image
+pip install pillow
+```
 ```python
 from PIL import Image
 import random
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.ndimage import label
+from skimage import measure
 
-def flood_fill(pixels, x, y, width, height, fill_color, target_color):
-    """Flood fill algorithm to fill contiguous area with fill_color."""
-    if x < 0 or x >= width or y < 0 or y >= height:
-        return
-    if pixels[x, y] != target_color:
-        return
-
-    pixels[x, y] = fill_color
-    directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]  # N, E, S, W
-    for dx, dy in directions:
-        flood_fill(pixels, x + dx, y + dy, width, height, fill_color, target_color)
-
-def generate_unique_color(existing_colors):
-    """Generate a unique color not in existing_colors."""
-    while True:
-        color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
-        if color not in existing_colors:
-            return color
-
-def fill_blank_spaces(image_path, blank_color, border_color):
-    img = Image.open(image_path)
-    pixels = img.load()
-
-    width, height = img.size
-    filled_colors = set()
+# Returns the disjoint white regions of an image
+def connected_components(image):
+    CC = {} #Dictionary to store the connected components
+    image_copy = np.copy(image).astype(float) #Make a copy of the image
+    x = image_copy[0,0,0]+image_copy[0,0,1]+image_copy[0,0,2] #Sum RGB values
+    image_copy = image_copy[:,:,0:3] #Remove the alpha channel
+    image_copy = (image_copy[:,:,0] + image_copy[:,:,1] + image_copy[:,:,2])/3 #Convert to grayscale
+    image_copy[image_copy < 255] = 0 #Make all pixel values other than 255 equal to 0
+    label = measure.label(image_copy) #Label the connected components
+    num = np.max(label) #Find the number of connected components
     
-    # Step 1: Flood fill blank spaces with unique colors
-    for x in range(width):
-        for y in range(height):
-            if pixels[x, y] == blank_color:
-                fill_color = generate_unique_color(filled_colors)
-                flood_fill(pixels, x, y, width, height, fill_color, blank_color)
-                filled_colors.add(fill_color)
+    CC['numObjects'] = num
+    CC['PixelIdxList'] = []
+    for i in range(1,num+1):
+        indices = np.nonzero(label == i) #Find the indices of the i'th connected component
+        CC['PixelIdxList'].append(indices) #Append the indices to the PixelIdxList
+    return CC
+# Returns True if a connected component is perfectly enclosed with border of pixels with RGB(100, 100, 100)
+def validate_border(indices, image):
+    #Iterate over the indices and find out which pixel indices are neighbor to the border in the component.
+    #If it is a closed component with the border, then all neighbor indices will also form a connected component
+    # 8 direction array
+    dx = [-1, -1, -1, 0, 0, 1, 1, 1]
+    dy = [-1, 0, 1, -1, 1, -1, 0, 1]
+    image_copy = np.copy(image).astype(float) #Make a copy of the image to check for connected components again
+    image_copy = image_copy[:,:,0:3]
+    image_copy[True] = 0
+    border_pixels = [] #List to store the border pixels
+    border_neighbors = [] #List to store the border neighbors whose color we will use to color border in future
+    for i in range(len(indices[0])):
+        x = indices[0][i]
+        y = indices[1][i]
+        for j in range(8):
+            new_x = x + dx[j]
+            new_y = y + dy[j]
+            #Check if the new_x and new_y are within the bounds of the image
+            if new_x >= 0 and new_x < image.shape[0] and new_y >= 0 and new_y < image.shape[1]:
+                #Check if the pixel value is (100,100,100)
+                if image[new_x, new_y, 0] == 100 and image[new_x, new_y, 1] == 100 and image[new_x, new_y, 2] == 100:
+                    image_copy[x,y,0:3] = 255.0 #Set the pixel value to white
+                    border_pixels.append((new_x,new_y))
+                    border_neighbors.append((x,y))
+    #Check if the border_neighbor list is connected togeher
+    new_CC = connected_components(image_copy)
+    return new_CC['numObjects'] == 1, border_pixels, border_neighbors #Return True if the border is connected, False otherwise
 
-    # Step 2: Adjust border pixels color. This part is tricky as it might involve checking for the most common adjacent color.
-    # This simplistic approach changes border color directly adjacent to filled areas.
-    for x in range(width):
-        for y in range(height):
-            if pixels[x, y] == border_color:
-                # Find an adjacent color to the border that is not white or the border color itself.
-                for dx, dy in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
-                    nx, ny = x + dx, y + dy
-                    if 0 <= nx < width and 0 <= ny < height and pixels[nx, ny] not in [border_color, blank_color]:
-                        pixels[x, y] = pixels[nx, ny]
-                        break
+# Function to paint the pixels of the connected component with random colors
+def paint_pixels(indices, image):
+    for i in range(len(indices[0])):
+        x = indices[0][i]
+        y = indices[1][i]
+        # Set the pixel value to a random color
+        image[x,y,0] = random.randint(0,255)
+        image[x,y,1] = random.randint(0,255)
+        image[x,y,2] = random.randint(0,255)
+    return image
+# Function to paint the border pixels with the color of the neighbor
+def paint_borders(gray_borders, gray_neighbors,image):
+    
+        
+    for i in range(len(gray_borders[0])):
+        x = gray_borders[i][0]
+        y = gray_borders[i][1]
+        neighhbor_x = gray_neighbors[i][0]
+        neighbor_y = gray_neighbors[i][1]
 
-    img.save("output_filled.png")
+        # paint the border pixel with the color of the neighbor it was previously borderin
+        image[x,y,0] = image[neighhbor_x, neighbor_y, 0]
+        image[x,y,1] = image[neighhbor_x, neighbor_y, 1]
+        image[x,y,2] = image[neighhbor_x, neighbor_y, 2]
+    return image
 
-fill_blank_spaces("input_image.png", (255, 255, 255), (100, 100, 100))
+
+random.seed(0) #Set the seed for random number generation
+image_path = "your_image.png" #Path to the image
+
+image = Image.open(image_path)
+image = np.array(image) #Convert the image to a numpy array
+
+CC = connected_components(image) #Get the connected components
+gray_borders = []
+gray_neighbors = []
+#Iterate over the connected components and paint the pixels with random colors
+for i in range(1, CC['numObjects']+1):
+    indices = CC['PixelIdxList'][i-1]
+    is_valid, border_pixels, border_neighbors = validate_border(indices, image)
+    if(is_valid == True): #If the component is valid, paint the pixels with random colors
+        gray_borders.extend(border_pixels) #Add the border pixels to the list
+        gray_neighbors.extend(border_neighbors) #Add the border neighbors to the list
+        print("Component number " + str(i) + " is valid")
+        image = paint_pixels(indices, image)
+
+#Paint the border pixels with the color of the neighbor
+image = paint_borders(gray_borders, gray_neighbors, image)
+
+#Save image as PNG as output.png
+plt.imsave('output.png', image)
+plt.imshow(image)
+plt.axis('off')  # Optional: to hide axes for a cleaner view
+plt.show()
 
 
 ```
-This script should now fill each blank space with a unique color and then attempt to adjust the border colors to match the adjacent, newly filled colors. However, this script does not handle anti-aliasing or gradient borders where colors gradually change. Adjustments may be needed based on your specific image characteristics and requirements.
-### Important Notes:
 
-1. **Performance:** This script might not perform well on very large images or images with vast blank spaces due to the recursive nature of the flood fill function. For more complex or larger images, an iterative approach or optimization might be necessary.
-    
-2. **Recursion Limit:** Python has a recursion limit that might be reached with this script if a blank space is too large. If you encounter a `RecursionError`, you may need to increase the recursion limit using `sys.setrecursionlimit(new_limit)`, although doing so with caution is advised, or consider implementing an iterative flood fill instead.
-    
-3. **Color Randomness:** The script generates a new fill color for each blank space found. Ensure this behavior matches your requirements, or adjust the color generation logic as needed.
 # Writing Rationale for the response
 
   
