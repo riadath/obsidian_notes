@@ -254,16 +254,17 @@ This did not fill in the blank spaces.
 
 # Final Response
 
-Apologies for the oversight. If you need to fill blank spaces (white areas) with a completely different color for each blank space and then adjust the border colors to match the adjacent non-white color, you will likely need a more sophisticated approach to handle flood fill and then adjust border colors accordingly. This can be somewhat complex due to the need to detect contiguous areas (blank spaces) and their borders.
+Apologies for the oversight. If you need to fill groups of pixels that are colored with `RGB(255, 255, 255)` and bordered with pixels colored with `RGB(100, 100, 100)`, you can follow these steps:
 
-We can use a flood fill algorithm to fill blank spaces and then change the border color to match the newly filled color. However, the initial approach provided does not implement an actual flood fill or accurately change border colors based on new adjacent colors. Let's try a more detailed approach:
+**Step 1:** Find all the `Connected Components` of pixels with color `RGB(255, 255, 255)`. This will give the list of indices of pixels that are the blank color and are disjoint.
 
-1. **Flood Fill Blank Spaces:** Identify and fill each blank space with a unique color. We'll use a flood fill algorithm for this.
-    
-2. **Update Border Colors:** After filling, we'll need to adjust the border colors. Since borders now surround filled areas, we will check for border pixels and update their color to match the adjacent filled area.
-    
+**Step 2:** Find out the `Connected Components` that are actually bordered with pixels `RGB(100, 100, 100)`. In order to that, we can iterate through all the pixels of the `Connected Components` and list pixels that have border-pixel as neighbor. If there are gaps in the border, then the list will not be one component. So, checking if these pixels are connected is sufficient to validate this.
 
-This updated script will use the concept above:
+**Step 3:** For each valid connected component, we can assign random red, green and blue values to the pixels in it.
+
+**Step 4:** For each border pixel, the stored list of neighboring pixel's color can be assigned.
+
+Since the task requires some advance `Image Processing` techniques, we need to install some libraries first
 ```python
 from PIL import Image
 import random
