@@ -278,7 +278,10 @@ Write a rationale for a content rating. Write in 5-6 sentences. Don't use points
 
 Here's what to write:
 
-#writeRationaleHere
+- The task required to edit the script from the response, when the user asked to change x label and y label.
+- Did not do what the user wanted.
+- Did not replace the sample data code in lines 39-42
+- 
 
 ### Style Rationale
 
