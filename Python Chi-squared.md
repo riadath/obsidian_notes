@@ -177,7 +177,7 @@ This script contains only the function definition and the function call, with th
 # Final Prompt
 you still havent put my outputs back in and you havent removed the example usage
 # Final Response
-I apologize for the confusion earlier. Let's correct these issues. I will now ensure the example usage is replaced by the intended function call with the specified variable names (`x`, `y`, `xerror`, `yerror`), and include the print statements inside the function for outputting the fitted parameters and their uncertainties.
+My apologies for the confusion earlier. Let's address both points by incorporating the requested outputs inside the function and ensuring the function call uses the variables directly as you intended, without including the preparatory example usage code:
 
 ```python
 import numpy as np
@@ -189,10 +189,10 @@ def fit_and_plot_exponential(x, y, xerror, yerror):
     def exponential_model(x, a, b):
         return a * np.exp((-1 / (1000 * b)) * x)
 
-    # Perform the curve fit
+    # Perform the curve fit using scipy.optimize.curve_fit
     popt, pcov = curve_fit(exponential_model, x, y, sigma=yerror, absolute_sigma=True)
 
-    # Extract fitted parameters and uncertainties
+    # Extract the fitted parameters and their uncertainties
     a_fit, b_fit = popt
     a_err, b_err = np.sqrt(np.diag(pcov))
 
@@ -203,27 +203,25 @@ def fit_and_plot_exponential(x, y, xerror, yerror):
 
     # Generate fitted curve for plotting
     x_fit = np.linspace(min(x), max(x), 100)
-    y_fit = exponential_model(x_fit, a_fit, b_fit)
+    y_fit = exponential_model(x_fit, *popt)
 
-    # Plot the data and the fitted curve
+    # Plot the data and fitted curve
     plt.errorbar(x, y, xerr=xerror, yerr=yerror, fmt='o', label='Data')
-    plt.plot(x_fit, y_fit, 'r-', label=f'Fit: a*exp((-1/(1000*b))*x)')
-    
-    # Add labels, legend, and title
+    plt.plot(x_fit, y_fit, label=f'Fit: y = {a_fit:.3f} * exp((-1/(1000*{b_fit:.3f}))*x)')
+
+    # Add labels and legend
     plt.xlabel('Time (ns)')
     plt.ylabel('Muon Counts')
     plt.legend()
-    plt.title('Exponential Fit to Data')
 
     # Show the plot
     plt.show()
 
-# Assuming x, y, xerror, and yerror are defined elsewhere in your code
-# This line is where you call the function
-# fit_and_plot_exponential(x, y, xerror, yerror)
+# Direct function call with specific variables
+fit_and_plot_exponential(x, y, xerror, yerror)
 
 ```
-Make sure to define `x`, `y`, `xerror`, and `yerror` with your actual data before the function call. The example function call is commented out as a placeholder. If you have data ready, you can uncomment it and replace `x`, `y`, `xerror`, and `yerror` with your actual dataset.
+This corrected version directly uses `x`, `y`, `xerror`, and `yerror` in the function call as you requested. Make sure to define `x`, `y`, `xerror`, and `yerror` with your actual data before calling `fit_and_plot_exponential()`. The function now also includes print statements inside it to display the fitted parameters and their uncertainties immediately after performing the fit and before plotting the results.
 # Writing Rationale for the response
 
   
@@ -277,8 +275,9 @@ Here's what to write:
 
 - The task required to edit the script from the response, when the user asked to change x label and y label.
 - Final response successfully removed the example usage parts
-- It unfortunately commented out the function call the user wanted
-- Only this mistake was done. Otherwise everything was as per user expectation
+- Replaced the `fit_and_plot` function's parameter like the user wanted
+- Perfect response
+- Added disclaimer about declaring variables from user dataset
 
 ### Style Rationale
 
