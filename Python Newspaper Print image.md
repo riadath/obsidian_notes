@@ -44,41 +44,44 @@ It seems like there might have been a misunderstanding or a mix-up with code sni
 ```python
 from PIL import Image, ImageDraw, ImageFont
 
-# Assuming we're working with the previously created image
+# Assume we're working with the previously created newspaper layout dimensions
 width = 33  # inches
 height = 52  # inches
 dpi = 300
 pixels_width = int(width * dpi)
 pixels_height = int(height * dpi)
 
-# Create a white image
+# Create a white image with the specified dimensions
 paper = Image.new("RGB", (pixels_width, pixels_height), "white")
 
 # Initialize ImageDraw
 draw = ImageDraw.Draw(paper)
 
-# Define the text and font (using a built-in font for simplicity)
-text = "Hello, Newspaper!"
-font = ImageFont.load_default()  # Loads the default font
+# Specify font (default font with size 40)
+# For custom fonts, use ImageFont.truetype("font_path.ttf", font_size)
+font = ImageFont.load_default()
+
+# Example text
+text = "Hello, Newspaper World!"
 
 # Calculate text size
 text_width, text_height = draw.textsize(text, font)
 
-# Choose text position (top-left corner for this example)
-text_x = (pixels_width - text_width) / 2  # Center the text
-text_y = (pixels_height - text_height) / 2
+# Calculate position for the text (centered)
+x = (pixels_width - text_width) / 2
+y = (pixels_height - text_height) / 2
 
-# Add text to the image
-draw.text((text_x, text_y), text, fill="black", font=font)
+# Add text to image
+draw.text((x, y), text, fill="black", font=font)
 
-# Save the image
+# Save the modified image
 paper.save("newspaper_with_text.png")
 
 
 ```
-In this updated example, text is added to the center of the newspaper layout image. The `textsize` method is used in conjunction with a font object to measure the size of the text. Make sure that you're using the `textsize` method correctly by calling it on an `ImageDraw.Draw` object with the text and font as arguments.
+This example demonstrates how to properly add text to an image, including calculating the size of the text to center it on the page. If you encountered the `AttributeError` while trying to use `textsize` or any `ImageDraw` method, ensure that you are using `ImageDraw.Draw(image)` to create a drawable context for the image, and then use methods like `textsize` and `text` on the resulting `ImageDraw` object, as shown above.
 
-If the error persists or if it was encountered in a different context not covered by the initial scenario or this follow-up, please provide more details about the code you're running for more tailored assistance.
+If your issue was with a different part of your project or code, providing the specific code that caused the error would help in giving more precise guidance.
 # Writing Rationale for the response
 
   
@@ -132,7 +135,7 @@ Here's what to write:
 
 - Made correct assumption about DPI for news print
 - Made a reasonable guess that the user might be experimenting with `textsize`
-- Failed to recognize that `textsize` property actually does not exist
+- Failed to recognize that `textsize` function actually does not exist it's deprecated
 - Due to syntax error on line 21, the code does not run
 - Footnote has clear information regarding the code
 ### Style Rationale
