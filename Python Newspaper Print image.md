@@ -35,16 +35,14 @@ AttributeError: 'ImageDraw' object has no attribute 'textsize'
 
 # Final Response: 
 
-The error message you're seeing, `AttributeError: 'ImageDraw' object has no attribute 'textsize'`, typically occurs when you try to use a method or attribute that doesn't exist for a given object—in this case, the `textsize` method with an `ImageDraw` object from the Pillow library (PIL).
+The error message you encountered, `AttributeError: 'ImageDraw' object has no attribute 'textsize'`, typically occurs when trying to use the `textsize` method directly on an `ImageDraw` object. However, my previous code snippet for creating a paper layout for print newspaper did not involve drawing text or using the `textsize` method directly. The snippet provided was focused on creating a blank image with specific dimensions, and it should not produce this error since it doesn't attempt to draw text.
 
-However, in the example code I provided, there's no direct reference to `ImageDraw` or the `textsize` method. The example given is for creating a blank image file with specified dimensions, which shouldn't inherently cause the error you've encountered.
-
-If you're trying to add text to your image and facing this error, it might be because you're trying to use `textsize` incorrectly. The `textsize` method is indeed used to calculate the size of a given text string with the specified font, but it's a method of the `ImageDraw.Draw` class, not an attribute or a standalone function. Here's a quick example of how to use `textsize` correctly, including drawing text on an image:
+If you're looking to add text to your image and encountered this error while trying to measure the text size, here is how you should correctly use the `textsize` method with Pillow's `ImageDraw` module. The `textsize` method is used to calculate the size of a given text string, which is essential for positioning text accurately:
 
 ```python
 from PIL import Image, ImageDraw, ImageFont
 
-# Assuming you have a 300 DPI image as created in the previous example
+# Assuming we're working with the previously created image
 width = 33  # inches
 height = 52  # inches
 dpi = 300
@@ -54,28 +52,31 @@ pixels_height = int(height * dpi)
 # Create a white image
 paper = Image.new("RGB", (pixels_width, pixels_height), "white")
 
-# Create an ImageDraw object
+# Initialize ImageDraw
 draw = ImageDraw.Draw(paper)
 
-# Define the text and font (using a built-in PIL font here for simplicity)
+# Define the text and font (using a built-in font for simplicity)
 text = "Hello, Newspaper!"
-font = ImageFont.load_default()  # This is a basic, default font. For custom fonts, use ImageFont.truetype()
+font = ImageFont.load_default()  # Loads the default font
 
 # Calculate text size
 text_width, text_height = draw.textsize(text, font)
 
-# Specify the text position (top-left corner)
+# Choose text position (top-left corner for this example)
 text_x = (pixels_width - text_width) / 2  # Center the text
 text_y = (pixels_height - text_height) / 2
 
-# Add the text to the image
+# Add text to the image
 draw.text((text_x, text_y), text, fill="black", font=font)
 
-# Save the modified image
+# Save the image
 paper.save("newspaper_with_text.png")
 
+
 ```
-If you were attempting something similar and encountered the `AttributeError`, ensure you're using the `textsize` method on a `ImageDraw.Draw` object, as shown above. The example demonstrates not only creating a paper layout but also how to add centered text to it, using the `ImageDraw` module correctly.
+In this updated example, text is added to the center of the newspaper layout image. The `textsize` method is used in conjunction with a font object to measure the size of the text. Make sure that you're using the `textsize` method correctly by calling it on an `ImageDraw.Draw` object with the text and font as arguments.
+
+If the error persists or if it was encountered in a different context not covered by the initial scenario or this follow-up, please provide more details about the code you're running for more tailored assistance.
 # Writing Rationale for the response
 
   
@@ -130,7 +131,7 @@ Here's what to write:
 - Made correct assumption about DPI for news print
 - Made a reasonable guess that the user might be experimenting with `textsize`
 - Failed to recognize that `textsize` property actually does not exist
-- Due to syntax error on line 20, the code does not run
+- Due to syntax error on line 21, the code does not run
 - Footnote has clear information regarding the code
 ### Style Rationale
 
