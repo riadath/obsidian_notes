@@ -279,15 +279,17 @@ Write a rationale for a content rating. Write in 5-6 sentences. Don't use points
 Here's what to write:
 
 - The task required to edit the script from the response, when the user asked to change x label and y label.
-- Did not do what the user wanted.
-- Did not replace the sample data code in lines 39-42
-- 
+- Final response did not do what the user wanted.
+- Final resposenDid not replace the sample data code in lines 39-42
+- Replaced the `fit_and_plot_exponential` function's parameter with the user requested one
 
 ### Style Rationale
 
 Write the rationale in 1-2 sentences considering the points below. Write in paragraphs and don't use bullet points. Make it brief.
 
-#writeRationaleHere
+- Response code is properly written
+- It's easy to comprehend
+- Grammatically sound
 
   
 
