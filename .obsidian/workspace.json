@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70d8ab07889e4a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Chi-squared.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Newspaper Print image.md",
+                "file": "Python Chi-squared.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Newspaper Print image.md",
+                "file": "Python Chi-squared.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Newspaper Print image.md"
+                "file": "Python Chi-squared.md"
               }
             }
           },
@@ -289,11 +301,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c89a882c571759d",
+  "active": "70d8ab07889e4a23",
   "lastOpenFiles": [
-    "Python Image Processing.md",
-    "template.md",
     "Python Newspaper Print image.md",
+    "Python Chi-squared.md",
+    "template.md",
+    "Python Image Processing.md",
     "ideal response.md",
     "Scatterplot Seaborn.md",
     "Javascript to Java.md",
@@ -321,7 +334,6 @@
     "owl/archive/Rationales.md",
     "owl/archive/ideal palindrome.md",
     "owl/archive",
-    "owl/Grading Rubric.md",
     "owl",
     "bullshit",
     "Not Course Studies/Networking/Other Papers/Split_and_Federated_Learning_with_Mobility_in_Vehicular_Edge_Computing.pdf",
