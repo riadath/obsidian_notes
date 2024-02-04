@@ -280,8 +280,8 @@ Here's what to write:
 
 - The task required to edit the script from the response, when the user asked to change x label and y label.
 - Final response did not do what the user wanted.
-- Final resposenDid not replace the sample data code in lines 39-42
-- Replaced the `fit_and_plot_exponential` function's parameter with the user requested one
+- Final response Did not replace the sample data code in lines 39-42
+- Replaced the `fit_and_plot_exponential` function's parameter with the user requested one successfully
 
 ### Style Rationale
 
