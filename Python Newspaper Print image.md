@@ -35,18 +35,17 @@ AttributeError: 'ImageDraw' object has no attribute 'textsize'
 
 # Final Response: 
 
-The error message you're encountering, `AttributeError: 'ImageDraw' object has no attribute 'textsize'`, typically happens when you attempt to directly use a method on an `ImageDraw` object that isn't part of its method suite. In the code snippet I provided earlier, however, I didn't include operations involving `ImageDraw` or the `textsize` method specifically.
+The error you're encountering, `AttributeError: 'ImageDraw' object has no attribute 'textsize'`, suggests that there's a confusion regarding the method `textsize` from the Pillow library (PIL). The `textsize` method is indeed associated with `ImageDraw` objects in PIL, but it's used to get the size of a given text string with the specified font. It seems like there might have been a misunderstanding or a misuse of the `ImageDraw` object in your code.
 
-It seems like there might have been a misunderstanding or a mix-up with code snippets, especially if you're working on adding text to the image or measuring text size for layout purposes. To clarify and potentially resolve the confusion, I'll provide a sample code snippet on how to properly use `ImageDraw` along with the `textsize` method in the context of adding text to an image. This will be helpful if you're looking to include text elements in your newspaper layout.
-
-### Example: Adding Text to an Image and Using `textsize`
+To clarify and potentially rectify the situation, I'll demonstrate how to properly use the `textsize` method with an `ImageDraw` object, and how you can draw text on your newspaper layout image. This example will extend the previous example by adding a headline to the newspaper layout:
 
 ```python
 from PIL import Image, ImageDraw, ImageFont
 
-# Assume we're working with the previously created newspaper layout dimensions
-width = 33  # inches
-height = 52  # inches
+# Dimensions of the paper in inches
+width, height = 33, 52  # inches
+
+# Conversion factors from inches to pixels (assuming 300 DPI)
 dpi = 300
 pixels_width = int(width * dpi)
 pixels_height = int(height * dpi)
@@ -54,34 +53,35 @@ pixels_height = int(height * dpi)
 # Create a white image with the specified dimensions
 paper = Image.new("RGB", (pixels_width, pixels_height), "white")
 
-# Initialize ImageDraw
+# Initialize the drawing context
 draw = ImageDraw.Draw(paper)
 
-# Specify font (default font with size 40)
-# For custom fonts, use ImageFont.truetype("font_path.ttf", font_size)
-font = ImageFont.load_default()
+# Specify the font and size
+# If you don't have a specific font file, you can use a PIL built-in font.
+# For demonstration, we'll use a default font, but for production, you might want to specify a path to a TTF file.
+try:
+    font = ImageFont.truetype("arial.ttf", 40)  # Adjust the path and size as needed
+except IOError:
+    font = ImageFont.load_default()
 
-# Example text
-text = "Hello, Newspaper World!"
+# Define the text and get its size
+text = "The Daily Python"
+text_width, text_height = draw.textsize(text, font=font)
 
-# Calculate text size
-text_width, text_height = draw.textsize(text, font)
-
-# Calculate position for the text (centered)
+# Calculate the position for the text to be centered
 x = (pixels_width - text_width) / 2
 y = (pixels_height - text_height) / 2
 
-# Add text to image
+# Add the text to the image
 draw.text((x, y), text, fill="black", font=font)
 
-# Save the modified image
-paper.save("newspaper_with_text.png")
-
+# Save the image
+paper.save("newspaper_layout_with_headline.png")
 
 ```
-This example demonstrates how to properly add text to an image, including calculating the size of the text to center it on the page. If you encountered the `AttributeError` while trying to use `textsize` or any `ImageDraw` method, ensure that you are using `ImageDraw.Draw(image)` to create a drawable context for the image, and then use methods like `textsize` and `text` on the resulting `ImageDraw` object, as shown above.
+In this code, we first create the newspaper layout as before. Then, we initialize an `ImageDraw` object to draw on the paper. We define the text we want to add and use the `textsize` method to calculate the size of this text when rendered in the specified font. This allows us to calculate the coordinates (`x`, `y`) to position the text in the center of the page (or anywhere else as desired). Finally, we draw the text on the image and save the result.
 
-If your issue was with a different part of your project or code, providing the specific code that caused the error would help in giving more precise guidance.
+This should work without the AttributeError you mentioned, assuming you're using a version of Pillow (PIL) where `textsize` is correctly attributed to `ImageDraw` objects, which should be the case for all recent versions of Pillow
 # Writing Rationale for the response
 
   
@@ -134,6 +134,7 @@ Write a rationale for a content rating. Write in 5-6 sentences. Don't use points
 Here's what to write:
 
 - Made correct assumption about DPI for news print
+- Added good error handling in font selection
 - Made a reasonable guess that the user might be experimenting with `textsize`
 - Failed to recognize that `textsize` function actually does not exist it's deprecated
 - Due to syntax error on line 21, the code does not run
