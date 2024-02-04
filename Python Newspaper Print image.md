@@ -35,9 +35,11 @@ AttributeError: 'ImageDraw' object has no attribute 'textsize'
 
 # Final Response: 
 
-The error message you encountered, `AttributeError: 'ImageDraw' object has no attribute 'textsize'`, typically occurs when trying to use the `textsize` method directly on an `ImageDraw` object. However, my previous code snippet for creating a paper layout for print newspaper did not involve drawing text or using the `textsize` method directly. The snippet provided was focused on creating a blank image with specific dimensions, and it should not produce this error since it doesn't attempt to draw text.
+The error message you're encountering, `AttributeError: 'ImageDraw' object has no attribute 'textsize'`, typically happens when you attempt to directly use a method on an `ImageDraw` object that isn't part of its method suite. In the code snippet I provided earlier, however, I didn't include operations involving `ImageDraw` or the `textsize` method specifically.
 
-If you're looking to add text to your image and encountered this error while trying to measure the text size, here is how you should correctly use the `textsize` method with Pillow's `ImageDraw` module. The `textsize` method is used to calculate the size of a given text string, which is essential for positioning text accurately:
+It seems like there might have been a misunderstanding or a mix-up with code snippets, especially if you're working on adding text to the image or measuring text size for layout purposes. To clarify and potentially resolve the confusion, I'll provide a sample code snippet on how to properly use `ImageDraw` along with the `textsize` method in the context of adding text to an image. This will be helpful if you're looking to include text elements in your newspaper layout.
+
+### Example: Adding Text to an Image and Using `textsize`
 
 ```python
 from PIL import Image, ImageDraw, ImageFont
